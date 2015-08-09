@@ -17,3 +17,17 @@ angular.module('starter', ['ionic'])
     }
   });
 })
+
+.config(['$stateProvider', '$urlRouterProvider',
+  function($stateProvider, $urlRouterProvider){
+    'use strict';
+
+    $urlRouterProvider.otherwise('/');
+    
+    $stateProvider
+      .state('start', {
+        url: '/',
+        templateUrl: 'templates/start.html'
+      })
+  }
+]);
