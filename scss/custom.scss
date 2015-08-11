@@ -1,4 +1,4 @@
-// Wisc custom css
+// Custom css
 
 // ---SASS MIXINS
 @mixin material-box-shadow($level) {
@@ -26,14 +26,13 @@ $green-base: rgba(38, 194, 129, 1);
 $off-white-base: rgba(242, 241, 239, 1);
 $yellow-base: rgba(247, 202, 24, 1);
 
-// ---GLOBAL
-	// ---IONIC OVERRIDES
-	.view-container {
-		background: $green-base !important; // shame, needs improvement! 
-		.pane {
-			background-color: inherit;
-		}
+// ---IONIC OVERRIDES
+.view-container {
+	background: $green-base !important; // shame, needs improvement! 
+	.pane {
+		background-color: inherit;
 	}
+}
 
 // ---START PAGE
 .btn-start-pane {
