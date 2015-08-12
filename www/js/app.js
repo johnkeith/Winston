@@ -2,7 +2,8 @@
 
 var app = angular.module('starter', [
   'ionic',
-  'WOYControllers'
+  'WOYControllers',
+  'WOYServices'
 ])
 
 app.run(function($ionicPlatform) {
