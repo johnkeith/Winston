@@ -1,5 +1,10 @@
 <ion-view view-title="Start">
   <ion-content ng-controller="StartController">
-  	<h1>{{ funTest }}</h1>
+  	<ion-list show-reorder="showReorder">
+			<ion-item ng-repeat="recipe in recipes track by $index" item="recipe" class="item-remove-animate">
+				{{ recipe.recipeTitle }}
+				<ion-reorder-button class="ion-navicon" on-reorder="moveRecipe(recipe, $fromIndex, $toIndex)"></ion-reorder-button>
+			</ion-item>
+  	</ion-list>
   </ion-content>
 </ion-view>
