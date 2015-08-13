@@ -11,6 +11,10 @@ controllers.controller('StartController', ['$scope', 'RecipesService',
 	    $scope.recipes.splice(toIndex, 0, recipe);
 	  };
 		
-		$scope.recipes = RecipesService.getRandomRecipes();
+		$scope.recipes = RecipesService.getCurrentRecipes();
+
+		if(RecipesService.getCurrentRecipes().length == 0){
+			RecipesService.fillWithRandomRecipes();
+		}
 	}]
 );

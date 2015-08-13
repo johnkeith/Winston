@@ -2,7 +2,7 @@
 
 var services = angular.module('WOYServices', []);
 
-services.factory('RecipesService', ['$http', function($http){
+services.factory('RecipesService', ['$http', 'LocalStorage', function($http, LocalStorage){
 	var recipesService = {};
 	var currentRecipes = [];
 	
@@ -10,7 +10,7 @@ services.factory('RecipesService', ['$http', function($http){
 		return allRecipes[Math.floor(Math.random() * allRecipes.length)];
 	}
 
-	recipesService.getRandomRecipes = function(numberOfRecipes){
+	recipesService.fillWithRandomRecipes = function(numberOfRecipes){
 		if(typeof(numberOfRecipes) != 'number'){
 			numberOfRecipes = 7;
 		}
@@ -19,8 +19,21 @@ services.factory('RecipesService', ['$http', function($http){
 			currentRecipes.push(getRandomRecipe());
 		}
 
+		LocalStorage.setObject('currentRecipes', currentRecipes);
+	}
+
+	recipesService.getCurrentRecipes = function(){
 		return currentRecipes;
 	}
+
+	function activate(){
+		var stored = LocalStorage.getObject('currentRecipes');
+		if(stored.length > 0){
+			currentRecipes = stored;
+		}
+	}
+
+	activate();
 
 	var allRecipes = [
 		{
@@ -66,7 +79,7 @@ services.factory('RecipesService', ['$http', function($http){
 			"ingredients": []
 		},
 		{
-			"recipeTitle": "Baked Pasta with Butternut Squash & Kale",
+			"recipeTitle": "Baked Pasta with Butternut Squash & Kale and other stuff",
 			"sourceName": "Gusto Required",
 			"sourceHref": "http://gustorequired.com/2014/11/24/baked-pasta-with-butternut-squash-kale/",
 			"cuisineType": "vegetarian",
