@@ -5,6 +5,7 @@
   <ion-content >
   	<ion-list show-reorder="showReorder">
 			<ion-item ng-repeat="recipe in recipes track by $index" item="recipe" class="item-remove-animate">
+			  <span class="item-note">{{ daysOfWeek[$index] }}</span>
 				{{ recipe.recipeTitle }}
 				<ion-reorder-button class="ion-navicon" on-reorder="moveRecipe(recipe, $fromIndex, $toIndex)"></ion-reorder-button>
 			</ion-item>

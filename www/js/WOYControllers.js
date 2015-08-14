@@ -4,6 +4,7 @@ var controllers = angular.module('WOYControllers', []);
 
 controllers.controller('StartController', ['$scope', 'RecipesService',
 	function($scope, RecipesService){
+		$scope.daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 		$scope.showReorder = false;
 		
 		$scope.toggleReorder = function(){
