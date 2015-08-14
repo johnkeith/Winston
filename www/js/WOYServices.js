@@ -31,6 +31,13 @@ services.factory('RecipesService', ['$http', 'LocalStorage', function($http, Loc
     LocalStorage.setObject('currentRecipes', currentRecipes);
 	}
 
+	recipesService.removeFromCurrentRecipes = function(index){
+		currentRecipes.splice(index, 1);
+		currentRecipes.splice(index, 0, { "recipeTitle": "None..." });
+
+		LocalStorage.setObject('currentRecipes', currentRecipes);
+	}
+
 	recipesService.getCurrentRecipes = function(){
 		return currentRecipes;
 	}

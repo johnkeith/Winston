@@ -2,8 +2,8 @@
 
 var controllers = angular.module('WOYControllers', []);
 
-controllers.controller('StartController', ['$scope', 'RecipesService',
-	function($scope, RecipesService){
+controllers.controller('StartController', ['$scope', 'RecipesService', '$ionicListDelegate',
+	function($scope, RecipesService, $ionicListDelegate){
 		$scope.daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 		$scope.showReorder = false;
 		$scope.listCanSwipe = true;
@@ -15,6 +15,11 @@ controllers.controller('StartController', ['$scope', 'RecipesService',
 		$scope.moveRecipe = function(recipe, fromIndex, toIndex) {
 	    RecipesService.changeCurrentRecipesOrder(recipe, fromIndex, toIndex);
 	  };
+
+	  $scope.removeRecipe = function(index){
+	  	RecipesService.removeFromCurrentRecipes(index);
+	  	$ionicListDelegate.closeOptionButtons();
+	  }
 
 		$scope.recipes = RecipesService.getCurrentRecipes;
 
