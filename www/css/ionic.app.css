@@ -7697,6 +7697,8 @@ a.button {
   background: #26c281 !important; }
   .view-container .pane {
     background-color: inherit; }
+    .view-container .pane .bar-footer .row {
+      padding: 0; }
 
 .btn-start-pane {
   position: relative; }

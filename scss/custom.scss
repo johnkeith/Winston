@@ -31,6 +31,11 @@ $yellow-base: rgba(247, 202, 24, 1);
 	background: $green-base !important; // shame, needs improvement! 
 	.pane {
 		background-color: inherit;
+    .bar-footer {
+      .row {
+        padding: 0;
+      }
+    }
 	}
 }
 
