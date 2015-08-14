@@ -7,7 +7,7 @@
 			<ion-item ng-repeat="recipe in recipes() track by $index" item="recipe" class="item-remove-animate" ng-class="{'item-complex-shift-left': showReorder}">
 			  <span class="item-note">{{ daysOfWeek[$index] }}</span>
 				{{ recipe.recipeTitle }}
-				<ion-option-button class="button-positive"
+				<ion-option-button class="button-calm"
                        ng-click="share(item)">
 		      <i class="icon ion-heart"></i>
 		    </ion-option-button>
@@ -29,9 +29,9 @@
 	</div> -->
 	<div class="bar bar-footer">
 		<div class="row">
-			<button class="col button button-clear" ng-click=""><i class="icon ion-funnel"></i></button>
-			<button class="col button button-clear" ng-click="getAllNewRecipes()"><i class="icon ion-refresh"></i></button>
-			<button class="col button button-clear" ng-click="toggleReorder()"><i class="icon ion-navicon-round"></i></button>
+			<button class="col button button-light" ng-click=""><i class="icon ion-funnel"></i></button>
+			<button class="col button button-energized" ng-click="getAllNewRecipes()"><i class="icon ion-refresh"></i></button>
+			<button class="col button button-light" ng-click="toggleReorder()"><i class="icon ion-navicon-round"></i></button>
 		</div>
 	</div>
 </ion-view>

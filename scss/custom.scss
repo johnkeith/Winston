@@ -28,7 +28,7 @@ $yellow-base: rgba(247, 202, 24, 1);
 
 // ---IONIC OVERRIDES
 .view-container {
-	background: $green-base !important; // shame, needs improvement! 
+	background: $calm !important; // shame, needs improvement! 
 	.pane {
 		background-color: inherit;
     ion-item {
@@ -49,8 +49,12 @@ $yellow-base: rgba(247, 202, 24, 1);
       }
     }
     .bar-footer {
+      padding: 0;
       .row {
         padding: 0;
+        button {
+          border-radius: 0;
+        }
       }
     }
 	}

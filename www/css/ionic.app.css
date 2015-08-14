@@ -7694,7 +7694,7 @@ a.button {
   transition-duration: 0s; }
 
 .view-container {
-  background: #26c281 !important; }
+  background: #11c1f3 !important; }
   .view-container .pane {
     background-color: inherit; }
     .view-container .pane ion-item.item-complex .item-content {
@@ -7703,8 +7703,12 @@ a.button {
       padding-right: 80px; }
     .view-container .pane ion-item ion-option-button i {
       margin-left: 5px; }
-    .view-container .pane .bar-footer .row {
+    .view-container .pane .bar-footer {
       padding: 0; }
+      .view-container .pane .bar-footer .row {
+        padding: 0; }
+        .view-container .pane .bar-footer .row button {
+          border-radius: 0; }
 
 .btn-start-pane {
   position: relative; }
