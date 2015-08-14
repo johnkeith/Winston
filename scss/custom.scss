@@ -37,6 +37,11 @@ $yellow-base: rgba(247, 202, 24, 1);
           padding: 16px;
         }
       }
+      &.item-complex-shift-left {
+        .item-content {
+          padding-right: 80px;
+        }
+      }
       .day-of-week {
         float: right;
       }

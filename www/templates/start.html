@@ -4,7 +4,7 @@
   </ion-header-bar>
   <ion-content >
   	<ion-list show-reorder="showReorder">
-			<ion-item ng-repeat="recipe in recipes track by $index" item="recipe" class="item-remove-animate">
+			<ion-item ng-repeat="recipe in recipes track by $index" item="recipe" class="item-remove-animate" ng-class="{'item-complex-shift-left': showReorder}">
 			  <span class="item-note">{{ daysOfWeek[$index] }}</span>
 				{{ recipe.recipeTitle }}
 				<ion-reorder-button class="ion-navicon" on-reorder="moveRecipe(recipe, $fromIndex, $toIndex)"></ion-reorder-button>
@@ -24,3 +24,6 @@
 		</div>
 	</div>
 </ion-view>
+<!-- 
+
+ng-class="[{'tt-radio': activeAssumption.scenario != scenario || activeAssumption.id != null},{'tt-radio-checked': activeAssumption.scenario == scenario && activeAssumption.id == null}]" -->

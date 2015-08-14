@@ -7699,6 +7699,8 @@ a.button {
     background-color: inherit; }
     .view-container .pane ion-item.item-complex .item-content {
       padding: 16px; }
+    .view-container .pane ion-item.item-complex-shift-left .item-content {
+      padding-right: 80px; }
     .view-container .pane ion-item .day-of-week {
       float: right; }
     .view-container .pane .bar-footer .row {
