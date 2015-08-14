@@ -4,7 +4,11 @@ var controllers = angular.module('WOYControllers', []);
 
 controllers.controller('StartController', ['$scope', 'RecipesService',
 	function($scope, RecipesService){
-		$scope.showReorder = true;
+		$scope.showReorder = false;
+		
+		$scope.toggleReorder = function(){
+			$scope.showReorder = !$scope.showReorder;
+		}
 		
 		$scope.moveRecipe = function(recipe, fromIndex, toIndex) {
 	    $scope.recipes.splice(fromIndex, 1);
