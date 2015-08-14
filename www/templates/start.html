@@ -3,10 +3,21 @@
     <h1 class="title">Title</h1>
   </ion-header-bar>
   <ion-content >
-  	<ion-list show-reorder="showReorder">
-			<ion-item ng-repeat="recipe in recipes track by $index" item="recipe" class="item-remove-animate" ng-class="{'item-complex-shift-left': showReorder}">
+  	<ion-list show-reorder="showReorder" can-swipe="listCanSwipe">
+			<ion-item ng-repeat="recipe in recipes() track by $index" item="recipe" class="item-remove-animate" ng-class="{'item-complex-shift-left': showReorder}">
 			  <span class="item-note">{{ daysOfWeek[$index] }}</span>
 				{{ recipe.recipeTitle }}
+				<ion-option-button class="button-positive"
+                       ng-click="share(item)">
+		      <i class="icon ion-heart"></i>
+		    </ion-option-button>
+		    <ion-option-button class="button-assertive"
+		                       ng-click="edit(item)">
+		      <i class="icon ion-trash-a"></i>
+		    </ion-option-button>
+		    <ion-option-button class="button-energized"ng-click="edit(item)">
+		      <i class="icon ion-refresh"></i>
+		    </ion-option-button>
 				<ion-reorder-button class="ion-navicon" on-reorder="moveRecipe(recipe, $fromIndex, $toIndex)"></ion-reorder-button>
 			</ion-item>
   	</ion-list>

@@ -42,8 +42,10 @@ $yellow-base: rgba(247, 202, 24, 1);
           padding-right: 80px;
         }
       }
-      .day-of-week {
-        float: right;
+      ion-option-button {
+        i {
+          margin-left: 5px;
+        }
       }
     }
     .bar-footer {

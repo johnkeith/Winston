@@ -7701,8 +7701,8 @@ a.button {
       padding: 16px; }
     .view-container .pane ion-item.item-complex-shift-left .item-content {
       padding-right: 80px; }
-    .view-container .pane ion-item .day-of-week {
-      float: right; }
+    .view-container .pane ion-item ion-option-button i {
+      margin-left: 5px; }
     .view-container .pane .bar-footer .row {
       padding: 0; }
 

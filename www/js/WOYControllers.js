@@ -6,6 +6,7 @@ controllers.controller('StartController', ['$scope', 'RecipesService',
 	function($scope, RecipesService){
 		$scope.daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 		$scope.showReorder = false;
+		$scope.listCanSwipe = true;
 		
 		$scope.toggleReorder = function(){
 			$scope.showReorder = !$scope.showReorder;
@@ -14,8 +15,8 @@ controllers.controller('StartController', ['$scope', 'RecipesService',
 		$scope.moveRecipe = function(recipe, fromIndex, toIndex) {
 	    RecipesService.changeCurrentRecipesOrder(recipe, fromIndex, toIndex);
 	  };
-		
-		$scope.recipes = RecipesService.getCurrentRecipes();
+
+		$scope.recipes = RecipesService.getCurrentRecipes;
 
 		if(RecipesService.getCurrentRecipes().length == 0){
 			RecipesService.fillWithRandomRecipes();
@@ -23,7 +24,6 @@ controllers.controller('StartController', ['$scope', 'RecipesService',
 
 		$scope.getAllNewRecipes = function(){
 			RecipesService.fillWithRandomRecipes();
-			$scope.recipes = RecipesService.getCurrentRecipes();
 		}
 	}]
 );
