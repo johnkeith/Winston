@@ -21,6 +21,11 @@ controllers.controller('StartController', ['$scope', 'RecipesService', '$ionicLi
 	  	$ionicListDelegate.closeOptionButtons();
 	  }
 
+	  $scope.refreshRecipe = function(index){
+	  	RecipesService.refreshRecipeAtIndex(index);
+	  	$ionicListDelegate.closeOptionButtons();
+	  }
+
 		$scope.recipes = RecipesService.getCurrentRecipes;
 
 		if(RecipesService.getCurrentRecipes().length == 0){

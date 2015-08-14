@@ -10,6 +10,10 @@ services.factory('RecipesService', ['$http', 'LocalStorage', function($http, Loc
 		return allRecipes[Math.floor(Math.random() * allRecipes.length)];
 	}
 
+	var saveCurrentRecipes = function(){
+		LocalStorage.setObject('currentRecipes', currentRecipes);
+	}
+
 	recipesService.fillWithRandomRecipes = function(numberOfRecipes){
 		currentRecipes = [];
 
@@ -21,21 +25,28 @@ services.factory('RecipesService', ['$http', 'LocalStorage', function($http, Loc
 			currentRecipes.push(getRandomRecipe());
 		}
 
-		LocalStorage.setObject('currentRecipes', currentRecipes);
+		saveCurrentRecipes();
 	}
 
 	recipesService.changeCurrentRecipesOrder = function(recipe, fromIndex, toIndex){
 		currentRecipes.splice(fromIndex, 1);
     currentRecipes.splice(toIndex, 0, recipe);
 
-    LocalStorage.setObject('currentRecipes', currentRecipes);
+    saveCurrentRecipes();
 	}
 
 	recipesService.removeFromCurrentRecipes = function(index){
 		currentRecipes.splice(index, 1);
 		currentRecipes.splice(index, 0, { "recipeTitle": "None..." });
 
-		LocalStorage.setObject('currentRecipes', currentRecipes);
+		saveCurrentRecipes();
+	}
+
+	recipesService.refreshRecipeAtIndex = function(index){
+		currentRecipes.splice(index, 1);
+		currentRecipes.splice(index, 0, getRandomRecipe());
+
+		saveCurrentRecipes();
 	}
 
 	recipesService.getCurrentRecipes = function(){
