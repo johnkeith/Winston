@@ -11,6 +11,8 @@ services.factory('RecipesService', ['$http', 'LocalStorage', function($http, Loc
 	}
 
 	recipesService.fillWithRandomRecipes = function(numberOfRecipes){
+		currentRecipes = [];
+
 		if(typeof(numberOfRecipes) != 'number'){
 			numberOfRecipes = 7;
 		}
@@ -20,6 +22,13 @@ services.factory('RecipesService', ['$http', 'LocalStorage', function($http, Loc
 		}
 
 		LocalStorage.setObject('currentRecipes', currentRecipes);
+	}
+
+	recipesService.changeCurrentRecipesOrder = function(recipe, fromIndex, toIndex){
+		currentRecipes.splice(fromIndex, 1);
+    currentRecipes.splice(toIndex, 0, recipe);
+
+    LocalStorage.setObject('currentRecipes', currentRecipes);
 	}
 
 	recipesService.getCurrentRecipes = function(){

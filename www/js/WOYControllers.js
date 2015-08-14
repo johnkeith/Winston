@@ -12,14 +12,18 @@ controllers.controller('StartController', ['$scope', 'RecipesService',
 		}
 		
 		$scope.moveRecipe = function(recipe, fromIndex, toIndex) {
-	    $scope.recipes.splice(fromIndex, 1);
-	    $scope.recipes.splice(toIndex, 0, recipe);
+	    RecipesService.changeCurrentRecipesOrder(recipe, fromIndex, toIndex);
 	  };
 		
 		$scope.recipes = RecipesService.getCurrentRecipes();
 
 		if(RecipesService.getCurrentRecipes().length == 0){
 			RecipesService.fillWithRandomRecipes();
+		}
+
+		$scope.getAllNewRecipes = function(){
+			RecipesService.fillWithRandomRecipes();
+			$scope.recipes = RecipesService.getCurrentRecipes();
 		}
 	}]
 );
