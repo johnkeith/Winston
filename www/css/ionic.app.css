@@ -7710,6 +7710,10 @@ a.button {
         .view-container .pane .bar-footer .row button {
           border-radius: 0; }
 
+.button-subtext {
+  display: block;
+  margin-top: -18px; }
+
 .btn-start-pane {
   position: relative; }
   .btn-start-pane .btn {
