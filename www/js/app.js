@@ -23,9 +23,23 @@ app.config(['$stateProvider', '$urlRouterProvider',
     $urlRouterProvider.otherwise('/');
     
     $stateProvider
-      .state('start', {
-        url: '/',
-        templateUrl: 'templates/start.html',
+      .state('tabs', {
+        url: "/tab",
+        abstract: true,
+        templateUrl: "templates/tabs.html"
       })
+      .state('tabs.menu', {
+        url: "/menu",
+        views: {
+          'menu-tab': {
+            templateUrl: "templates/menu.html",
+          }
+        }
+      })
+      // .state('start', {
+      //   url: '/',
+      //   templateUrl: 'templates/start.html',
+      // })
+    $urlRouterProvider.otherwise("/tab/menu");
   }
 ]);
