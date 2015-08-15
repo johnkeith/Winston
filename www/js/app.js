@@ -36,6 +36,14 @@ app.config(['$stateProvider', '$urlRouterProvider',
           }
         }
       })
+      .state('tabs.groceries', {
+        url: "/groceries",
+        views: {
+          'groceries-tab': {
+            templateUrl: "templates/groceries.html",
+          }
+        }
+      })
       // .state('start', {
       //   url: '/',
       //   templateUrl: 'templates/start.html',

@@ -1,8 +1,9 @@
 <ion-view view-title="Menu" ng-controller="StartController">
-<!-- 	<ion-header-bar align-title="center" class="bar-light">
-    <h1 class="title">Title</h1>
-    <button class="button button-light"><i class="icon ion-bag"></i></button>
-  </ion-header-bar> -->
+  <ion-nav-buttons side="right">
+    <button class="button" ng-click="toggleReorder()">
+      <i class="icon ion-navicon-round"></i>
+    </button>
+  </ion-nav-buttons>
   <ion-content >
   	<ion-list show-reorder="showReorder" can-swipe="listCanSwipe">
 			<ion-item ng-repeat="recipe in recipes() track by $index" item="recipe" class="item-remove-animate item-source-link" ng-class="{'item-complex-shift-left': showReorder}" href="{{ recipe.sourceHref }}">
@@ -29,7 +30,7 @@
 		<div class="row">
 			<!-- <button class="col button button-light" ng-click=""><i class="icon ion-funnel"></i></button> -->
 			<button class="col button button-energized" ng-click="getAllNewRecipes()"><i class="icon ion-refresh"></i><span class="button-subtext">Refresh</span></button>
-			<button class="col button button-light" ng-click="toggleReorder()"><i class="icon ion-navicon-round"></i><span class="button-subtext">Reorder</span></button>
+			<!-- <button class="col button button-light" ng-click="toggleReorder()"><i class="icon ion-navicon-round"></i><span class="button-subtext">Reorder</span></button> -->
 		</div>
 	</div>
 </ion-view>
