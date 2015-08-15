@@ -66,35 +66,35 @@ services.factory('RecipesService', ['$http', 'LocalStorage', function($http, Loc
 		{
 			"recipeTitle": "Golden Bowl",
 			"sourceName": "The Grit",
-			"sourceHref": "www.thegrit.com",
+			"sourceHref": "http://www.thegrit.com",
 			"cuisineType": "vegetarian",
 			"ingredients": []
 		},
 		{
 			"recipeTitle": "Coconut Shrimp Curry",
 			"sourceName": "Gusto Required",
-			"sourceHref": "www.gustorequired.com",
+			"sourceHref": "http://www.gustorequired.com",
 			"cuisineType": "pescatarian",
 			"ingredients": []
 		},
 		{
 			"recipeTitle": "Big Juicy Steak",
 			"sourceName": "Sassy Kitchen",
-			"sourceHref": "www.sassysatthegrill.com",
+			"sourceHref": "http://www.sassysatthegrill.com",
 			"cuisineType": "omnivore",
 			"ingredients": []
 		},
 		{
 			"recipeTitle": "Chicago-style Pizza",
 			"sourceName": "John\"s Brain",
-			"sourceHref": "www.johnkeith.us",
+			"sourceHref": "http://www.johnkeith.us",
 			"cuisineType": "vegetarian",
 			"ingredients": []
 		},
 		{
 			"recipeTitle": "Red Beans and Rice",
 			"sourceName": "Gusto Required",
-			"sourceHref": "www.gustorequired.com",
+			"sourceHref": "http://www.gustorequired.com",
 			"cuisineType": "vegetarian",
 			"ingredients": []
 		},
