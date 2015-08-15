@@ -34,6 +34,7 @@ controllers.controller('StartController', ['$scope', 'RecipesService', '$ionicLi
 
 		$scope.getAllNewRecipes = function(){
 			RecipesService.fillWithRandomRecipes();
+			$scope.$broadcast('scroll.refreshComplete');
 		}
 	}]
 );
