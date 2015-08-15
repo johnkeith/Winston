@@ -5,7 +5,7 @@
   </ion-header-bar>
   <ion-content >
   	<ion-list show-reorder="showReorder" can-swipe="listCanSwipe">
-			<ion-item ng-repeat="recipe in recipes() track by $index" item="recipe" class="item-remove-animate" ng-class="{'item-complex-shift-left': showReorder}" >
+			<ion-item ng-repeat="recipe in recipes() track by $index" item="recipe" class="item-remove-animate item-source-link" ng-class="{'item-complex-shift-left': showReorder}" href="{{ recipe.sourceHref }}">
 			  <span class="item-note">{{ daysOfWeek[$index] }}</span>
 				
 				<span class="item-source-link" href="{{ recipe.sourceHref }}">{{ recipe.recipeTitle }}</span>
