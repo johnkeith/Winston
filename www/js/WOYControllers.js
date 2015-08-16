@@ -4,9 +4,13 @@ var controllers = angular.module('WOYControllers', []);
 
 controllers.controller('StartController', ['$scope', 'RecipesService', '$ionicListDelegate',
 	function($scope, RecipesService, $ionicListDelegate){
-		$scope.daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 		$scope.showReorder = false;
 		$scope.listCanSwipe = true;
+		$scope.recipes = RecipesService.getCurrentRecipes;
+
+		if(RecipesService.getCurrentRecipes().length == 0){
+			RecipesService.fillWithRandomRecipes();
+		}
 		
 		$scope.toggleReorder = function(){
 			$scope.showReorder = !$scope.showReorder;
@@ -25,12 +29,6 @@ controllers.controller('StartController', ['$scope', 'RecipesService', '$ionicLi
 	  	RecipesService.refreshRecipeAtIndex(index);
 	  	$ionicListDelegate.closeOptionButtons();
 	  }
-
-		$scope.recipes = RecipesService.getCurrentRecipes;
-
-		if(RecipesService.getCurrentRecipes().length == 0){
-			RecipesService.fillWithRandomRecipes();
-		}
 
 		$scope.getAllNewRecipes = function(){
 			RecipesService.fillWithRandomRecipes();

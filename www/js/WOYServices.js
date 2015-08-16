@@ -5,6 +5,10 @@ var services = angular.module('WOYServices', []);
 services.factory('RecipesService', ['$http', 'LocalStorage', function($http, LocalStorage){
 	var recipesService = {};
 	var currentRecipes = [];
+	var daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday',
+		'Friday', 'Saturday']
+	var monthsOfYear = ['January', 'February', 'March', 'April', 'May', 'June',
+		'July', 'August', 'September', 'October', 'Novemeber', 'December']
 	
 	var getRandomRecipe = function(){
 		return allRecipes[Math.floor(Math.random() * allRecipes.length)];
@@ -14,6 +18,14 @@ services.factory('RecipesService', ['$http', 'LocalStorage', function($http, Loc
 		LocalStorage.setObject('currentRecipes', currentRecipes);
 	}
 
+	var constructDateForRecipe = function(i){
+		var d = new Date();
+		d.setDate(d.getDate() + i);
+
+		return daysOfWeek[d.getDay()] + ' ' + monthsOfYear[d.getMonth()] + ' ' + 
+			d.getUTCDate() + ', ' + (d.getYear() + 1900);
+	}
+
 	recipesService.fillWithRandomRecipes = function(numberOfRecipes){
 		currentRecipes = [];
 
@@ -21,8 +33,10 @@ services.factory('RecipesService', ['$http', 'LocalStorage', function($http, Loc
 			numberOfRecipes = 7;
 		}
 
-		for(var i = 1; i <= numberOfRecipes; i++){
-			currentRecipes.push(getRandomRecipe());
+		for(var i = 0; i < numberOfRecipes; i++){
+			var ds = constructDateForRecipe(i);
+
+			currentRecipes.push({ date: ds, recipe: getRandomRecipe()});
 		}
 
 		saveCurrentRecipes();
