@@ -23,35 +23,27 @@ app.config(['$stateProvider', '$urlRouterProvider',
     $urlRouterProvider.otherwise('/');
     
     $stateProvider
-      .state('tabs', {
-        url: "/tab",
+      .state('pages', {
+        url: "/pages",
         abstract: true,
-        templateUrl: "templates/tabs.html"
+        templateUrl: "templates/left-sidebar.html"
       })
-      .state('tabs.menu', {
-        url: "/menu",
+      .state('pages.meals', {
+        url: "/meals",
         views: {
-          'menu-tab': {
-            templateUrl: "templates/menu.html",
+          'pages': {
+            templateUrl: "templates/meals.html",
           }
         }
       })
-      .state('tabs.groceries', {
+      .state('pages.groceries', {
         url: "/groceries",
         views: {
-          'groceries-tab': {
+          'pages': {
             templateUrl: "templates/groceries.html",
           }
         }
       })
-      .state('tabs.settings', {
-        url: "/settings",
-        views: {
-          'settings-tab': {
-            templateUrl: "templates/settings.html",
-          }
-        }
-      })
-    $urlRouterProvider.otherwise("/tab/menu");
+    $urlRouterProvider.otherwise("/pages/meals");
   }
 ]);
