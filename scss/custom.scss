@@ -23,12 +23,12 @@
 
 // ---COLORS
 $green-base: rgba(38, 194, 129, 1);
-$off-white-base: rgba(242, 241, 239, 1);
+// $off-white-base: rgba(242, 241, 239, 1);
 $yellow-base: rgba(247, 202, 24, 1);
 
 // ---IONIC OVERRIDES
 .view-container {
-	background: $calm !important; // shame, needs improvement! 
+	background: $stable !important; // shame, needs improvement! 
 	.pane {
 		background-color: inherit;
     ion-item {

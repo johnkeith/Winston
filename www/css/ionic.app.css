@@ -7694,7 +7694,7 @@ a.button {
   transition-duration: 0s; }
 
 .view-container {
-  background: #11c1f3 !important; }
+  background: #f8f8f8 !important; }
   .view-container .pane {
     background-color: inherit; }
     .view-container .pane ion-item.item-complex .item-content {
