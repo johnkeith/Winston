@@ -7,6 +7,7 @@ directives.directive('ionItemWithDivider', [function(){
 		restrict: 'E',
 		scope: {
 			"recipeInfo": "=",
+			"showReorder": "="
 		},
 		templateUrl: 'templates/ion-item-with-divider.html'
 	}

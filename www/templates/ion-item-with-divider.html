@@ -1,4 +1,4 @@
-<div class="item item-divider">{{ recipeInfo.date }}</div>
+<div ng-show="!showReorder" class="item item-divider">{{ recipeInfo.date }}</div>
 <ion-item item="recipeInfo" class="item-remove-animate item-source-link" href="{{ recipeInfo.recipe.sourceHref }}">				
 	<span class="item-source-link" href="{{ recipeInfo.recipe.sourceHref }}">{{ recipeInfo.recipe.recipeTitle }}</span>
 	

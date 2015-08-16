@@ -12,7 +12,7 @@
 	    pulling-icon="ion-arrow-down-b">
 	  </ion-refresher>
   	<ion-list show-reorder="showReorder" can-swipe="listCanSwipe">
-  		<ion-item-with-divider ng-repeat="recipeInfo in recipes() track by $index" recipe-info="recipeInfo"></ion-item-with-divider>
+  		<ion-item-with-divider show-reorder="showReorder" ng-repeat="recipeInfo in recipes() track by $index" recipe-info="recipeInfo"></ion-item-with-divider>
 			<!-- <ion-item ng-repeat="recipe in recipes() track by $index" item="recipe" class="item-remove-animate item-source-link" ng-class="{'item-complex-shift-left': showReorder}" href="{{ recipe.sourceHref }}">
 			  <span class="item-note">{{ daysOfWeek[$index] }}</span>
 				
