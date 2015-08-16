@@ -65,6 +65,14 @@ $yellow-base: rgba(247, 202, 24, 1);
   margin-top: -18px;
 }
 
+.menu-instructions {
+  color: $scroll-refresh-icon-color;
+  font-size: 16px;
+  line-height: 16px;
+  padding: 10px 0 10px 0;
+  text-align: center;
+}
+
 // ---START PAGE
 .btn-start-pane {
 	position: relative;

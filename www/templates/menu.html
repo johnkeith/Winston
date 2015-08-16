@@ -7,8 +7,9 @@
   </ion-nav-buttons>
   <ion-content >
 	  <ion-refresher
-	    pulling-text="Pull to refresh your menu..."
-	    on-refresh="getAllNewRecipes()">
+	    pulling-text="Release for a week of new recipes..."
+	    on-refresh="getAllNewRecipes()"
+	    pulling-icon="ion-arrow-down-b">
 	  </ion-refresher>
   	<ion-list show-reorder="showReorder" can-swipe="listCanSwipe">
 			<ion-item ng-repeat="recipe in recipes() track by $index" item="recipe" class="item-remove-animate item-source-link" ng-class="{'item-complex-shift-left': showReorder}" href="{{ recipe.sourceHref }}">
@@ -30,6 +31,9 @@
 				<ion-reorder-button class="ion-navicon" on-reorder="moveRecipe(recipe, $fromIndex, $toIndex)"></ion-reorder-button>
 			</ion-item>
   	</ion-list>
+  	<div class="menu-instructions">
+  		Pull down to refresh your menu
+  	</div>
   </ion-content>
 	<div class="bar bar-footer">
 		<div class="row">
