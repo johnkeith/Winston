@@ -44,10 +44,14 @@ app.config(['$stateProvider', '$urlRouterProvider',
           }
         }
       })
-      // .state('start', {
-      //   url: '/',
-      //   templateUrl: 'templates/start.html',
-      // })
+      .state('tabs.settings', {
+        url: "/settings",
+        views: {
+          'settings-tab': {
+            templateUrl: "templates/settings.html",
+          }
+        }
+      })
     $urlRouterProvider.otherwise("/tab/menu");
   }
 ]);

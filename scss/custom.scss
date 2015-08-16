@@ -35,6 +35,8 @@ $yellow-base: rgba(247, 202, 24, 1);
       &.item-complex {
         .item-content {
           padding: 16px;
+          -webkit-transition: all ease-in-out 250ms;
+          transition: all ease-in-out 250ms;
         }
       }
       &.item-complex-shift-left {

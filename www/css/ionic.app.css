@@ -7698,7 +7698,9 @@ a.button {
   .view-container .pane {
     background-color: inherit; }
     .view-container .pane ion-item.item-complex .item-content {
-      padding: 16px; }
+      padding: 16px;
+      -webkit-transition: all ease-in-out 250ms;
+      transition: all ease-in-out 250ms; }
     .view-container .pane ion-item.item-complex-shift-left .item-content {
       padding-right: 80px; }
     .view-container .pane ion-item ion-option-button i {
