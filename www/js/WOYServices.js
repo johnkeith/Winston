@@ -22,7 +22,7 @@ services.factory('RecipesService', ['$http', 'LocalStorage', function($http, Loc
 		var d = new Date();
 		d.setDate(d.getDate() + i);
 
-		return daysOfWeek[d.getDay()] + ' ' + monthsOfYear[d.getMonth()] + ' ' + 
+		return daysOfWeek[d.getDay()] + ' - ' + monthsOfYear[d.getMonth()] + ' ' + 
 			d.getUTCDate() + ', ' + (d.getYear() + 1900);
 	}
 
@@ -50,15 +50,13 @@ services.factory('RecipesService', ['$http', 'LocalStorage', function($http, Loc
 	}
 
 	recipesService.removeFromCurrentRecipes = function(index){
-		currentRecipes.splice(index, 1);
-		currentRecipes.splice(index, 0, { "recipeTitle": "None..." });
+		currentRecipes[index].recipe = { "recipeTitle": "None..." };
 
 		saveCurrentRecipes();
 	}
 
 	recipesService.refreshRecipeAtIndex = function(index){
-		currentRecipes.splice(index, 1);
-		currentRecipes.splice(index, 0, getRandomRecipe());
+		currentRecipes[index].recipe = getRandomRecipe();
 
 		saveCurrentRecipes();
 	}

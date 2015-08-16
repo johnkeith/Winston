@@ -1,13 +1,14 @@
-<div ng-show="!showReorder" class="item item-divider">{{ recipeInfo.date }}</div>
+<div class="item item-divider">{{ recipeInfo.date }}</div>
 <ion-item item="recipeInfo" class="item-remove-animate item-source-link" href="{{ recipeInfo.recipe.sourceHref }}">				
 	<span class="item-source-link" href="{{ recipeInfo.recipe.sourceHref }}">{{ recipeInfo.recipe.recipeTitle }}</span>
-	
-  <ion-option-button class="button-assertive" ng-click="removeRecipe($index)">
+	<!-- NEED TO PASS ALL THESE FUNCTIONS THROUGH DIRECTIVE AS REFERENCES FROM CONTROLLER cf. TT -->
+  <ion-option-button class="button-assertive" ng-click="removeRecipe(recipeInfoIndex)">
     <i class="icon ion-trash-a"></i>
   </ion-option-button>
-  <ion-option-button class="button-energized"ng-click="refreshRecipe($index)">
+  <ion-option-button class="button-energized" ng-click="refreshRecipe(recipeInfoIndex)">
     <i class="icon ion-refresh"></i>
   </ion-option-button>
-	
 	<ion-reorder-button class="ion-navicon" on-reorder="moveRecipe(recipeInfo, $fromIndex, $toIndex)"></ion-reorder-button>
 </ion-item>
+<ion-custom-reorder-button direction="up" list-index="recipeInfoIndex"></ion-custom-reorder-button>
+<ion-custom-reoder-button direction="down" list-index="recipeInfoIndex"></ion-custom-reoder-button>
