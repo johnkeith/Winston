@@ -3,10 +3,10 @@
 	<span class="item-source-link" href="{{ recipeInfo.recipe.sourceHref }}">{{ recipeInfo.recipe.recipeTitle }}</span>
 	<!-- NEED TO PASS ALL THESE FUNCTIONS THROUGH DIRECTIVE AS REFERENCES FROM CONTROLLER cf. TT -->
   <ion-option-button ng-show="recipeInfoIndex != 0" class="button-clear" ng-click="moveRecipe('up', recipeInfoIndex)">
-    <i class="icon ion-ios-arrow-thin-up"></i>
+    <i class="icon ion-arrow-up-c"></i>
   </ion-option-button>
   <ion-option-button ng-show="recipeInfoIndex != totalRecipes" class="button-clear" ng-click="moveRecipe('down', recipeInfoIndex)">
-    <i class="icon ion-ios-arrow-thin-down"></i>
+    <i class="icon ion-arrow-down-c"></i>
   </ion-option-button>
   <ion-option-button class="button-assertive" ng-click="removeRecipe(recipeInfoIndex)">
     <i class="icon ion-trash-a"></i>
