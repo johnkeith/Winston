@@ -42,9 +42,18 @@ services.factory('RecipesService', ['$http', 'LocalStorage', function($http, Loc
 		saveCurrentRecipes();
 	}
 
-	recipesService.changeCurrentRecipesOrder = function(recipe, fromIndex, toIndex){
-		currentRecipes.splice(fromIndex, 1);
-    currentRecipes.splice(toIndex, 0, recipe);
+	recipesService.changeRecipeLocation = function(direction, index){
+		if(direction == "up"){
+			var targetIndex = index - 1
+		} else if(direction == "down"){
+			var targetIndex = index + 1
+		}
+
+		var target = currentRecipes[targetIndex].recipe;
+		var toMove = currentRecipes[index].recipe
+
+		currentRecipes[targetIndex].recipe = toMove;
+		currentRecipes[index].recipe = target;
 
     saveCurrentRecipes();
 	}
