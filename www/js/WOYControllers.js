@@ -4,7 +4,11 @@ var controllers = angular.module('WOYControllers', []);
 
 controllers.controller('GroceriesController', ['$scope', 'GroceriesService',
 	function($scope, GroceriesService){
+		$scope.showReorder = false;
 		$scope.groceries = GroceriesService.getCurrentGroceriesList;
+		$scope.changeCheckedStatus = function(item, index){
+			GroceriesService.changeCheckedStatus(item, index)
+		}
 	}
 ]);
 

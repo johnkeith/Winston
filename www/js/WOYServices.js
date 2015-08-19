@@ -19,8 +19,25 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 			currentGroceriesList.push({ checked: false, item: el });
 		});
 
-		saveCurrentGroceriesList;
+		saveCurrentGroceriesList();
 	}
+
+	groceriesService.changeCheckedStatus = function(item, index){
+		item.checked = !item.checked;
+		
+		currentGroceriesList.splice(index, 1, item);
+
+		saveCurrentGroceriesList();
+	}
+
+	function activate(){
+		var stored = LocalStorage.getObject('currentGroceries');
+		if(stored.length > 0){
+			currentGroceriesList = stored;
+		}
+	}
+
+	activate();
 
 	return groceriesService;
 }]);

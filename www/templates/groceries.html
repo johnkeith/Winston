@@ -1,13 +1,13 @@
 <ion-view view-title="Groceries" ng-controller="GroceriesController">
 	<ion-content >
-		<ul class="list">
-			<li ng-show="groceries().length == 0" class="item">No results...</li>
-			<li ng-show="groceries().length > 0" class="item item-checkbox" ng-repeat="groceryItem in groceries() track by $index">
+		<ion-list>
+			<ion-item ng-show="groceries().length == 0">No results...</ion-item>
+			<ion-item ng-show="groceries().length > 0" class="item item-checkbox checkbox-balanced" ng-repeat="groceryItem in groceries() track by $index">
 				<label class="checkbox">
-					<input type="checkbox" />
+					<input type="checkbox" ng-checked="groceryItem.checked" ng-click="changeCheckedStatus(groceryItem, $index)" />
 				</label>
 				{{ groceryItem.item }}
-			</li>
+			</ion-item>
 		</ul>
 	</ion-content>
 </ion-view>
