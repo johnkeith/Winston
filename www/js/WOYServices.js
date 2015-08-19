@@ -12,8 +12,22 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData',
 		var monthsOfYear = ['January', 'February', 'March', 'April', 'May', 'June',
 			'July', 'August', 'September', 'October', 'Novemeber', 'December']
 		
-		var getRandomRecipe = function(){
-			return allRecipes[Math.floor(Math.random() * allRecipes.length)];
+		var getRandomRecipe = function(excludedIndexes){
+			var recipe, index;
+			
+			if(excludedIndexes == undefined){
+				excludedIndexes = [];
+			}
+			
+			while(recipe == undefined){
+				var newIndex = Math.floor(Math.random() * allRecipes.length);
+				if(excludedIndexes.indexOf(index) == -1){
+					recipe = allRecipes[newIndex];
+					index = newIndex;
+				}
+			}
+			
+			return { index: index, recipe: recipe };
 		}
 
 		var saveCurrentRecipes = function(){
@@ -30,6 +44,7 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData',
 
 		recipesService.fillWithRandomRecipes = function(numberOfRecipes){
 			currentRecipes = [];
+			var exclusionList = [];
 
 			if(typeof(numberOfRecipes) != 'number'){
 				numberOfRecipes = 7;
@@ -37,8 +52,10 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData',
 
 			for(var i = 0; i < numberOfRecipes; i++){
 				var ds = constructDateForRecipe(i);
+				var randomRecipe = getRandomRecipe(exclusionList);
 
-				currentRecipes.push({ date: ds, recipe: getRandomRecipe()});
+				exclusionList.push(randomRecipe.index);
+				currentRecipes.push({ date: ds, recipe: randomRecipe.recipe});
 			}
 
 			saveCurrentRecipes();
@@ -67,7 +84,7 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData',
 		}
 
 		recipesService.refreshRecipeAtIndex = function(index){
-			currentRecipes[index].recipe = getRandomRecipe();
+			currentRecipes[index].recipe = getRandomRecipe().recipe;
 
 			saveCurrentRecipes();
 		}
