@@ -5,7 +5,8 @@ var app = angular.module('starter', [
   'WOYControllers',
   'WOYServices',
   'LocalStorageService',
-  'WOYDirectives'
+  'WOYDirectives',
+  'WOYData'
 ])
 
 app.run(function($ionicPlatform) {
