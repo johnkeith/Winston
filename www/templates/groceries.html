@@ -1,2 +1,13 @@
-<ion-view view-title="Groceries">
+<ion-view view-title="Groceries" ng-controller="GroceriesController">
+	<ion-content >
+		<ul class="list">
+			<li ng-show="groceries().length == 0" class="item">No results...</li>
+			<li ng-show="groceries().length > 0" class="item item-checkbox" ng-repeat="groceryItem in groceries() track by $index">
+				<label class="checkbox">
+					<input type="checkbox" />
+				</label>
+				{{ groceryItem.item }}
+			</li>
+		</ul>
+	</ion-content>
 </ion-view>

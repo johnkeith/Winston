@@ -4,18 +4,22 @@ var services = angular.module('WOYServices', []);
 
 services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 	var groceriesService = {};
-	var currentGroceryList = [];
+	var currentGroceriesList = [];
 
-	var saveCurrentGroceryList = function(){
-		LocalStorage.setObject('currentGroceries', currentGroceryList);
+	var saveCurrentGroceriesList = function(){
+		LocalStorage.setObject('currentGroceries', currentGroceriesList);
 	}
 
-	groceriesService.addIngredientsToGroceryList = function(ingredients){
+	groceriesService.getCurrentGroceriesList = function(){
+		return currentGroceriesList;
+	}
+
+	groceriesService.addIngredientsToGroceriesList = function(ingredients){
 		ingredients.forEach(function(el, arr, idx){
-			currentGroceryList.push({ checked: false, item: el });
+			currentGroceriesList.push({ checked: false, item: el });
 		});
 
-		saveCurrentGroceryList;
+		saveCurrentGroceriesList;
 	}
 
 	return groceriesService;
@@ -64,7 +68,7 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 		var updateGroceryList = function(){
 			var ingredients = getIngredientsFromRecipes();
 
-			GroceriesService.addIngredientsToGroceryList(ingredients);
+			GroceriesService.addIngredientsToGroceriesList(ingredients);
 		}
 
 		var getIngredientsFromRecipes = function(){

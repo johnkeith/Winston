@@ -2,6 +2,12 @@
 
 var controllers = angular.module('WOYControllers', []);
 
+controllers.controller('GroceriesController', ['$scope', 'GroceriesService',
+	function($scope, GroceriesService){
+		$scope.groceries = GroceriesService.getCurrentGroceriesList;
+	}
+]);
+
 controllers.controller('StartController', ['$scope', 'RecipesService', '$ionicListDelegate',
 	function($scope, RecipesService, $ionicListDelegate){
 		$scope.listCanSwipe = true;
