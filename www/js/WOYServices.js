@@ -2,8 +2,27 @@
 
 var services = angular.module('WOYServices', []);
 
-services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData',
-	function($http, LocalStorage, RecipeData){
+services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
+	var groceriesService = {};
+	var currentGroceryList = [];
+
+	var saveCurrentGroceryList = function(){
+		LocalStorage.setObject('currentGroceries', currentGroceryList);
+	}
+
+	groceriesService.addIngredientsToGroceryList = function(ingredients){
+		ingredients.forEach(function(el, arr, idx){
+			currentGroceryList.push({ checked: false, item: el });
+		});
+
+		saveCurrentGroceryList;
+	}
+
+	return groceriesService;
+}]);
+
+services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'GroceriesService',
+	function($http, LocalStorage, RecipeData, GroceriesService){
 		var allRecipes = RecipeData.getAll();
 		var recipesService = {};
 		var currentRecipes = [];
@@ -42,6 +61,24 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData',
 				d.getUTCDate() + ', ' + (d.getYear() + 1900);
 		}
 
+		var updateGroceryList = function(){
+			var ingredients = getIngredientsFromRecipes();
+
+			GroceriesService.addIngredientsToGroceryList(ingredients);
+		}
+
+		var getIngredientsFromRecipes = function(){
+			var ingredients = [];
+
+			currentRecipes.forEach(function(recipeObj){
+				recipeObj.recipe.ingredients.forEach(function(elIng){
+					ingredients.push(elIng);
+				});
+			});
+
+			return ingredients;
+		}
+
 		recipesService.fillWithRandomRecipes = function(numberOfRecipes){
 			currentRecipes = [];
 			var exclusionList = [];
@@ -59,6 +96,7 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData',
 			}
 
 			saveCurrentRecipes();
+			updateGroceryList();
 		}
 
 		recipesService.changeRecipeLocation = function(direction, index){
@@ -81,12 +119,14 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData',
 			currentRecipes[index].recipe = { "recipeTitle": "None..." };
 
 			saveCurrentRecipes();
+			updateGroceryList();
 		}
 
 		recipesService.refreshRecipeAtIndex = function(index){
 			currentRecipes[index].recipe = getRandomRecipe().recipe;
 
 			saveCurrentRecipes();
+			updateGroceryList();
 		}
 
 		recipesService.getCurrentRecipes = function(){
