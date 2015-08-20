@@ -7707,12 +7707,23 @@ a.button {
       min-height: 52px; }
     .view-container .pane ion-item ion-option-button i {
       margin-left: 5px; }
+    .view-container .pane ion-item.item-checkbox {
+      padding-left: 0px; }
+      .view-container .pane ion-item.item-checkbox .item-content span {
+        padding-left: 35px; }
+      .view-container .pane ion-item.item-checkbox ion-reorder-button {
+        color: #b2b2b2; }
+        .view-container .pane ion-item.item-checkbox ion-reorder-button i + i {
+          padding-left: 2px; }
     .view-container .pane .bar-footer {
       padding: 0; }
       .view-container .pane .bar-footer .row {
         padding: 0; }
         .view-container .pane .bar-footer .row button {
           border-radius: 0; }
+
+.button-icon .icon:before, .button-icon.icon:before {
+  font-size: 24px; }
 
 .button-subtext {
   display: block;

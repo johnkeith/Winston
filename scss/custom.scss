@@ -52,6 +52,20 @@ $yellow-base: rgba(247, 202, 24, 1);
           margin-left: 5px;
         }
       }
+      &.item-checkbox {
+        padding-left: 0px;
+        .item-content {
+          span {
+            padding-left: 35px;
+          }
+        }
+        ion-reorder-button {
+          color: #b2b2b2;
+          i + i {
+            padding-left: 2px;
+          }
+        }
+      }
     }
     .bar-footer {
       padding: 0;
@@ -63,6 +77,10 @@ $yellow-base: rgba(247, 202, 24, 1);
       }
     }
 	}
+}
+
+.button-icon .icon:before, .button-icon.icon:before {
+  font-size: 24px;
 }
 
 .button-subtext {

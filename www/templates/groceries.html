@@ -1,4 +1,26 @@
 <ion-view view-title="Groceries" ng-controller="GroceriesController">
+	<ion-nav-buttons side="right">
+		<button class="button button-clear" ng-click="toggleReorder()">Reorder</button>
+  </ion-nav-buttons>
+	<ion-content >
+		<ion-list show-reorder="showReorder">
+			<ion-item ng-show="groceries().length == 0">No results...</ion-item>
+			<ion-item ng-show="groceries().length > 0" class="item item-checkbox checkbox-balanced" ng-repeat="groceryItem in groceries() track by $index">
+				<label class="checkbox">
+					<input type="checkbox" ng-checked="groceryItem.checked" ng-click="changeCheckedStatus(groceryItem, $index)" />
+				</label>
+				<span>{{ groceryItem.item }}</span>
+				<ion-reorder-button on-reorder="reorderItem(groceryItem, $fromIndex, $toIndex)">
+		    	<i class="icon ion-arrow-down-c"></i>
+		    	<i class="icon ion-arrow-up-c"></i>
+		    </ion-reorder-button>
+			</ion-item>
+		</ul>
+	</ion-content>
+</ion-view>
+
+<!-- 
+<ion-view view-title="Groceries" ng-controller="GroceriesController">
 	<ion-content >
 		<ion-list>
 			<ion-item ng-show="groceries().length == 0">No results...</ion-item>
@@ -10,4 +32,4 @@
 			</ion-item>
 		</ul>
 	</ion-content>
-</ion-view>
+</ion-view> -->

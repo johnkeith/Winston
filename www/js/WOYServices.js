@@ -10,11 +10,17 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 		LocalStorage.setObject('currentGroceries', currentGroceriesList);
 	}
 
+	var emptyGroceriesList = function(){
+		currentGroceriesList = [];
+	}
+
 	groceriesService.getCurrentGroceriesList = function(){
 		return currentGroceriesList;
 	}
 
 	groceriesService.addIngredientsToGroceriesList = function(ingredients){
+		emptyGroceriesList();
+
 		ingredients.forEach(function(el, arr, idx){
 			currentGroceriesList.push({ checked: false, item: el });
 		});
@@ -28,6 +34,17 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 		currentGroceriesList.splice(index, 1, item);
 
 		saveCurrentGroceriesList();
+	}
+
+	groceriesService.emptyGroceriesList = function(){
+		emptyGroceriesList();
+	}
+
+	groceriesService.moveInGroceriesList = function(item, fromIndex, toIndex){
+		currentGroceriesList.splice((fromIndex - 1), 1);
+    currentGroceriesList.splice((toIndex - 1), 0, item);
+
+    saveCurrentGroceriesList();
 	}
 
 	function activate(){

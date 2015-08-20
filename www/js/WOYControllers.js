@@ -9,6 +9,12 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService',
 		$scope.changeCheckedStatus = function(item, index){
 			GroceriesService.changeCheckedStatus(item, index)
 		}
+		$scope.toggleReorder = function(){
+			$scope.showReorder = !$scope.showReorder;
+		}
+		$scope.reorderItem = function(item, fromIndex, toIndex){
+			GroceriesService.moveInGroceriesList(item, fromIndex, toIndex);
+		}
 	}
 ]);
 
