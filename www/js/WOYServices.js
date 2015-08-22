@@ -19,8 +19,6 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 	}
 
 	groceriesService.addIngredientsToGroceriesList = function(ingredients){
-		emptyGroceriesList();
-
 		ingredients.forEach(function(el, idx, arr){
 			currentGroceriesList.push({ checked: false, item: el });
 		});
@@ -115,6 +113,7 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 		var updateGroceryList = function(){
 			var ingredients = getIngredientsFromRecipes();
 
+			GroceriesService.emptyGroceriesList();
 			GroceriesService.addIngredientsToGroceriesList(ingredients);
 		}
 
@@ -176,9 +175,10 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 
 		recipesService.refreshRecipeAtIndex = function(index){
 			currentRecipes[index].recipe = getRandomRecipe().recipe;
+			var ingredients = currentRecipes[index].recipe.ingredients;
 
 			saveCurrentRecipes();
-			updateGroceryList();
+			GroceriesService.addIngredientsToGroceriesList(ingredients);
 		}
 
 		recipesService.getCurrentRecipes = function(){
@@ -202,49 +202,7 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 		// 		"cuisineType": "vegetarian",
 		// 		"ingredients": []
 		// 	},
-		// 	{
-		// 		"recipeTitle": "Coconut Shrimp Curry",
-		// 		"sourceName": "Gusto Required",
-		// 		"sourceHref": "http://www.gustorequired.com",
-		// 		"cuisineType": "pescatarian",
-		// 		"ingredients": []
-		// 	},
-		// 	{
-		// 		"recipeTitle": "Big Juicy Steak",
-		// 		"sourceName": "Sassy Kitchen",
-		// 		"sourceHref": "http://www.sassysatthegrill.com",
-		// 		"cuisineType": "omnivore",
-		// 		"ingredients": []
-		// 	},
-		// 	{
-		// 		"recipeTitle": "Chicago-style Pizza",
-		// 		"sourceName": "John\"s Brain",
-		// 		"sourceHref": "http://www.johnkeith.us",
-		// 		"cuisineType": "vegetarian",
-		// 		"ingredients": []
-		// 	},
-		// 	{
-		// 		"recipeTitle": "Red Beans and Rice",
-		// 		"sourceName": "Gusto Required",
-		// 		"sourceHref": "http://www.gustorequired.com",
-		// 		"cuisineType": "vegetarian",
-		// 		"ingredients": []
-		// 	},
-		// 	{
-		// 		"recipeTitle": "Spicy Sweet Potato White Bean Burgers",
-		// 		"sourceName": "Gusto Required",
-		// 		"sourceHref": "http://gustorequired.com/2015/01/30/spicy-sweet-potato-white-bean-burgers/",
-		// 		"cuisineType": "vegetarian",
-		// 		"ingredients": []
-		// 	},
-		// 	{
-		// 		"recipeTitle": "Baked Pasta with Butternut Squash & Kale and other stuff",
-		// 		"sourceName": "Gusto Required",
-		// 		"sourceHref": "http://gustorequired.com/2014/11/24/baked-pasta-with-butternut-squash-kale/",
-		// 		"cuisineType": "vegetarian",
-		// 		"ingredients": []
-		// 	}
-		// ];
+		// ]
 
 		return recipesService;
 	}
