@@ -1,0 +1,9 @@
+<ion-view view-title="Groceries" ng-controller="PreviousMealsController">
+	<ion-content>
+		<ion-list>
+			<ion-item ng-repeat="mealPlan in historicalRecipes() track by $index">
+				{{ mealPlan.titles.join(", ") }}
+			</ion-item>
+		</ion-list>
+	</ion-content>
+</ion-view>

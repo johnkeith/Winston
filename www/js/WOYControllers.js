@@ -2,6 +2,12 @@
 
 var controllers = angular.module('WOYControllers', []);
 
+controllers.controller('PreviousMealsController', ['$scope', 'RecipesService',
+	function($scope, RecipesService){
+		$scope.historicalRecipes = RecipesService.getHistoricalRecipes;
+	}
+])
+
 controllers.controller('GroceriesController', ['$scope', 'GroceriesService',
 	function($scope, GroceriesService){
 		$scope.showReorder = false;

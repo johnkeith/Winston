@@ -149,9 +149,13 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 			if(historicalRecipes.length == maxHistoricalRecipes){
 				historicalRecipes.splice(0, 1);
 			}
-			historicalRecipes.push([getRecipeTitles(), currentRecipes]);
+			historicalRecipes.unshift({ titles: getRecipeTitles(), mealPlan: currentRecipes });
 			
 			saveHistoricalRecipes();
+		}
+
+		recipesService.getHistoricalRecipes = function(){
+			return historicalRecipes;
 		}
 
 		recipesService.fillWithRandomRecipes = function(numberOfRecipes){

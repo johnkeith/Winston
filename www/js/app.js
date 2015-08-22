@@ -46,6 +46,14 @@ app.config(['$stateProvider', '$urlRouterProvider',
           }
         }
       })
+      .state('pages.previousMeals', {
+        url: "/previous-meals",
+        views: {
+          'pages': {
+            templateUrl: "templates/previous_meals.html",
+          }
+        }
+      })
     $urlRouterProvider.otherwise("/pages/meals");
   }
 ]);
