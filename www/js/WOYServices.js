@@ -79,7 +79,9 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 			'Friday', 'Saturday']
 		var monthsOfYear = ['January', 'February', 'March', 'April', 'May', 'June',
 			'July', 'August', 'September', 'October', 'Novemeber', 'December']
-		
+		var historicalRecipes = [];
+		var maxHistoricalRecipes = 10;
+
 		var getRandomRecipe = function(excludedIndexes){
 			var recipe, index;
 			
@@ -129,7 +131,31 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 			return ingredients;
 		}
 
+		var getRecipeTitles = function(){
+			var results = [];
+
+			currentRecipes.forEach(function(el){
+				results.push(el.recipe.recipeTitle);
+			});
+
+			return results;
+		}
+
+		var saveHistoricalRecipes = function(){
+			LocalStorage.setObject('historicalRecipes', historicalRecipes);
+		}
+
+		var savePreviousRecipes = function(){
+			if(historicalRecipes.length == maxHistoricalRecipes){
+				historicalRecipes.splice(0, 1);
+			}
+			historicalRecipes.push([getRecipeTitles(), currentRecipes]);
+			
+			saveHistoricalRecipes();
+		}
+
 		recipesService.fillWithRandomRecipes = function(numberOfRecipes){
+			savePreviousRecipes();
 			currentRecipes = [];
 			var exclusionList = [];
 
@@ -186,9 +212,14 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 		}
 
 		function activate(){
-			var stored = LocalStorage.getObject('currentRecipes');
-			if(stored.length > 0){
-				currentRecipes = stored;
+			var storedCurrentRecipes = LocalStorage.getObject('currentRecipes');
+			var storedHistoricalRecipes = LocalStorage.getObject('historicalRecipes');
+			if(storedCurrentRecipes.length > 0){
+				currentRecipes = storedCurrentRecipes;
+			}
+
+			if(storedHistoricalRecipes.length > 0){
+				historicalRecipes = storedHistoricalRecipes;
 			}
 		}
 
