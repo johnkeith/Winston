@@ -21,7 +21,7 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 	groceriesService.addIngredientsToGroceriesList = function(ingredients){
 		emptyGroceriesList();
 
-		ingredients.forEach(function(el, arr, idx){
+		ingredients.forEach(function(el, idx, arr){
 			currentGroceriesList.push({ checked: false, item: el });
 		});
 
@@ -45,6 +45,19 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
     currentGroceriesList.splice((toIndex - 1), 0, item);
 
     saveCurrentGroceriesList();
+	}
+
+	groceriesService.removeIngredientsFromGroceryList = function(ingredients){
+		ingredients.forEach(function(el){
+			var removed = false;
+
+			currentGroceriesList.forEach(function(item, idx, arr){
+				if(item.item == el && removed == false){
+					currentGroceriesList.splice(idx, 1);
+					removed = true;
+				}
+			});
+		});
 	}
 
 	function activate(){
@@ -154,10 +167,11 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 		}
 
 		recipesService.removeFromCurrentRecipes = function(index){
+			var ingredients = currentRecipes[index].recipe.ingredients;
 			currentRecipes[index].recipe = { "recipeTitle": "None..." };
 
 			saveCurrentRecipes();
-			updateGroceryList();
+			GroceriesService.removeIngredientsFromGroceryList(ingredients);
 		}
 
 		recipesService.refreshRecipeAtIndex = function(index){
