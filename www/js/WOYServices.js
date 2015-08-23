@@ -5,6 +5,7 @@ var services = angular.module('WOYServices', []);
 services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 	var groceriesService = {};
 	var currentGroceriesList = [];
+	var showCompletedItems = true;
 
 	var saveCurrentGroceriesList = function(){
 		LocalStorage.setObject('currentGroceries', currentGroceriesList);
@@ -12,6 +13,15 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 
 	var emptyGroceriesList = function(){
 		currentGroceriesList = [];
+	}
+
+	groceriesService.getShowCompletedItems = function(){
+		return showCompletedItems;
+	}
+
+	groceriesService.toggleShowCompletedItems = function(){
+		showCompletedItems = !showCompletedItems;
+		console.log(showCompletedItems);
 	}
 
 	groceriesService.getCurrentGroceriesList = function(){

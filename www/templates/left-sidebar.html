@@ -1,4 +1,4 @@
-<ion-side-menus enable-menu-with-back-views="true">
+<ion-side-menus enable-menu-with-back-views="true" ng-controller="LeftSidebarController">
   <ion-side-menu-content>
     <ion-nav-bar class="bar-calm">
       <ion-nav-back-button>
@@ -23,6 +23,15 @@
         <!-- Note each link has the 'menu-close' attribute so the menu auto closes when clicking on one of these links -->
         <a ui-sref="pages.meals" class="item" menu-close>Meal Plan</a>
         <a ui-sref="pages.groceries" class="item" menu-close>Grocery List</a>
+        <li class="item item-toggle">
+          <span class="item-toggle-label">Show Checked Items</span>
+          <label class="toggle toggle-balanced">
+            <input type="checkbox" ng-click="toggleShowCompletedItems()">
+            <div class="track">
+              <div class="handle"></div>
+            </div>
+          </label>
+        </li>
         <a ui-sref="pages.previousMeals" class="item" menu-close>History</a>
       </ul>
     </ion-content>

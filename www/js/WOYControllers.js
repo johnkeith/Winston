@@ -1,7 +1,12 @@
 'use strict';
 
 var controllers = angular.module('WOYControllers', []);
-
+controllers.controller('LeftSidebarController', ['$scope', 'GroceriesService',
+	function($scope, GroceriesService){
+		$scope.getShowCompletedItems = GroceriesService.getShowCompletedItems;
+		$scope.toggleShowCompletedItems = GroceriesService.toggleShowCompletedItems;
+	}
+])
 controllers.controller('PreviousMealsController', ['$scope', 'RecipesService', '$state', '$ionicHistory',
 	function($scope, RecipesService, $state, $ionicHistory){
 		$scope.historicalRecipes = RecipesService.getHistoricalRecipes;

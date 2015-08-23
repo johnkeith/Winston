@@ -7697,6 +7697,10 @@ a.button {
   background: #f8f8f8 !important; }
   .view-container .pane {
     background-color: inherit; }
+    .view-container .pane .item .item-toggle-label {
+      color: #777777;
+      font-size: 0.9em;
+      padding-left: 10px; }
     .view-container .pane ion-item.item-complex .item-content {
       padding: 16px;
       -webkit-transition: all ease-in-out 250ms;
