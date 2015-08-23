@@ -33,6 +33,7 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService',
 		$scope.reorderItem = function(item, fromIndex, toIndex){
 			GroceriesService.moveInGroceriesList(item, fromIndex, toIndex);
 		}
+		$scope.getShowCompletedItems = GroceriesService.getShowCompletedItems;
 	}
 ]);
 

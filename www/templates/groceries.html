@@ -5,7 +5,7 @@
 	<ion-content >
 		<ion-list show-reorder="showReorder">
 			<ion-item ng-show="groceries().length == 0">No results...</ion-item>
-			<ion-item ng-show="groceries().length > 0" class="item item-checkbox checkbox-balanced" ng-repeat="groceryItem in groceries() track by $index">
+			<ion-item ng-show="(groceries().length > 0) && (getShowCompletedItems() == true || groceryItem.checked != true && getShowCompletedItems() == false)" class="item item-checkbox checkbox-balanced" ng-repeat="groceryItem in groceries() track by $index">
 				<label class="checkbox">
 					<input type="checkbox" ng-checked="groceryItem.checked" ng-click="changeCheckedStatus(groceryItem, $index)" />
 				</label>
@@ -21,3 +21,5 @@
 	  <button class="button button-clear pull-right">Hide completed</button>
 	</div> -->
 </ion-view>
+
+<!-- if show completed items == false and the grocery item.checked == false, then show it -->
