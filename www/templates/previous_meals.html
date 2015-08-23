@@ -3,7 +3,6 @@
 		<ion-list>
 			<ion-item ng-repeat="mealPlan in historicalRecipes() track by $index" ng-click="switchToPrevious($index)">
 				{{ mealPlan.titles.join(", ") }}
-				<!-- TODO needs to be linked -->
 			</ion-item>
 		</ion-list>
 	</ion-content>

@@ -6,7 +6,8 @@ controllers.controller('LeftSidebarController', ['$scope', 'GroceriesService',
 		$scope.getShowCompletedItems = GroceriesService.getShowCompletedItems;
 		$scope.toggleShowCompletedItems = GroceriesService.toggleShowCompletedItems;
 	}
-])
+]);
+
 controllers.controller('PreviousMealsController', ['$scope', 'RecipesService', '$state', '$ionicHistory',
 	function($scope, RecipesService, $state, $ionicHistory){
 		$scope.historicalRecipes = RecipesService.getHistoricalRecipes;
@@ -18,7 +19,7 @@ controllers.controller('PreviousMealsController', ['$scope', 'RecipesService', '
 			$state.go("pages.meals");
 		}
 	}
-])
+]);
 
 controllers.controller('GroceriesController', ['$scope', 'GroceriesService',
 	function($scope, GroceriesService){

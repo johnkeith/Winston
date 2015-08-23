@@ -15,13 +15,17 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 		currentGroceriesList = [];
 	}
 
+	var storeCompletedItemsOption = function(){
+		LocalStorage.setObject('showCompletedItems', showCompletedItems);
+	}
+
 	groceriesService.getShowCompletedItems = function(){
 		return showCompletedItems;
 	}
 
 	groceriesService.toggleShowCompletedItems = function(){
 		showCompletedItems = !showCompletedItems;
-		console.log(showCompletedItems);
+		storeCompletedItemsOption();
 	}
 
 	groceriesService.getCurrentGroceriesList = function(){
@@ -69,9 +73,14 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 	}
 
 	function activate(){
-		var stored = LocalStorage.getObject('currentGroceries');
-		if(stored.length > 0){
-			currentGroceriesList = stored;
+		var storedGroceriesList = LocalStorage.getObject('currentGroceries');
+		if(storedGroceriesList.length > 0){
+			currentGroceriesList = storedGroceriesList;
+		}
+
+		var storedOptions = LocalStorage.getObject('showCompletedItems');
+		if(storedOptions == true || storedOptions == false){
+			showCompletedItems = storedOptions;
 		}
 	}
 
