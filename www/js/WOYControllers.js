@@ -2,9 +2,16 @@
 
 var controllers = angular.module('WOYControllers', []);
 
-controllers.controller('PreviousMealsController', ['$scope', 'RecipesService',
-	function($scope, RecipesService){
+controllers.controller('PreviousMealsController', ['$scope', 'RecipesService', '$state', '$ionicHistory',
+	function($scope, RecipesService, $state, $ionicHistory){
 		$scope.historicalRecipes = RecipesService.getHistoricalRecipes;
+		$scope.switchToPrevious = function(index){
+			RecipesService.switchToPreviousMealPlan(index);
+			$ionicHistory.nextViewOptions({
+			  disableBack: true
+			});
+			$state.go("pages.meals");
+		}
 	}
 ])
 

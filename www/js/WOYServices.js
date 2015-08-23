@@ -154,6 +154,17 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 			saveHistoricalRecipes();
 		}
 
+		recipesService.switchToPreviousMealPlan = function(histIndex){
+			var previousPlan = historicalRecipes[histIndex];
+			historicalRecipes.splice(histIndex, 1);
+			historicalRecipes.unshift({ titles: getRecipeTitles(), mealPlan: currentRecipes});
+
+			currentRecipes = previousPlan.mealPlan;
+
+			saveHistoricalRecipes();
+			saveCurrentRecipes();
+			updateGroceryList();
+		}
 		recipesService.getHistoricalRecipes = function(){
 			return historicalRecipes;
 		}
