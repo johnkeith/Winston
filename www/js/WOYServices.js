@@ -100,6 +100,15 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 			'July', 'August', 'September', 'October', 'Novemeber', 'December']
 		var historicalRecipes = [];
 		var maxHistoricalRecipes = 10;
+		var recipeFilterSettings = { 'Beef': true, 'Chicken': true, 'Fish': true, 'Vegan': true, 'Vegetarian': true };
+
+		var getRecipeCategories = function(){
+			allRecipes.forEach(function(recipeObj){
+				recipeObj.cuisineType.forEach(function(cat){
+					console.log(cat);
+				})
+			});
+		}
 
 		var getRandomRecipe = function(excludedIndexes){
 			var recipe, index;
@@ -171,6 +180,22 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 			historicalRecipes.unshift({ titles: getRecipeTitles(), mealPlan: currentRecipes });
 			
 			saveHistoricalRecipes();
+		}
+
+		var saveRecipeFilterSettings = function(){
+			LocalStorage.setObject('recipeFilterSettings', recipeFilterSettings);
+		}
+
+		recipesService.getRecipeFilterSettings = function(){
+			return recipeFilterSettings;
+		}
+
+		recipesService.toggleRecipeFilter = function(type){
+			console.log('toggle');
+			recipeFilterSettings[type] = !recipeFilterSettings[type];
+
+			console.log(recipeFilterSettings);
+			saveRecipeFilterSettings();
 		}
 
 		recipesService.switchToPreviousMealPlan = function(histIndex){
@@ -248,12 +273,18 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 		function activate(){
 			var storedCurrentRecipes = LocalStorage.getObject('currentRecipes');
 			var storedHistoricalRecipes = LocalStorage.getObject('historicalRecipes');
+			var storedRecipeFilterSettings = LocalStorage.getObject('recipeFilterSettings');
+
 			if(storedCurrentRecipes.length > 0){
 				currentRecipes = storedCurrentRecipes;
 			}
 
 			if(storedHistoricalRecipes.length > 0){
 				historicalRecipes = storedHistoricalRecipes;
+			}
+
+			if(storedRecipeFilterSettings['Beef'] != undefined){
+				recipeFilterSettings = storedRecipeFilterSettings;
 			}
 		}
 

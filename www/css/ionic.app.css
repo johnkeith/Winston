@@ -7699,8 +7699,7 @@ a.button {
     background-color: inherit; }
     .view-container .pane .item .item-toggle-label {
       color: #777777;
-      font-size: 0.9em;
-      padding-left: 10px; }
+      font-size: 0.9em; }
     .view-container .pane ion-item.item-complex .item-content {
       padding: 16px;
       -webkit-transition: all ease-in-out 250ms;

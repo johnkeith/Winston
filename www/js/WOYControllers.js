@@ -1,10 +1,12 @@
 'use strict';
 
 var controllers = angular.module('WOYControllers', []);
-controllers.controller('LeftSidebarController', ['$scope', 'GroceriesService',
-	function($scope, GroceriesService){
+controllers.controller('LeftSidebarController', ['$scope', 'GroceriesService', 'RecipesService',
+	function($scope, GroceriesService, RecipesService){
 		$scope.getShowCompletedItems = GroceriesService.getShowCompletedItems;
 		$scope.toggleShowCompletedItems = GroceriesService.toggleShowCompletedItems;
+		$scope.recipeFilters = RecipesService.getRecipeFilterSettings;
+		$scope.toggleRecipeFilters = RecipesService.toggleRecipeFilter;
 	}
 ]);
 
