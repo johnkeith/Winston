@@ -100,7 +100,7 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 			'July', 'August', 'September', 'October', 'Novemeber', 'December']
 		var historicalRecipes = [];
 		var maxHistoricalRecipes = 10;
-		var recipeFilterSettings = { 'Beef': true, 'Chicken': true, 'Fish': true, 'Vegan': true, 'Vegetarian': true };
+		var recipeFilterSettings = { 'Beef': true, 'Pork': true, 'Chicken': true, 'Fish': true, 'Vegan': true, 'Vegetarian': true };
 
 		var getRecipeCategories = function(){
 			allRecipes.forEach(function(recipeObj){
