@@ -191,10 +191,8 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 		}
 
 		recipesService.toggleRecipeFilter = function(type){
-			console.log('toggle');
 			recipeFilterSettings[type] = !recipeFilterSettings[type];
 
-			console.log(recipeFilterSettings);
 			saveRecipeFilterSettings();
 		}
 
