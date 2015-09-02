@@ -33,19 +33,19 @@
         </li>
         <a ui-sref="pages.previousMeals" class="item" menu-close>History</a>
         <!-- hiding recipes filter for now: future feature -->
-        <!-- <div class="item item-divider">
+        <div class="item item-divider">
           Filter Recipes
         </div>
         <li>{{ recipesFilter() }}</li>
         <li ng-repeat="(type, checked) in recipeFilters() track by $index" class="item item-toggle">
           <span class="item-toggle-label">{{ type }}</span>
           <label class="toggle toggle-balanced">
-            <input type="checkbox" ng-checked="checked" ng-click="toggleRecipeFilters(type)">
+            <input type="checkbox" ng-checked="checked" ng-disabled="" ng-click="toggleRecipeFilters(type)">
             <div class="track">
               <div class="handle"></div>
             </div>
           </label>
-        </li> -->
+        </li>
       </ul>
     </ion-content>
   </ion-side-menu>

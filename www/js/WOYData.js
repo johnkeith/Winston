@@ -29,8 +29,8 @@ data.factory('RecipeData', [function(){
       "chili sauce for topping - see notes"
     ],
     "cuisineType": [
-      "pork",
-      "gluten-free"
+      "Pork",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -48,7 +48,7 @@ data.factory('RecipeData', [function(){
       "½ teaspoon salt"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -71,7 +71,7 @@ data.factory('RecipeData', [function(){
       "2 cups spinach"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -90,7 +90,7 @@ data.factory('RecipeData', [function(){
       "additional bread for serving"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -117,8 +117,8 @@ data.factory('RecipeData', [function(){
       "½ cup chopped cashews"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -138,9 +138,9 @@ data.factory('RecipeData', [function(){
       "olive oil for drizzling"
     ],
     "cuisineType": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -170,9 +170,9 @@ data.factory('RecipeData', [function(){
       "a handful of fresh basil for serving"
     ],
     "cuisineType": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -196,9 +196,9 @@ data.factory('RecipeData', [function(){
       "a squeeze of lime juice"
     ],
     "cuisineType": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -225,9 +225,9 @@ data.factory('RecipeData', [function(){
       "4 green plantains"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -252,8 +252,8 @@ data.factory('RecipeData', [function(){
       "1 teaspoon chili paste (sambal oelek)"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -267,8 +267,8 @@ data.factory('RecipeData', [function(){
       "2-3 large zucchini (or you could use regular pasta, but zucchini is so good!)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "beef"
+      "Gluten-free",
+      "Beef"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -292,7 +292,7 @@ data.factory('RecipeData', [function(){
       "Parmesan and parsley or basil for topping"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -311,8 +311,8 @@ data.factory('RecipeData', [function(){
       "10 small pieces of whole wheat bread, toasted"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -338,8 +338,8 @@ data.factory('RecipeData', [function(){
       "2-3 cups baby spinach"
     ],
     "cuisineType": [
-      "seafood",
-      "gluten-free"
+      "Seafood",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -358,7 +358,7 @@ data.factory('RecipeData', [function(){
       "parsley for topping (optional)"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -379,7 +379,7 @@ data.factory('RecipeData', [function(){
       "a bottle or two of Barefoot Malbec for serving"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -402,7 +402,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon taco seasoning (I just use a mix of chili powder, onion powder, cumin, salt)"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -426,8 +426,8 @@ data.factory('RecipeData', [function(){
       "4 medium zucchini"
     ],
     "cuisineType": [
-      "seafood",
-      "gluten-free"
+      "Seafood",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -448,7 +448,7 @@ data.factory('RecipeData', [function(){
       "¼ cup fresh parsley (more to taste)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -468,8 +468,8 @@ data.factory('RecipeData', [function(){
       "cilantro and rice for serving"
     ],
     "cuisineType": [
-      "chicken",
-      "gluten-free"
+      "Chicken",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -489,7 +489,7 @@ data.factory('RecipeData', [function(){
       "2 zucchinis"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -512,8 +512,8 @@ data.factory('RecipeData', [function(){
       "2-3 tablespoons flaxmeal (optional)"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -530,7 +530,7 @@ data.factory('RecipeData', [function(){
       "5 Minute Magic Green Sauce for serving"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -558,9 +558,9 @@ data.factory('RecipeData', [function(){
       "a dash of fish sauce"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -581,7 +581,7 @@ data.factory('RecipeData', [function(){
       "fresh basil and Parmesan cheese for topping"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -600,8 +600,8 @@ data.factory('RecipeData', [function(){
       "salt and pepper to taste"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -624,7 +624,7 @@ data.factory('RecipeData', [function(){
       "a few tablespoons butter (optional)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -643,9 +643,9 @@ data.factory('RecipeData', [function(){
       "generous sprinkling of salt and pepper"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -665,7 +665,7 @@ data.factory('RecipeData', [function(){
       "parsley, salt, pepper, lemon juice, and/or a dash of nutmeg for topping"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -686,7 +686,7 @@ data.factory('RecipeData', [function(){
       "toppings! cilantro, avocado, sour cream, etc."
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -712,7 +712,7 @@ data.factory('RecipeData', [function(){
       "lime wedges for serving"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -737,7 +737,7 @@ data.factory('RecipeData', [function(){
       "cooked rice for serving"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -756,9 +756,9 @@ data.factory('RecipeData', [function(){
       "fresh cilantro"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -780,8 +780,8 @@ data.factory('RecipeData', [function(){
       "Parmesan or Asiago cheese for topping"
     ],
     "cuisineType": [
-      "chicken",
-      "gluten-free"
+      "Chicken",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -806,7 +806,7 @@ data.factory('RecipeData', [function(){
       "olive oil and red wine vinegar for topping"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -834,7 +834,7 @@ data.factory('RecipeData', [function(){
       "fresh wonton wrappers + oil for frying if you want to REALLY take it over the top"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -854,7 +854,7 @@ data.factory('RecipeData', [function(){
       "toppings: lime wedges, sour cream, jalapeño slices, avocado slices, minced green or red onions"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -875,7 +875,7 @@ data.factory('RecipeData', [function(){
       "cream (optional - to add at the end as desired)"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -902,7 +902,7 @@ data.factory('RecipeData', [function(){
       "additional cilantro, sour cream, and limes for topping"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -930,8 +930,8 @@ data.factory('RecipeData', [function(){
       "Greek yogurt for topping"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -958,7 +958,7 @@ data.factory('RecipeData', [function(){
       "chopped cilantro, green onions, and peanuts for topping"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -978,7 +978,7 @@ data.factory('RecipeData', [function(){
       "5-6 cups fresh kale, very finely chopped"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -998,8 +998,8 @@ data.factory('RecipeData', [function(){
       "dried or fresh parsley for topping"
     ],
     "cuisineType": [
-      "chicken",
-      "pork"
+      "Chicken",
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1030,7 +1030,7 @@ data.factory('RecipeData', [function(){
       "½ cup minced cilantro"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1054,7 +1054,7 @@ data.factory('RecipeData', [function(){
       "1 handful cilantro"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1076,7 +1076,7 @@ data.factory('RecipeData', [function(){
       "6 ounces goat cheese"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1097,8 +1097,8 @@ data.factory('RecipeData', [function(){
       "4 ounces goat cheese"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1121,7 +1121,7 @@ data.factory('RecipeData', [function(){
       "cilantro, lime juice, cheese, and chips for serving"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1145,7 +1145,7 @@ data.factory('RecipeData', [function(){
       "cilantro and Cotija cheese for topping"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1171,7 +1171,7 @@ data.factory('RecipeData', [function(){
       "3 tablespoons butter"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1193,7 +1193,7 @@ data.factory('RecipeData', [function(){
       "one large handful of each -- cilantro leaves, mint leaves, and green onions"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1227,9 +1227,9 @@ data.factory('RecipeData', [function(){
       "avocado and cilantro for topping"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1249,8 +1249,8 @@ data.factory('RecipeData', [function(){
       "dressing of choice (see notes)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1273,7 +1273,7 @@ data.factory('RecipeData', [function(){
       "fresh parsley"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1295,7 +1295,7 @@ data.factory('RecipeData', [function(){
       "3-4 cups cubed bread (dry, sturdy, or day old bread works best)"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1320,8 +1320,8 @@ data.factory('RecipeData', [function(){
       "a pinch of sugar (cuts the spicyness a bit)"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1341,7 +1341,7 @@ data.factory('RecipeData', [function(){
       "3 cups Kettle Brand chips (any flavor), crushed"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1359,8 +1359,8 @@ data.factory('RecipeData', [function(){
       "2 cups shredded kale (you can sub other vegetarians or just omit it for an equally delicious combo)"
     ],
     "cuisineType": [
-      "pork",
-      "gluten-free"
+      "Pork",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1378,7 +1378,7 @@ data.factory('RecipeData', [function(){
       "1 slice Muenster cheese"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1401,8 +1401,8 @@ data.factory('RecipeData', [function(){
       "toppings: crushed almonds, rice, noodles, cilantro, green onions, almond butter"
     ],
     "cuisineType": [
-      "gluten-free",
-      "chicken"
+      "Gluten-free",
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1428,9 +1428,9 @@ data.factory('RecipeData', [function(){
       "½ teaspoon minced garlic"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1450,7 +1450,7 @@ data.factory('RecipeData', [function(){
       "1 cup grated Parmesan cheese (Asiago or Gruyere are also good)"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1472,7 +1472,7 @@ data.factory('RecipeData', [function(){
       "extras: caramelized onions, bacon, sausage"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1495,7 +1495,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper to taste"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1523,8 +1523,8 @@ data.factory('RecipeData', [function(){
       "parsley for topping"
     ],
     "cuisineType": [
-      "pork",
-      "chicken"
+      "Pork",
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1546,7 +1546,7 @@ data.factory('RecipeData', [function(){
       "crusty bread or rice for serving"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1562,8 +1562,8 @@ data.factory('RecipeData', [function(){
       "1 ounce goat cheese"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1584,7 +1584,7 @@ data.factory('RecipeData', [function(){
       "1½ cups shredded cheese"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1604,8 +1604,8 @@ data.factory('RecipeData', [function(){
       "black pepper"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1627,7 +1627,7 @@ data.factory('RecipeData', [function(){
       "12-16 ounces smoked salmon (mine was hot smoked salmon which has a jerky-like texture and is already fully cooked)"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1645,7 +1645,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1670,8 +1670,8 @@ data.factory('RecipeData', [function(){
       "1 jalapeño pepper (the ribs and seeds are the HOT part, so remove those if you want a milder dressing)"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1696,7 +1696,7 @@ data.factory('RecipeData', [function(){
       "2 teaspoons sambal oelek"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1720,7 +1720,7 @@ data.factory('RecipeData', [function(){
       "2½ cups shredded Mozzarella cheese"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1746,7 +1746,7 @@ data.factory('RecipeData', [function(){
       "toppings (sour cream, cheese, green onions, tortilla chips)"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1767,7 +1767,7 @@ data.factory('RecipeData', [function(){
       "fresh cilantro and/or green onions"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1790,7 +1790,7 @@ data.factory('RecipeData', [function(){
       "1 cup any kind of shredded cheese - I used Chihuahua cheese"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1810,7 +1810,7 @@ data.factory('RecipeData', [function(){
       "a squeeze of lemon (that was Bjork's idea! nice work, boo)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1837,7 +1837,7 @@ data.factory('RecipeData', [function(){
       "1 lb. grilled chicken breast, thinly sliced (JERK CHICKEN RECIPE HERE)"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1857,7 +1857,7 @@ data.factory('RecipeData', [function(){
       "1½ lbs. boneless skinless chicken breasts"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1889,7 +1889,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1909,7 +1909,7 @@ data.factory('RecipeData', [function(){
       "fresh chives, fresh basil, baby spinach, any other add ins you want!"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1929,7 +1929,7 @@ data.factory('RecipeData', [function(){
       "3 eggs, beaten"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1947,7 +1947,7 @@ data.factory('RecipeData', [function(){
       "1 pound sliced Swiss (or any white melty) cheese"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1967,7 +1967,7 @@ data.factory('RecipeData', [function(){
       "sesame seeds for topping"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -1987,7 +1987,7 @@ data.factory('RecipeData', [function(){
       "¼ cup Oliviers and Co. organic balsamic vinegar"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2010,7 +2010,7 @@ data.factory('RecipeData', [function(){
       "2 cups shredded Mozzarella or Provolone cheese"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2038,7 +2038,7 @@ data.factory('RecipeData', [function(){
       "3 cups beef broth"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2064,7 +2064,7 @@ data.factory('RecipeData', [function(){
       "parsley and Parmesan for topping"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2082,7 +2082,7 @@ data.factory('RecipeData', [function(){
       "¼ cup sliced or crushed almonds"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2100,7 +2100,7 @@ data.factory('RecipeData', [function(){
       "sour cream and cilantro and anything else for topping"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2122,8 +2122,8 @@ data.factory('RecipeData', [function(){
       "sesame seeds for topping"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2159,8 +2159,8 @@ data.factory('RecipeData', [function(){
       "½ teaspoon cumin"
     ],
     "cuisineType": [
-      "chicken",
-      "gluten-free"
+      "Chicken",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2177,7 +2177,7 @@ data.factory('RecipeData', [function(){
       "quartered heirloom tomatoes for serving"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2201,7 +2201,7 @@ data.factory('RecipeData', [function(){
       "½ cup shredded cheese of choice (I used Monterrey Jack)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2224,9 +2224,9 @@ data.factory('RecipeData', [function(){
       "Parmesan cheese for serving (optional)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2250,7 +2250,7 @@ data.factory('RecipeData', [function(){
       "juice of 1 lemon (optional)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2281,7 +2281,7 @@ data.factory('RecipeData', [function(){
       "Cotija cheese for topping"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2307,9 +2307,9 @@ data.factory('RecipeData', [function(){
       "¾ cup cashews (if you can find them, Trader Joe's Thai Lime and Chili Cashews are the bomb)"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2329,7 +2329,7 @@ data.factory('RecipeData', [function(){
       "¼ cup fresh cilantro or parsley for topping"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2348,7 +2348,7 @@ data.factory('RecipeData', [function(){
       "2 teaspoons yellow mustard"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2371,9 +2371,9 @@ data.factory('RecipeData', [function(){
       "¼ cup canola oil"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2393,8 +2393,8 @@ data.factory('RecipeData', [function(){
       "fresh basil for topping"
     ],
     "cuisineType": [
-      "pork",
-      "chicken"
+      "Pork",
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2411,7 +2411,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2433,7 +2433,7 @@ data.factory('RecipeData', [function(){
       "cracked pepper to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2452,8 +2452,8 @@ data.factory('RecipeData', [function(){
       "1 cup corn"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2473,8 +2473,8 @@ data.factory('RecipeData', [function(){
       "a few tablespoons honey (I did 3, but adjust to taste)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2497,7 +2497,7 @@ data.factory('RecipeData', [function(){
       "1 scant tablespoon cornstarch dissolved in 2 tablespoons cold water (optional)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2521,7 +2521,7 @@ data.factory('RecipeData', [function(){
       "5 cups milk"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2544,7 +2544,7 @@ data.factory('RecipeData', [function(){
       "½ cup peanuts"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2566,8 +2566,8 @@ data.factory('RecipeData', [function(){
       "sliced green onions for topping"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2586,8 +2586,8 @@ data.factory('RecipeData', [function(){
       "green onions for topping"
     ],
     "cuisineType": [
-      "gluten-free",
-      "pork"
+      "Gluten-free",
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2605,7 +2605,7 @@ data.factory('RecipeData', [function(){
       "2 cups finely chopped kale"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2622,8 +2622,8 @@ data.factory('RecipeData', [function(){
       "salt and pepper to taste"
     ],
     "cuisineType": [
-      "seafood",
-      "gluten-free"
+      "Seafood",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2641,7 +2641,7 @@ data.factory('RecipeData', [function(){
       "fresh basil, cut into ribbons"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2665,8 +2665,8 @@ data.factory('RecipeData', [function(){
       "2 scallions"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2693,8 +2693,8 @@ data.factory('RecipeData', [function(){
       "brown rice for serving"
     ],
     "cuisineType": [
-      "chicken",
-      "pork"
+      "Chicken",
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2716,7 +2716,7 @@ data.factory('RecipeData', [function(){
       "2 cups shredded mozzarella cheese"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2739,9 +2739,9 @@ data.factory('RecipeData', [function(){
       "¼ teaspoon salt"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2761,7 +2761,7 @@ data.factory('RecipeData', [function(){
       "1 cup uncooked basmati rice"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2788,7 +2788,7 @@ data.factory('RecipeData', [function(){
       "¼ teaspoon salt"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2810,7 +2810,7 @@ data.factory('RecipeData', [function(){
       "crunchy golden panko crumbs for topping (see notes)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2833,7 +2833,7 @@ data.factory('RecipeData', [function(){
       "cilantro, guacamole, or sour cream for topping"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2853,7 +2853,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2873,7 +2873,7 @@ data.factory('RecipeData', [function(){
       "Parmesan for topping"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2894,7 +2894,7 @@ data.factory('RecipeData', [function(){
       "3 cups fresh broccoli florets"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2911,7 +2911,7 @@ data.factory('RecipeData', [function(){
       "1 cup Marzetti Simply Dressed Balsamic dressing"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2933,7 +2933,7 @@ data.factory('RecipeData', [function(){
       "chips for dipping, extra cheese for topping"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2954,7 +2954,7 @@ data.factory('RecipeData', [function(){
       "fresh lemon juice for serving"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -2982,8 +2982,8 @@ data.factory('RecipeData', [function(){
       "½ teaspoon garlic"
     ],
     "cuisineType": [
-      "chicken",
-      "gluten-free"
+      "Chicken",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3000,7 +3000,7 @@ data.factory('RecipeData', [function(){
       "4 slices wheat bread"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3025,9 +3025,9 @@ data.factory('RecipeData', [function(){
       "½ teaspoon sambal oelek (adds spiciness - more to taste)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3049,8 +3049,8 @@ data.factory('RecipeData', [function(){
       "shredded cheese for serving"
     ],
     "cuisineType": [
-      "gluten-free",
-      "chicken"
+      "Gluten-free",
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3067,7 +3067,7 @@ data.factory('RecipeData', [function(){
       "fresh parsley for topping"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3091,8 +3091,8 @@ data.factory('RecipeData', [function(){
       "blue corn tortilla chips for yummy dippin'"
     ],
     "cuisineType": [
-      "gluten-free",
-      "chicken"
+      "Gluten-free",
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3114,8 +3114,8 @@ data.factory('RecipeData', [function(){
       "2 tablespoons water to adjust consistency"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3135,7 +3135,7 @@ data.factory('RecipeData', [function(){
       "up to 2 cups additional milk or water"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3157,7 +3157,7 @@ data.factory('RecipeData', [function(){
       "shaved Parmigiano Reggiano cheese for topping"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3180,7 +3180,7 @@ data.factory('RecipeData', [function(){
       "up to 2 tablespoons water"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3208,8 +3208,8 @@ data.factory('RecipeData', [function(){
       "salt to taste"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3232,7 +3232,7 @@ data.factory('RecipeData', [function(){
       "½ cup sun dried tomatoes packed in oil"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3256,7 +3256,7 @@ data.factory('RecipeData', [function(){
       "½ cup fresh chopped parsley or other herb of choice"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3274,7 +3274,7 @@ data.factory('RecipeData', [function(){
       "8 small ciabatta loaves"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3296,8 +3296,8 @@ data.factory('RecipeData', [function(){
       "1 squeeze lemon or orange juice"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3317,8 +3317,8 @@ data.factory('RecipeData', [function(){
       "Queso fresco and crema Mexicana for topping"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3338,8 +3338,8 @@ data.factory('RecipeData', [function(){
       "salt to taste"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3358,7 +3358,7 @@ data.factory('RecipeData', [function(){
       "fresh minced parsley and additional cheese for topping"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3378,7 +3378,7 @@ data.factory('RecipeData', [function(){
       "rice for serving"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3397,8 +3397,8 @@ data.factory('RecipeData', [function(){
       "1 cup water"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3422,7 +3422,7 @@ data.factory('RecipeData', [function(){
       "½ cup green onions"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3445,7 +3445,7 @@ data.factory('RecipeData', [function(){
       "cilantro and Cotija cheese for topping"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3471,8 +3471,8 @@ data.factory('RecipeData', [function(){
       "8 ounces cubed paneer"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3488,8 +3488,8 @@ data.factory('RecipeData', [function(){
       "8 ounces spaghetti"
     ],
     "cuisineType": [
-      "chicken",
-      "pork"
+      "Chicken",
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3508,7 +3508,7 @@ data.factory('RecipeData', [function(){
       "melty white cheese like Provolone or Mozzarella, if you want"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3528,7 +3528,7 @@ data.factory('RecipeData', [function(){
       "1-2 cups oil for frying"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3547,7 +3547,7 @@ data.factory('RecipeData', [function(){
       "2 lbs. chicken thighs, cut into small pieces (at the shelter they keep the bone in)"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3567,7 +3567,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper to taste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3584,7 +3584,7 @@ data.factory('RecipeData', [function(){
       "parsley for topping"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3608,7 +3608,7 @@ data.factory('RecipeData', [function(){
       "grated cheese for topping (they use a processed cheese similar to Velveeta)"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3627,7 +3627,7 @@ data.factory('RecipeData', [function(){
       "6 cups water"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3647,8 +3647,8 @@ data.factory('RecipeData', [function(){
       "salt and pepper to taste"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3670,7 +3670,7 @@ data.factory('RecipeData', [function(){
       "cilantro for serving"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3685,7 +3685,7 @@ data.factory('RecipeData', [function(){
       "olive oil"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3704,8 +3704,8 @@ data.factory('RecipeData', [function(){
       "rice noodles, cilantro, carrots, lime wedges, peanuts, onions or shallots for serving"
     ],
     "cuisineType": [
-      "gluten-free",
-      "chicken"
+      "Gluten-free",
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3725,8 +3725,8 @@ data.factory('RecipeData', [function(){
       "Parmesan cheese for topping"
     ],
     "cuisineType": [
-      "seafood",
-      "gluten-free"
+      "Seafood",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3746,7 +3746,7 @@ data.factory('RecipeData', [function(){
       "fresh basil for topping"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3762,8 +3762,8 @@ data.factory('RecipeData', [function(){
       "homemade poppy seed dressing (or store-bought)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "chicken"
+      "Gluten-free",
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3788,8 +3788,8 @@ data.factory('RecipeData', [function(){
       "rice for serving"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3804,8 +3804,8 @@ data.factory('RecipeData', [function(){
       "salt, pepper, lemon juice, melted butter"
     ],
     "cuisineType": [
-      "gluten-free",
-      "seafood"
+      "Gluten-free",
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3828,7 +3828,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3846,9 +3846,9 @@ data.factory('RecipeData', [function(){
       "salt to taste"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3871,7 +3871,7 @@ data.factory('RecipeData', [function(){
       "sliced green onions"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3898,8 +3898,8 @@ data.factory('RecipeData', [function(){
       "1½ tablespoons lemongrass paste (I used fresh lemongrass ground into a paste)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "chicken"
+      "Gluten-free",
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3918,9 +3918,9 @@ data.factory('RecipeData', [function(){
       "½ cup good quality cheese to taste (I used Gouda and Maasdam)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian",
-      "vegan"
+      "Gluten-free",
+      "Vegetarian",
+      "Vegan"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3941,9 +3941,9 @@ data.factory('RecipeData', [function(){
       "grapefruit or orange zest to taste"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3962,9 +3962,9 @@ data.factory('RecipeData', [function(){
       "salt to taste"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -3983,7 +3983,7 @@ data.factory('RecipeData', [function(){
       "3 cups water"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4010,7 +4010,7 @@ data.factory('RecipeData', [function(){
       "¼ cup water"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4027,7 +4027,7 @@ data.factory('RecipeData', [function(){
       "salt to taste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4046,9 +4046,9 @@ data.factory('RecipeData', [function(){
       "fresh lemon juice to taste"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4067,7 +4067,7 @@ data.factory('RecipeData', [function(){
       "olive oil"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4090,9 +4090,9 @@ data.factory('RecipeData', [function(){
       "cilantro for topping"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4114,9 +4114,9 @@ data.factory('RecipeData', [function(){
       "salt to taste"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian",
-      "vegan"
+      "Gluten-free",
+      "Vegetarian",
+      "Vegan"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4141,7 +4141,7 @@ data.factory('RecipeData', [function(){
       "1⁄4 teaspoon red pepper flakes"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4160,8 +4160,8 @@ data.factory('RecipeData', [function(){
       "red pepper flakes to taste"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4179,8 +4179,8 @@ data.factory('RecipeData', [function(){
       "½ cup Mozzarella cheese for topping (more to taste)"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4202,7 +4202,7 @@ data.factory('RecipeData', [function(){
       "shredded cheese, cilantro, and salsa for topping"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4226,7 +4226,7 @@ data.factory('RecipeData', [function(){
       "grated carrots, chopped scallions, chopped peanuts, cilantro"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4244,7 +4244,7 @@ data.factory('RecipeData', [function(){
       "Parmigiano Reggiano cheese for topping"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4272,7 +4272,7 @@ data.factory('RecipeData', [function(){
       "sesame seeds"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4295,8 +4295,8 @@ data.factory('RecipeData', [function(){
       "2 cups panko bread crumbs"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4316,7 +4316,7 @@ data.factory('RecipeData', [function(){
       "1 lb. whole wheat rigatoni"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4336,7 +4336,7 @@ data.factory('RecipeData', [function(){
       "¾ cup shredded mozzarella cheese"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4360,7 +4360,7 @@ data.factory('RecipeData', [function(){
       "12+ flour tortillas"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4378,7 +4378,7 @@ data.factory('RecipeData', [function(){
       "1 lb. boneless skinless chicken breasts"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4402,9 +4402,9 @@ data.factory('RecipeData', [function(){
       "green herbs for garnish (I used malunggay leaves - you could use cilantro, green onions, etc.)"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4425,9 +4425,9 @@ data.factory('RecipeData', [function(){
       "1 cup starchy boiling water from pasta pot"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4451,8 +4451,8 @@ data.factory('RecipeData', [function(){
       "Greek yogurt and rice for serving"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4467,7 +4467,7 @@ data.factory('RecipeData', [function(){
       "1 can refried beans (I like Amy’s Organic Refried Black Beans – so yummy!)"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4487,8 +4487,8 @@ data.factory('RecipeData', [function(){
       "feta cheese and green onions for topping"
     ],
     "cuisineType": [
-      "chicken",
-      "gluten-free"
+      "Chicken",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4515,7 +4515,7 @@ data.factory('RecipeData', [function(){
       "1 teaspoon lime juice"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4537,7 +4537,7 @@ data.factory('RecipeData', [function(){
       "sliced green onions for topping"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4560,8 +4560,8 @@ data.factory('RecipeData', [function(){
       "¼ cup milk"
     ],
     "cuisineType": [
-      "chicken",
-      "gluten-free"
+      "Chicken",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4586,7 +4586,7 @@ data.factory('RecipeData', [function(){
       "cilantro and crumbled Cotija cheese for topping"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4631,7 +4631,7 @@ data.factory('RecipeData', [function(){
       "1 cup shredded white cheese (Jack, White Cheddar, Pepperjack, etc.)"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4655,7 +4655,7 @@ data.factory('RecipeData', [function(){
       "½ cup salsa (I like to use a less chunky one)"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4678,8 +4678,8 @@ data.factory('RecipeData', [function(){
       "crushed peanuts for topping"
     ],
     "cuisineType": [
-      "chicken",
-      "gluten-free"
+      "Chicken",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4698,9 +4698,9 @@ data.factory('RecipeData', [function(){
       "cream to taste"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4723,8 +4723,8 @@ data.factory('RecipeData', [function(){
       "4-6 flour tortillas"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4743,9 +4743,9 @@ data.factory('RecipeData', [function(){
       "fresh basil and chopped peanuts for topping"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4766,7 +4766,7 @@ data.factory('RecipeData', [function(){
       "1 ounce good quality shredded cheese of choice (I used a sharp white cheddar)"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4785,7 +4785,7 @@ data.factory('RecipeData', [function(){
       "1 cup shredded white cheddar cheese"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4806,7 +4806,7 @@ data.factory('RecipeData', [function(){
       "fresh cilantro, avocado, shredded cheese, sour cream, or pico de gallo for topping"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4822,9 +4822,9 @@ data.factory('RecipeData', [function(){
       "optional: minced garlic or onion"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4841,8 +4841,8 @@ data.factory('RecipeData', [function(){
       "grated cheese (I used Gouda)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4862,7 +4862,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon olive oil"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4880,7 +4880,7 @@ data.factory('RecipeData', [function(){
       "1 1-inch piece ginger, grated or minced"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4897,7 +4897,7 @@ data.factory('RecipeData', [function(){
       "3 tablespoons chopped fresh basil"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4915,7 +4915,7 @@ data.factory('RecipeData', [function(){
       "olive oil"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4940,9 +4940,9 @@ data.factory('RecipeData', [function(){
       "rice for serving"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4966,7 +4966,7 @@ data.factory('RecipeData', [function(){
       "2 cups chow mein noodles (dry crunchy kind)"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4986,7 +4986,7 @@ data.factory('RecipeData', [function(){
       "sharp, hard cheese for topping (like Parmesan)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5007,7 +5007,7 @@ data.factory('RecipeData', [function(){
       "salt to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5033,7 +5033,7 @@ data.factory('RecipeData', [function(){
       "1 avocado (optional)"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5056,7 +5056,7 @@ data.factory('RecipeData', [function(){
       "1 ounce good quality shredded cheese of choice (I used a sharp white French cheese... honestly I can't remember the name! woops.)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5075,7 +5075,7 @@ data.factory('RecipeData', [function(){
       "6 ounces enchilada sauce (almost ¾ cup)"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5096,7 +5096,7 @@ data.factory('RecipeData', [function(){
       "1 sheet pie crust, 1 sheet puff pastry, or 1 croissant dough sheet"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5117,7 +5117,7 @@ data.factory('RecipeData', [function(){
       "fresh cilantro"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5138,8 +5138,8 @@ data.factory('RecipeData', [function(){
       "6 tablespoons shredded cheese (Pepperjack, Cheddar, Colby Jack... anything will work)"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5156,7 +5156,7 @@ data.factory('RecipeData', [function(){
       "parmesan cheese, fresh lemon, or sea salt for topping"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5180,9 +5180,9 @@ data.factory('RecipeData', [function(){
       "Greek yogurt for topping"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5203,7 +5203,7 @@ data.factory('RecipeData', [function(){
       "cilantro and crumbled Cotija cheese for topping"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5228,9 +5228,9 @@ data.factory('RecipeData', [function(){
       "salt to taste"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5250,7 +5250,7 @@ data.factory('RecipeData', [function(){
       "1 head broccoli, washed and cut into bite-sized pieces"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5269,7 +5269,7 @@ data.factory('RecipeData', [function(){
       "2 tbs. butter"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5292,7 +5292,7 @@ data.factory('RecipeData', [function(){
       "3-4 green onions, thinly sliced"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5313,8 +5313,8 @@ data.factory('RecipeData', [function(){
       "fresh cilantro, Cotija cheese for topping"
     ],
     "cuisineType": [
-      "gluten-free",
-      "chicken"
+      "Gluten-free",
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5331,7 +5331,7 @@ data.factory('RecipeData', [function(){
       "3 tablespoons butter, melted"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5353,7 +5353,7 @@ data.factory('RecipeData', [function(){
       "1 slice bacon, chopped or crumbled"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5372,7 +5372,7 @@ data.factory('RecipeData', [function(){
       "freshly grated Parmesan cheese"
     ],
     "cuisineType": [
-      "gluten-free"
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5392,7 +5392,7 @@ data.factory('RecipeData', [function(){
       "crumbled bacon or breadcrumbs for topping"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5416,7 +5416,7 @@ data.factory('RecipeData', [function(){
       "1¼ cup water"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5437,8 +5437,8 @@ data.factory('RecipeData', [function(){
       "sour cream"
     ],
     "cuisineType": [
-      "beef",
-      "gluten-free"
+      "Beef",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5459,7 +5459,7 @@ data.factory('RecipeData', [function(){
       "¼ cup Parmesan cheese for topping"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5483,7 +5483,7 @@ data.factory('RecipeData', [function(){
       "2-3 tablespoons dry sherry, if desired"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5500,7 +5500,7 @@ data.factory('RecipeData', [function(){
       "toppings: bacon, scallions, and/or French fried onions"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5521,9 +5521,9 @@ data.factory('RecipeData', [function(){
       "¼ cup toasted pecan pieces"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5539,7 +5539,7 @@ data.factory('RecipeData', [function(){
       "1-2 tablespoons butter"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5559,7 +5559,7 @@ data.factory('RecipeData', [function(){
       "1 cup mozzarella cheese, shredded"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5578,7 +5578,7 @@ data.factory('RecipeData', [function(){
       "¼ cup sliced scallions or green onions"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5595,7 +5595,7 @@ data.factory('RecipeData', [function(){
       "sour cream and tortilla chips for topping"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5611,7 +5611,7 @@ data.factory('RecipeData', [function(){
       "toppings: fresh spinach, pepperoni, green pepper, Canadian bacon, etc."
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5632,9 +5632,9 @@ data.factory('RecipeData', [function(){
       "optional: 2 tablespoons cream, 1 teaspoon lemon juice, cayenne for sprinkling"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian",
-      "vegan"
+      "Gluten-free",
+      "Vegetarian",
+      "Vegan"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5649,7 +5649,7 @@ data.factory('RecipeData', [function(){
       "parmesan cheese"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5665,7 +5665,7 @@ data.factory('RecipeData', [function(){
       "lettuce, queso, crema, and tostadas"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5684,8 +5684,8 @@ data.factory('RecipeData', [function(){
       "cheese"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5706,7 +5706,7 @@ data.factory('RecipeData', [function(){
       "4 tablespoons crumbled bacon"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5723,7 +5723,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5747,7 +5747,7 @@ data.factory('RecipeData', [function(){
       "¼ cup thinly sliced green onions"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5763,7 +5763,7 @@ data.factory('RecipeData', [function(){
       "½ teaspoon pepper"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5791,7 +5791,7 @@ data.factory('RecipeData', [function(){
       "⅓ cup peanuts"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5807,9 +5807,9 @@ data.factory('RecipeData', [function(){
       "3 leaves fresh basil, chopped"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian",
-      "vegan"
+      "Gluten-free",
+      "Vegetarian",
+      "Vegan"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5829,8 +5829,8 @@ data.factory('RecipeData', [function(){
       "optional add-ins: 2 tbs. minced red onion, 1 chopped roasted red pepper, 1 cup black beans, 1 teaspoon sugar"
     ],
     "cuisineType": [
-      "gluten-free",
-      "chicken"
+      "Gluten-free",
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5846,7 +5846,7 @@ data.factory('RecipeData', [function(){
       "handful fresh spinach"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5867,8 +5867,8 @@ data.factory('RecipeData', [function(){
       "fresh cilantro"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5889,7 +5889,7 @@ data.factory('RecipeData', [function(){
       "4 thinly sliced pieces of fresh mozzarella"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5910,8 +5910,8 @@ data.factory('RecipeData', [function(){
       "1 15-ounce can pinto beans"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5932,9 +5932,9 @@ data.factory('RecipeData', [function(){
       "corn tortillas"
     ],
     "cuisineType": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5952,7 +5952,7 @@ data.factory('RecipeData', [function(){
       "¼ teaspoon paprika (x2)"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5972,8 +5972,8 @@ data.factory('RecipeData', [function(){
       "olive oil, balsamic vinegar, and/or Greek dressing"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5988,7 +5988,7 @@ data.factory('RecipeData', [function(){
       "¼ cup pesto (store bought or homemade)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6006,7 +6006,7 @@ data.factory('RecipeData', [function(){
       "8 flour tortillas"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6022,8 +6022,8 @@ data.factory('RecipeData', [function(){
       "4 tbs. pesto"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6041,9 +6041,9 @@ data.factory('RecipeData', [function(){
       "⅓ cup chopped fresh cilantro"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6071,7 +6071,7 @@ data.factory('RecipeData', [function(){
       "squeeze of fresh lemon juice"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6092,7 +6092,7 @@ data.factory('RecipeData', [function(){
       "pinch of cayenne to add heat, if you want!"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6106,7 +6106,7 @@ data.factory('RecipeData', [function(){
       "1 cup tomato sauce (pizza, pasta, marinara, whatever)"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6127,8 +6127,8 @@ data.factory('RecipeData', [function(){
       "4 tbs. flour"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6146,9 +6146,9 @@ data.factory('RecipeData', [function(){
       "2 tbs. fig preserves (my new favorite!)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6165,7 +6165,7 @@ data.factory('RecipeData', [function(){
       "1 bunch of fresh basil leaves"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6183,9 +6183,9 @@ data.factory('RecipeData', [function(){
       "hummus"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6200,7 +6200,7 @@ data.factory('RecipeData', [function(){
       "your favorite pizza crust (I used this one)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6218,7 +6218,7 @@ data.factory('RecipeData', [function(){
       "cilantro sauce: cilantro, oil, avocado, salsa verde"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6234,8 +6234,8 @@ data.factory('RecipeData', [function(){
       "4 tbs. mozzarella cheese"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6253,8 +6253,8 @@ data.factory('RecipeData', [function(){
       "honey"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6275,8 +6275,8 @@ data.factory('RecipeData', [function(){
       "salt and pepper"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6295,7 +6295,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6312,7 +6312,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper to taste"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6329,7 +6329,7 @@ data.factory('RecipeData', [function(){
       "Parmesan cheese"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6351,7 +6351,7 @@ data.factory('RecipeData', [function(){
       "¾ pound good feta cheese, large diced"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6371,7 +6371,7 @@ data.factory('RecipeData', [function(){
       "black bean puree (see above)"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6392,7 +6392,7 @@ data.factory('RecipeData', [function(){
       "lettuce leaves, washed"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6409,7 +6409,7 @@ data.factory('RecipeData', [function(){
       "garnishes: green onions, gorgonzola cheese, parsley"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6424,7 +6424,7 @@ data.factory('RecipeData', [function(){
       "3 tbs. of Sun Dried Tomato Dill seasoning mix from The Golden Fig"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6442,7 +6442,7 @@ data.factory('RecipeData', [function(){
       "sliced cheese to top pieces (optional – but not really)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6460,9 +6460,9 @@ data.factory('RecipeData', [function(){
       "Sour cream and salsa"
     ],
     "cuisineType": [
-      "vegetarian",
-      "vegan",
-      "gluten-free"
+      "Vegetarian",
+      "Vegan",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6478,9 +6478,9 @@ data.factory('RecipeData', [function(){
       "white crumbly cheese (feta, gorgonzola, cotija, etc.)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6496,8 +6496,8 @@ data.factory('RecipeData', [function(){
       "toppings: salsa, avocado, sour cream, cilantro, scallions"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6515,8 +6515,8 @@ data.factory('RecipeData', [function(){
       "diced cooked chicken (optional)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6532,9 +6532,9 @@ data.factory('RecipeData', [function(){
       "water"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6558,8 +6558,8 @@ data.factory('RecipeData', [function(){
       "Cheese of choice (I used sliced Swiss)"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6586,8 +6586,8 @@ data.factory('RecipeData', [function(){
       "¼ cup shaved Parmigiano-Reggiano cheese"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6604,7 +6604,7 @@ data.factory('RecipeData', [function(){
       "1 18-ounce tube precooked polenta, cut into 12 rounds"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6626,8 +6626,7 @@ data.factory('RecipeData', [function(){
       "Salt, pepper, and chives (to taste)"
     ],
     "cuisineType": [
-      "snacks",
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6646,8 +6645,8 @@ data.factory('RecipeData', [function(){
       "1 tbsp. parsley, chopped"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6665,7 +6664,7 @@ data.factory('RecipeData', [function(){
       "1 1 lb. pork tenderloin, trimmed of excess fat around the edges"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6681,8 +6680,8 @@ data.factory('RecipeData', [function(){
       "1 tbsp. parsley, finely chopped"
     ],
     "cuisineType": [
-      "seafood",
-      "gluten-free"
+      "Seafood",
+      "Gluten-free"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6706,7 +6705,7 @@ data.factory('RecipeData', [function(){
       "4 buns, lightly toasted"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6725,7 +6724,7 @@ data.factory('RecipeData', [function(){
       "3 cups cooked brown rice"
     ],
     "cuisineType": [
-      "lunch"
+      "Pork"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6750,7 +6749,7 @@ data.factory('RecipeData', [function(){
       "2 delicata squash"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6775,7 +6774,7 @@ data.factory('RecipeData', [function(){
       "Salt & pepper to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6798,7 +6797,7 @@ data.factory('RecipeData', [function(){
       "2 carrots, sliced thin - however you like! (I used a peeler to make them into thin strips.)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6818,7 +6817,7 @@ data.factory('RecipeData', [function(){
       "juice of 1 lemon"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6840,7 +6839,7 @@ data.factory('RecipeData', [function(){
       "2 tbsp. fresh scallions, chopped"
     ],
     "cuisineType": [
-      "lunch"
+      "Pork"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6860,8 +6859,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup Panko bread crumbs - Make it gluten-free by using gluten-free bread crumbs! Can't find them? Just put some rice chex in your food processor and turn them into crumbs."
     ],
     "cuisineType": [
-      "lunch",
-      "sides"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6874,7 +6872,7 @@ data.factory('RecipeData', [function(){
       "3 tbsp. dijon mustard"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6898,7 +6896,7 @@ data.factory('RecipeData', [function(){
       "1/2 cup water"
     ],
     "cuisineType": [
-      "lunch"
+      "Pork"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6913,7 +6911,7 @@ data.factory('RecipeData', [function(){
       "1 tbsp. low sodium soy sauce"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6932,8 +6930,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper, to taste"
     ],
     "cuisineType": [
-      "appetizers & snacks",
-      "lunch"
+      "Seafood"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6950,7 +6947,7 @@ data.factory('RecipeData', [function(){
       "salt & pepper, to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6968,7 +6965,7 @@ data.factory('RecipeData', [function(){
       "salt & pepper, to taste"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -6986,7 +6983,7 @@ data.factory('RecipeData', [function(){
       "a dash of cayenne"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7009,7 +7006,7 @@ data.factory('RecipeData', [function(){
       "1 handful fresh basil, chopped"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7030,29 +7027,7 @@ data.factory('RecipeData', [function(){
       "a dash of smoked paprika (optional)"
     ],
     "cuisineType": [
-      "vegetarian"
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/08/25/menu-plan-monday-10/",
-    "recipeTitle": "Menu Plan Monday #10",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/08/18/menu-plan-monday-9/",
-    "recipeTitle": "Menu Plan Monday #9",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7071,18 +7046,7 @@ data.factory('RecipeData', [function(){
       "3/4 cup blueberries (I used fresh because it's summer, but thawing and rinsing frozen blueberries would work just as well!)"
     ],
     "cuisineType": [
-      "vegetarian"
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/08/11/menu-plan-monday-8/",
-    "recipeTitle": "Menu Plan Monday #8",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7097,29 +7061,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper, to taste"
     ],
     "cuisineType": [
-      "vegetarian"
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/08/04/menu-plan-monday-7/",
-    "recipeTitle": "Menu Plan Monday #7",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/07/28/menu-plan-monday-6/",
-    "recipeTitle": "Menu Plan Monday #6",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7137,29 +7079,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons fresh cilantro"
     ],
     "cuisineType": [
-      "seafood"
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/07/21/menu-plan-monday-5/",
-    "recipeTitle": "Menu Plan Monday #5",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/07/14/menu-plan-monday-4/",
-    "recipeTitle": "Menu Plan Monday # 4",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-
+      "Seafood"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7177,7 +7097,7 @@ data.factory('RecipeData', [function(){
       "water"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7194,18 +7114,7 @@ data.factory('RecipeData', [function(){
       "1/2 cup spinach leaves"
     ],
     "cuisineType": [
-      "vegetarian"
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/07/07/menu-plan-monday-3/",
-    "recipeTitle": "Menu Plan Monday #3",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7221,7 +7130,7 @@ data.factory('RecipeData', [function(){
       "2 tbsp. balsamic vinegar reduction"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7239,29 +7148,7 @@ data.factory('RecipeData', [function(){
       "salt & pepper, to taste"
     ],
     "cuisineType": [
-      "pork"
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/06/30/menu-plan-monday-2/",
-    "recipeTitle": "Menu Plan Monday #2",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/06/23/meal-plan-monday-1/",
-    "recipeTitle": "Menu Plan Monday (Numero Uno!)",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-
+      "Pork"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7277,8 +7164,7 @@ data.factory('RecipeData', [function(){
       "1 tbsp. parmesan, grated"
     ],
     "cuisineType": [
-      "appetizers & snacks",
-      "lunch"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7295,7 +7181,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup shaved parmesan"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7319,7 +7205,7 @@ data.factory('RecipeData', [function(){
       "1/2 cup low-fat cheddar cheese, shredded"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7336,7 +7222,7 @@ data.factory('RecipeData', [function(){
       "1 bunch bok choy, chopped"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7352,7 +7238,7 @@ data.factory('RecipeData', [function(){
       "10 oz. fresh spinach"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7371,7 +7257,7 @@ data.factory('RecipeData', [function(){
       "juice of 1/2 lemon"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7409,7 +7295,7 @@ data.factory('RecipeData', [function(){
       "1 refrigerated pie crust dough, thawed per package instructions (Pillsbury is my favorite.)"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7428,7 +7314,7 @@ data.factory('RecipeData', [function(){
       "4 tbsp. low-fat shredded cheddar"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7456,7 +7342,7 @@ data.factory('RecipeData', [function(){
       "1/2 cup shredded parmesan"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7477,7 +7363,7 @@ data.factory('RecipeData', [function(){
       "cooking spray"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7513,7 +7399,7 @@ data.factory('RecipeData', [function(){
       "1/4 avocado, sliced into thin strips"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7534,7 +7420,7 @@ data.factory('RecipeData', [function(){
       "cooking spray"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7552,7 +7438,7 @@ data.factory('RecipeData', [function(){
       "Fat free cheddar cheese, shredded"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7573,7 +7459,7 @@ data.factory('RecipeData', [function(){
       "paprika, to taste"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7594,7 +7480,7 @@ data.factory('RecipeData', [function(){
       "4 slices of tomato"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7610,7 +7496,7 @@ data.factory('RecipeData', [function(){
       "1 tbsp. sesame seeds"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7689,7 +7575,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper, to taste"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7721,8 +7607,8 @@ data.factory('RecipeData', [function(){
       "¼ to ½ teaspoon cayenne pepper (optional)"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -7751,9 +7637,9 @@ data.factory('RecipeData', [function(){
       "6 tortillas, flour or corn, warmed or grilled"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -7775,7 +7661,7 @@ data.factory('RecipeData', [function(){
       "any fixings you like: onion, lettuce, tomato, herbs, etc"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -7802,9 +7688,9 @@ data.factory('RecipeData', [function(){
       "serve with tomatillo salsa, store-bought or the one from this recipe"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -7825,7 +7711,7 @@ data.factory('RecipeData', [function(){
       "sea salt and freshly ground black pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -7849,7 +7735,7 @@ data.factory('RecipeData', [function(){
       "4 whole grain tortillas"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -7886,7 +7772,7 @@ data.factory('RecipeData', [function(){
       "¼ teaspoon honey or maple syrup (optional to offset bitterness)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -7912,7 +7798,7 @@ data.factory('RecipeData', [function(){
       "lemon wedges"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -7936,9 +7822,9 @@ data.factory('RecipeData', [function(){
       "¾ cup water, more as needed"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -7964,8 +7850,8 @@ data.factory('RecipeData', [function(){
       "pickled onions (not pictured, but a tasty addition)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -7984,8 +7870,8 @@ data.factory('RecipeData', [function(){
       "2 ripe avocados"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8009,8 +7895,8 @@ data.factory('RecipeData', [function(){
       "4 cups packed spinach"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8032,7 +7918,7 @@ data.factory('RecipeData', [function(){
       "your favorite salsa"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8062,7 +7948,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8089,8 +7975,8 @@ data.factory('RecipeData', [function(){
       "optional - minced garlic and/or ginger"
     ],
     "cuisineType": [
-      "vegetarian",
-      "vegan"
+      "Vegetarian",
+      "Vegan"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8118,9 +8004,9 @@ data.factory('RecipeData', [function(){
       "optional - minced garlic and/or ginger"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8144,7 +8030,7 @@ data.factory('RecipeData', [function(){
       "Sea salt and freshly ground pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8164,7 +8050,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8189,9 +8075,9 @@ data.factory('RecipeData', [function(){
       "optional: reserve some corn kernels and diced red pepper for garnish"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8214,9 +8100,9 @@ data.factory('RecipeData', [function(){
       "pinch of salt"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8240,9 +8126,9 @@ data.factory('RecipeData', [function(){
       "1 cup chopped basil"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8262,8 +8148,8 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8279,7 +8165,7 @@ data.factory('RecipeData', [function(){
       "drizzle of olive oil"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8302,9 +8188,9 @@ data.factory('RecipeData', [function(){
       "any sauce or chutney you like - I topped mine with greek yogurt, mixed with salt, pepper, chile flakes and a squeeze of lime, or use this recipe and make a similar vegan version."
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8328,9 +8214,9 @@ data.factory('RecipeData', [function(){
       "a few big handfuls of chopped kale"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8353,8 +8239,8 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8373,7 +8259,7 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8398,9 +8284,9 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8428,9 +8314,9 @@ data.factory('RecipeData', [function(){
       "tortillas, on the side"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8460,7 +8346,7 @@ data.factory('RecipeData', [function(){
       "generous amounts of freshly cracked pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8482,8 +8368,8 @@ data.factory('RecipeData', [function(){
       "chipotle cashew cream"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8502,7 +8388,7 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8526,8 +8412,8 @@ data.factory('RecipeData', [function(){
       "a scoop of hummus or cashew cream"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8553,9 +8439,9 @@ data.factory('RecipeData', [function(){
       "a little water to thin, if necessary"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8575,7 +8461,7 @@ data.factory('RecipeData', [function(){
       "grated pecorino cheese"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8600,7 +8486,7 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8624,8 +8510,8 @@ data.factory('RecipeData', [function(){
       "salt & pepper, to taste"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8648,8 +8534,8 @@ data.factory('RecipeData', [function(){
       "optional: a bit of freshly grated parmesan cheese"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8678,7 +8564,7 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8705,8 +8591,8 @@ data.factory('RecipeData', [function(){
       "a few pinches of cane sugar and salt"
     ],
     "cuisineType": [
-      "vegetarian",
-      "vegan"
+      "Vegetarian",
+      "Vegan"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8731,8 +8617,8 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8768,9 +8654,9 @@ data.factory('RecipeData', [function(){
       "a little water, if necessary to thin"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free",
-      "vegan"
+      "Vegetarian",
+      "Gluten-free",
+      "Vegan"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8792,9 +8678,9 @@ data.factory('RecipeData', [function(){
       "(optional): cooked millet or crusty bread on the side"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8817,7 +8703,7 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8840,8 +8726,8 @@ data.factory('RecipeData', [function(){
       "¼ - ⅓ cup olive oil"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8860,8 +8746,8 @@ data.factory('RecipeData', [function(){
       "(optional) add a protien: tofu, edamame, salmon, etc"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8897,8 +8783,8 @@ data.factory('RecipeData', [function(){
       "optional: ¼ cup (or more) greek yogurt"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8926,9 +8812,9 @@ data.factory('RecipeData', [function(){
       "hot sauce or sriracha"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegan",
-      "vegetarian"
+      "Gluten-free",
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8951,9 +8837,9 @@ data.factory('RecipeData', [function(){
       "drizzle of balsamic vinegar"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8975,7 +8861,7 @@ data.factory('RecipeData', [function(){
       "plenty of salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8996,8 +8882,8 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9021,7 +8907,7 @@ data.factory('RecipeData', [function(){
       "a few pinches of cane sugar and salt"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9044,9 +8930,9 @@ data.factory('RecipeData', [function(){
       "optional: greek yogurt w/ lime & salt"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9065,8 +8951,8 @@ data.factory('RecipeData', [function(){
       "a few spoonfuls of sun cheese (or burrata or fresh ricotta)"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9097,8 +8983,8 @@ data.factory('RecipeData', [function(){
       "generous pinches of salt"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9125,8 +9011,8 @@ data.factory('RecipeData', [function(){
       "optional - a few handfuls of arugula for serving"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9153,8 +9039,8 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9177,9 +9063,9 @@ data.factory('RecipeData', [function(){
       "more salt & pepper, to taste"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9204,9 +9090,9 @@ data.factory('RecipeData', [function(){
       "serve with extra limes"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9230,7 +9116,7 @@ data.factory('RecipeData', [function(){
       "salt & pepper to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9254,8 +9140,8 @@ data.factory('RecipeData', [function(){
       "1 teaspoon minced ginger"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free"
+      "Vegan",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9277,8 +9163,8 @@ data.factory('RecipeData', [function(){
       "a few pinches of red pepper flakes"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9303,7 +9189,7 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9326,9 +9212,9 @@ data.factory('RecipeData', [function(){
       "salt & pepper, to taste"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9351,7 +9237,7 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9377,9 +9263,9 @@ data.factory('RecipeData', [function(){
       "optional - 1 cup cubed tofu - bake or pan sear before you begin"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9405,9 +9291,9 @@ data.factory('RecipeData', [function(){
       "Spiced Ketchup and Chipotle Mayonnaise"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9433,9 +9319,9 @@ data.factory('RecipeData', [function(){
       "(optional) - top with grated parmesan or pecorino cheese"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9461,8 +9347,8 @@ data.factory('RecipeData', [function(){
       "(very optional) - top with grated parmesan or pecorino cheese"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9487,9 +9373,9 @@ data.factory('RecipeData', [function(){
       "1 teaspoon sriracha - optional"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9516,9 +9402,9 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9543,9 +9429,9 @@ data.factory('RecipeData', [function(){
       "salt"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9565,9 +9451,9 @@ data.factory('RecipeData', [function(){
       "salt, pepper"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free",
-      "vegetarian"
+      "Vegetarian",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9596,9 +9482,9 @@ data.factory('RecipeData', [function(){
       "diced avocado w/ a squeeze of lime"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9629,9 +9515,9 @@ data.factory('RecipeData', [function(){
       "salt, to taste"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9648,9 +9534,9 @@ data.factory('RecipeData', [function(){
       "chives"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9677,9 +9563,9 @@ data.factory('RecipeData', [function(){
       "1 cup water (more as needed)"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9709,8 +9595,8 @@ data.factory('RecipeData', [function(){
       "1 teaspoon sriracha (optional)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "vegetarian"
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9735,9 +9621,9 @@ data.factory('RecipeData', [function(){
       "1 teaspoon rice vinegar"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9764,9 +9650,9 @@ data.factory('RecipeData', [function(){
       "sprinkle of hemp seeds (I like Happy Hemp)"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9791,9 +9677,9 @@ data.factory('RecipeData', [function(){
       "salt"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9817,8 +9703,8 @@ data.factory('RecipeData', [function(){
       "a few pinches of red pepper flakes"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9843,9 +9729,7 @@ data.factory('RecipeData', [function(){
       "drizzle of honey on top"
     ],
     "cuisineType": [
-      "fall",
-      "gluten-free",
-      "thanksgiving"
+      "Chicken"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9868,9 +9752,9 @@ data.factory('RecipeData', [function(){
       "drizzle of balsamic or reduced balsamic"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9890,7 +9774,7 @@ data.factory('RecipeData', [function(){
       "store bought green chile salsa"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9916,8 +9800,8 @@ data.factory('RecipeData', [function(){
       "a pinch of salt & a few cracks of pepper"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9941,7 +9825,7 @@ data.factory('RecipeData', [function(){
       "freshly ground black pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9964,7 +9848,7 @@ data.factory('RecipeData', [function(){
       "optional: drizzle of honey"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9994,9 +9878,9 @@ data.factory('RecipeData', [function(){
       "(optional - extra peanut sauce)"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10022,7 +9906,7 @@ data.factory('RecipeData', [function(){
       "cilantro (optional)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10049,9 +9933,9 @@ data.factory('RecipeData', [function(){
       "avocado slices or feta cheese"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10078,9 +9962,9 @@ data.factory('RecipeData', [function(){
       "sesame seeds for coating"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10102,8 +9986,8 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10133,7 +10017,7 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10164,8 +10048,8 @@ data.factory('RecipeData', [function(){
       "salt, pepper"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10190,7 +10074,7 @@ data.factory('RecipeData', [function(){
       "pecorino or parmesan cheese, optional"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10217,9 +10101,9 @@ data.factory('RecipeData', [function(){
       "tofu or other cooked protein (optional)"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free",
-      "vegetarian"
+      "Vegan",
+      "Gluten-free",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10247,8 +10131,8 @@ data.factory('RecipeData', [function(){
       "extra lime slices"
     ],
     "cuisineType": [
-      "seafood",
-      "gluten-free"
+      "Seafood",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10275,7 +10159,7 @@ data.factory('RecipeData', [function(){
       "avocado slices"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10296,8 +10180,8 @@ data.factory('RecipeData', [function(){
       "optional: sriracha or chile flakes"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10330,7 +10214,7 @@ data.factory('RecipeData', [function(){
       "oil, for frying"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10351,9 +10235,8 @@ data.factory('RecipeData', [function(){
       "a few handfuls of fresh leafy herbs (parsley, basil, tarragon or mint are all good choices)"
     ],
     "cuisineType": [
-      "spring",
-      "pasta",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10384,7 +10267,7 @@ data.factory('RecipeData', [function(){
       "a pinch of salt and pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10412,7 +10295,7 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10434,8 +10317,8 @@ data.factory('RecipeData', [function(){
       "salt"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10458,7 +10341,7 @@ data.factory('RecipeData', [function(){
       "2 teaspoons minced fresh ginger"
     ],
     "cuisineType": [
-      "vegan"
+      "Vegan"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10485,8 +10368,8 @@ data.factory('RecipeData', [function(){
       "tortillas (corn or flour)"
     ],
     "cuisineType": [
-      "seafood",
-      "gluten-free"
+      "Seafood",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10509,8 +10392,8 @@ data.factory('RecipeData', [function(){
       "a few tablespoons sesame seeds for garnish"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10530,8 +10413,8 @@ data.factory('RecipeData', [function(){
       "¼ cup scallions, handful of micro greens, or herbs of your choice"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10548,8 +10431,8 @@ data.factory('RecipeData', [function(){
       "salt"
     ],
     "cuisineType": [
-      "seafood",
-      "gluten-free"
+      "Seafood",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10569,8 +10452,8 @@ data.factory('RecipeData', [function(){
       "pinch of red pepper flakes"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10600,8 +10483,8 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegan",
-      "gluten-free"
+      "Vegan",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10624,9 +10507,9 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10652,8 +10535,8 @@ data.factory('RecipeData', [function(){
       "splash of chile-garlic sauce (optional)"
     ],
     "cuisineType": [
-      "seafood",
-      "gluten-free"
+      "Seafood",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10685,9 +10568,9 @@ data.factory('RecipeData', [function(){
       "sesame seeds & panko bread crumbs to coat"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10714,8 +10597,8 @@ data.factory('RecipeData', [function(){
       "poached egg (optional)"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10739,9 +10622,9 @@ data.factory('RecipeData', [function(){
       "a few pinches of red pepper flakes"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10771,9 +10654,9 @@ data.factory('RecipeData', [function(){
       "flour, for coating"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10794,9 +10677,9 @@ data.factory('RecipeData', [function(){
       "toasted almonds and sesame seeds"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10822,9 +10705,9 @@ data.factory('RecipeData', [function(){
       "Pinch of red pepper flakes"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10850,8 +10733,8 @@ data.factory('RecipeData', [function(){
       "¼ cup toasted pumpkin seeds"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10875,7 +10758,7 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10901,8 +10784,8 @@ data.factory('RecipeData', [function(){
       "optional - seared tofu or other protein"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10927,9 +10810,9 @@ data.factory('RecipeData', [function(){
       "⅔ cup low sodium vegetarian broth"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10957,9 +10840,9 @@ data.factory('RecipeData', [function(){
       "salt & pepper, to taste"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian",
-      "gluten-free"
+      "Vegan",
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10984,7 +10867,7 @@ data.factory('RecipeData', [function(){
       "a few pinches of red pepper flakes"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11009,8 +10892,8 @@ data.factory('RecipeData', [function(){
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11033,8 +10916,8 @@ data.factory('RecipeData', [function(){
       "salt and pepper, to taste"
     ],
     "cuisineType": [
-      "vegan",
-      "vegetarian"
+      "Vegan",
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11057,7 +10940,7 @@ data.factory('RecipeData', [function(){
       "grated parmesan or pecorino cheese to go on top (optional)"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11085,8 +10968,8 @@ data.factory('RecipeData', [function(){
       "water or more stock, if needed"
     ],
     "cuisineType": [
-      "vegetarian",
-      "gluten-free"
+      "Vegetarian",
+      "Gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11128,7 +11011,7 @@ data.factory('RecipeData', [function(){
       "Sour cream"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11149,7 +11032,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon poppy seeds"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11169,7 +11052,7 @@ data.factory('RecipeData', [function(){
       "1/2 teaspoon crushed red pepper flakes, or more, to taste "
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11193,7 +11076,7 @@ data.factory('RecipeData', [function(){
       "1 jalapeno, thinly sliced"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11217,7 +11100,7 @@ data.factory('RecipeData', [function(){
       "1/2 teaspoon garlic powder"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11239,7 +11122,7 @@ data.factory('RecipeData', [function(){
       "1/2 teaspoon sesame seeds"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11266,7 +11149,7 @@ data.factory('RecipeData', [function(){
       "2 teaspoons cornstarch"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11290,7 +11173,7 @@ data.factory('RecipeData', [function(){
       "1 teaspoon grated ginger"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11311,7 +11194,7 @@ data.factory('RecipeData', [function(){
       "1/2 teaspoon sesame seeds"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11335,7 +11218,7 @@ data.factory('RecipeData', [function(){
       "Freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11361,7 +11244,7 @@ data.factory('RecipeData', [function(){
       "1 teaspoon Sriracha, optional"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11385,7 +11268,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon cornstarch"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11407,7 +11290,7 @@ data.factory('RecipeData', [function(){
       "1 head butter lettuce"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11430,7 +11313,7 @@ data.factory('RecipeData', [function(){
       "1 teaspoon soy sauce"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11447,7 +11330,7 @@ data.factory('RecipeData', [function(){
       "8 ounces sliced honey roasted turkey"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11466,7 +11349,7 @@ data.factory('RecipeData', [function(){
       "1/2 cup canned corn kernels, drained and rinsed"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11487,9 +11370,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon hot sauce, optional "
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11510,7 +11391,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11532,7 +11413,7 @@ data.factory('RecipeData', [function(){
       "1 Roma tomato, diced"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11551,7 +11432,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons freshly squeezed lime juice"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11573,11 +11454,7 @@ data.factory('RecipeData', [function(){
       "4 best quality hot dog buns"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "bacon",
-      "beef",
-      "hot dog"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11598,7 +11475,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons brown sugar, packed"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11620,7 +11497,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon whole grain mustard "
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11637,7 +11514,7 @@ data.factory('RecipeData', [function(){
       "1 cup marinara sauce, homemade or storebought"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11657,7 +11534,7 @@ data.factory('RecipeData', [function(){
       "Pinch of salt"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11678,7 +11555,7 @@ data.factory('RecipeData', [function(){
       "2 teaspoons sesame seeds"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11698,7 +11575,7 @@ data.factory('RecipeData', [function(){
       "8 bone-in, skin-on chicken thighs"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11723,7 +11600,7 @@ data.factory('RecipeData', [function(){
       "1/4 teaspoon ground black pepper"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11743,7 +11620,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11761,7 +11638,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup basil leaves, chiffonade"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11781,7 +11658,7 @@ data.factory('RecipeData', [function(){
       "1/2 teaspoon garlic powder"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11804,7 +11681,7 @@ data.factory('RecipeData', [function(){
       "2 teaspoons Frank's Hot Sauce"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11827,7 +11704,7 @@ data.factory('RecipeData', [function(){
       "Pinch of crushed red pepper flakes"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11847,7 +11724,7 @@ data.factory('RecipeData', [function(){
       "Sriracha, for serving"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11874,7 +11751,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11906,7 +11783,7 @@ data.factory('RecipeData', [function(){
       "2 large eggs"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11925,7 +11802,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11948,7 +11825,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup tortilla strips"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11971,7 +11848,7 @@ data.factory('RecipeData', [function(){
       "1 Roma tomato, diced"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -11995,7 +11872,7 @@ data.factory('RecipeData', [function(){
       "1/4 teaspoon ground black pepper"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12011,7 +11888,7 @@ data.factory('RecipeData', [function(){
       "2 teaspoons chopped mint leaves"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12040,9 +11917,7 @@ data.factory('RecipeData', [function(){
       "3/4 cup buttermilk"
     ],
     "cuisineType": [
-      "christmas",
-      "entree",
-      "thanksgiving"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12065,7 +11940,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon sugar"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12083,7 +11958,7 @@ data.factory('RecipeData', [function(){
       "1/2 cup mixed medley cherry tomatoes"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12100,8 +11975,8 @@ data.factory('RecipeData', [function(){
       "1 avocado, halved, seeded, peeled and diced"
     ],
     "cuisineType": [
-      "pork",
-      "beef"
+      "Pork",
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12122,7 +11997,7 @@ data.factory('RecipeData', [function(){
       "2 teaspoons sugar, or more to taste"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12143,10 +12018,7 @@ data.factory('RecipeData', [function(){
       "1 pound spaghetti"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "beef",
-      "italian"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12163,7 +12035,7 @@ data.factory('RecipeData', [function(){
       "4 ounces Wisconsin Brie, thinly sliced"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12180,7 +12052,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12201,7 +12073,7 @@ data.factory('RecipeData', [function(){
       "1/3 cup Greek yogurt"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12225,7 +12097,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12250,7 +12122,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12276,7 +12148,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12296,7 +12168,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup basil leaves, chiffonade "
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12315,7 +12187,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup fresh basil leaves, chiffonade"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12334,7 +12206,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12362,7 +12234,7 @@ data.factory('RecipeData', [function(){
       "Diced avocado, for serving"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12385,7 +12257,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves "
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12412,7 +12284,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped chives"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12437,10 +12309,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "vegetarian",
-      "mexican"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12464,7 +12333,7 @@ data.factory('RecipeData', [function(){
       "1/2 cup shredded cheddar cheese, or more, to taste "
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12487,7 +12356,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12510,7 +12379,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12532,7 +12401,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12554,7 +12423,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12580,7 +12449,7 @@ data.factory('RecipeData', [function(){
       "1/2 cup Panko*"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12601,7 +12470,7 @@ data.factory('RecipeData', [function(){
       "Grated Parmesan, for serving"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12624,7 +12493,7 @@ data.factory('RecipeData', [function(){
       "1/3 cup olive oil"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12646,7 +12515,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12665,7 +12534,7 @@ data.factory('RecipeData', [function(){
       "Sliced green onions, for garnish"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12684,7 +12553,7 @@ data.factory('RecipeData', [function(){
       "1 roma tomato, diced, for serving"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12702,7 +12571,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons milk"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12725,7 +12594,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12748,7 +12617,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup basil leaves, chiffonade"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12775,7 +12644,7 @@ data.factory('RecipeData', [function(){
       "1 teaspoon soy sauce"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12801,7 +12670,7 @@ data.factory('RecipeData', [function(){
       "1/4 teaspoon white pepper"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12825,7 +12694,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons Panko"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12846,10 +12715,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12872,7 +12738,7 @@ data.factory('RecipeData', [function(){
       "2 teaspoons freshly squeezed lemon juice"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12894,7 +12760,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12919,7 +12785,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon sesame oil"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12945,7 +12811,7 @@ data.factory('RecipeData', [function(){
       "1 sprig rosemary"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12969,9 +12835,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12997,7 +12861,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13021,7 +12885,7 @@ data.factory('RecipeData', [function(){
       "1 head broccoli, cut into florets"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13044,7 +12908,7 @@ data.factory('RecipeData', [function(){
       "1/4 teaspoon salt, or more, to taste "
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13069,7 +12933,7 @@ data.factory('RecipeData', [function(){
       "1/2 cup olive oil"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13093,7 +12957,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13114,7 +12978,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13137,7 +13001,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13157,10 +13021,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped chives"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "soup"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13178,11 +13039,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "italian",
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13205,7 +13062,7 @@ data.factory('RecipeData', [function(){
       "1/2 teaspoon Sriracha, or more, to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13229,7 +13086,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13250,7 +13107,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13274,7 +13131,7 @@ data.factory('RecipeData', [function(){
       "1 teaspoon Sriracha, optional"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13297,7 +13154,7 @@ data.factory('RecipeData', [function(){
       "1 Roma tomato, diced"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13318,7 +13175,7 @@ data.factory('RecipeData', [function(){
       "1 teaspoon Sriracha, or more, to taste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13341,7 +13198,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13361,7 +13218,7 @@ data.factory('RecipeData', [function(){
       "1 avocado, halved, seeded, peeled and thinly sliced"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13387,7 +13244,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13407,7 +13264,7 @@ data.factory('RecipeData', [function(){
       "1/4 teaspoon red pepper flakes, or more, to taste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13432,7 +13289,7 @@ data.factory('RecipeData', [function(){
       "2 cloves garlic, pressed"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13461,7 +13318,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13481,7 +13338,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13508,7 +13365,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13528,7 +13385,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13549,12 +13406,7 @@ data.factory('RecipeData', [function(){
       "4 rolls ciabatta bread, toasted, for serving"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
-      "chicken",
-      "lightened up",
-      "sandwich"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13573,7 +13425,7 @@ data.factory('RecipeData', [function(){
       "1 avocado, halved, seeded, peeled and thinly sliced, for serving"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13596,7 +13448,7 @@ data.factory('RecipeData', [function(){
       "2 Roma tomatoes, thinly sliced, for serving"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13616,7 +13468,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13633,7 +13485,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13651,7 +13503,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13674,7 +13526,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon poppy seeds"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13693,7 +13545,7 @@ data.factory('RecipeData', [function(){
       "8-10 Mission Foods Super Soft Medium Flour Tortillas, softened"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13715,9 +13567,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup brown sugar"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13738,7 +13588,7 @@ data.factory('RecipeData', [function(){
       "1 avocado, halved, seeded, peeled and thinly sliced"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13758,7 +13608,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13782,7 +13632,7 @@ data.factory('RecipeData', [function(){
       "4 boneless, skinless chicken breasts"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13805,7 +13655,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon cornstarch"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13826,7 +13676,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "seafdood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13843,7 +13693,7 @@ data.factory('RecipeData', [function(){
       "2 pounds salmon"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13863,7 +13713,7 @@ data.factory('RecipeData', [function(){
       "1/2 cup cornstarch"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13885,7 +13735,7 @@ data.factory('RecipeData', [function(){
       "1 large egg, beaten"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13916,7 +13766,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13941,7 +13791,7 @@ data.factory('RecipeData', [function(){
       "Pinch of sugar, optional"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13957,7 +13807,7 @@ data.factory('RecipeData', [function(){
       "2 cups shredded Great Midwest Jalapeño Jack"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13975,7 +13825,7 @@ data.factory('RecipeData', [function(){
       "1 1/2 cups grated jalapeño monterey jack cheese"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13998,14 +13848,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "giveaway",
-      "healthy",
-      "quick & easy",
-      "salad",
-      "kale",
-      "lightened up",
-      "sandwich"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14026,7 +13869,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon sugar"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14046,7 +13889,7 @@ data.factory('RecipeData', [function(){
       "Cooked rice, for serving"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14061,7 +13904,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup plus 2 tablespoons sugar"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14087,7 +13930,7 @@ data.factory('RecipeData', [function(){
       "1 teaspoon sesame oil"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14109,7 +13952,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14126,7 +13969,7 @@ data.factory('RecipeData', [function(){
       "1 avocado, halved, seeded, peeled and sliced"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14150,7 +13993,7 @@ data.factory('RecipeData', [function(){
       "1 large egg, beaten"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14171,7 +14014,7 @@ data.factory('RecipeData', [function(){
       "2 cups baby spinach, chopped"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14189,7 +14032,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14212,7 +14055,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14236,7 +14079,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14256,7 +14099,7 @@ data.factory('RecipeData', [function(){
       "1 pound asparagus, trimmed"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14271,10 +14114,7 @@ data.factory('RecipeData', [function(){
       "Juice of 1/2 lime"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "side dish",
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14294,7 +14134,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons cornstarch"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14314,14 +14154,7 @@ data.factory('RecipeData', [function(){
       "1 teaspoon chipotle peppers in adobo sauce, or more to taste"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "avocado",
-      "beef",
-      "corn",
-      "hot dog",
-      "mexican",
-      "peppers"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14338,10 +14171,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "appetizer",
-      "entree",
-      "quick & easy",
-      "salad"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14364,7 +14194,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste "
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14382,22 +14212,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "pork"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/10/28/mummy-hot-dogs-sundaysupper/",
-    "recipeTitle": "Mummy Hot Dogs",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "halloween",
-      "quick & easy",
-      "beef",
-      "hot dog"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14423,7 +14238,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14442,7 +14257,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14468,7 +14283,7 @@ data.factory('RecipeData', [function(){
       "1 (15-ounce) can Great Northern beans, drained and rinsed"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14488,7 +14303,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14508,7 +14323,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14527,7 +14342,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14549,7 +14364,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14572,7 +14387,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14596,7 +14411,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14620,7 +14435,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14638,7 +14453,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves "
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14659,7 +14474,7 @@ data.factory('RecipeData', [function(){
       "1 teaspoon hot sauce, optional"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14679,7 +14494,7 @@ data.factory('RecipeData', [function(){
       "1 cup shredded pepper jack cheese"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14700,7 +14515,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup basil leaves, chiffonade"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14722,7 +14537,7 @@ data.factory('RecipeData', [function(){
       "1 cup shredded cheddar cheese"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14746,7 +14561,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste."
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14769,7 +14584,7 @@ data.factory('RecipeData', [function(){
       "2 green onions, sliced "
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14793,7 +14608,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14812,7 +14627,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14834,7 +14649,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup grated Parmesan cheese"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14857,7 +14672,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14879,7 +14694,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14897,7 +14712,7 @@ data.factory('RecipeData', [function(){
       "1 cup grated Parmesan"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14918,7 +14733,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14939,7 +14754,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup freshly grated Parmesan cheese"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14962,7 +14777,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14981,7 +14796,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup heavy cream"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15004,8 +14819,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon Dijon mustard"
     ],
     "cuisineType": [
-      "entree",
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15033,7 +14847,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15054,20 +14868,7 @@ data.factory('RecipeData', [function(){
       "8 bone-in, skin-on chicken thighs"
     ],
     "cuisineType": [
-      "chicken"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2013/01/23/pancetta-mac-and-cheese-panini/",
-    "recipeTitle": "Pancetta Mac and Cheese Panini",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "pork",
-      "sandwich"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15086,7 +14887,7 @@ data.factory('RecipeData', [function(){
       "2 large eggs, beaten"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15105,7 +14906,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15125,7 +14926,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15146,8 +14947,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15173,7 +14973,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15196,7 +14996,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15214,7 +15014,7 @@ data.factory('RecipeData', [function(){
       "Fried egg, for serving"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15237,7 +15037,7 @@ data.factory('RecipeData', [function(){
       "1 head butter lettuce"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15256,7 +15056,7 @@ data.factory('RecipeData', [function(){
       "2 teaspoons vegetable oil"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15276,10 +15076,7 @@ data.factory('RecipeData', [function(){
       "1 cup shredded white cheddar cheese"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "beef",
-      "sandwich"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15303,7 +15100,7 @@ data.factory('RecipeData', [function(){
       "2 green onions, sliced"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15321,27 +15118,7 @@ data.factory('RecipeData', [function(){
       "2/3 cup shredded mozzarella cheese"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
-      "italian",
-      "pizza",
-      "turkey",
-      "zucchini"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/07/27/pork-belly-sliders-with-pickled-daikon-and-carrots/",
-    "recipeTitle": "Pork Belly Sliders",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "asian inspired",
-      "entree",
-      "pork",
-      "sandwich"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15364,7 +15141,7 @@ data.factory('RecipeData', [function(){
       "1 teaspoon Sriracha, optional"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15391,7 +15168,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup sour cream"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15411,7 +15188,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup basil leaves, chiffonade"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15439,7 +15216,7 @@ data.factory('RecipeData', [function(){
       "1 avocado, halved, seeded, peeled and diced"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15462,7 +15239,7 @@ data.factory('RecipeData', [function(){
       "1 Roma tomato, diced"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15483,7 +15260,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon sugar"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15507,7 +15284,7 @@ data.factory('RecipeData', [function(){
       "6 bell peppers, tops cut, stemmed and seeded"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15532,7 +15309,7 @@ data.factory('RecipeData', [function(){
       "Sriracha, for serving"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15550,7 +15327,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15573,10 +15350,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup basil leaves, chiffonade"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "italian"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15596,7 +15370,7 @@ data.factory('RecipeData', [function(){
       "1 1/2 cups shredded mozzarella cheese"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15618,7 +15392,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped chives"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15649,10 +15423,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup chopped fresh cilantro"
     ],
     "cuisineType": [
-      "entree",
-      "mexican",
-      "peppers",
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15672,7 +15443,7 @@ data.factory('RecipeData', [function(){
       "1-2 teaspoons Sriracha"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15697,8 +15468,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "appetizer",
-      "entree"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15716,8 +15486,8 @@ data.factory('RecipeData', [function(){
       "2 Roma tomatoes, thinly sliced, for serving"
     ],
     "cuisineType": [
-      "seafood",
-      "pork"
+      "Seafood",
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15740,7 +15510,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup heavy cream"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15768,7 +15538,7 @@ data.factory('RecipeData', [function(){
       "1 teaspoon chili paste"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15794,7 +15564,7 @@ data.factory('RecipeData', [function(){
       "1/2 teaspoon sesame seeds"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15815,7 +15585,7 @@ data.factory('RecipeData', [function(){
       "2 hard boiled eggs, sliced lengthwise, for serving"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15839,7 +15609,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15862,7 +15632,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon sugar"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15880,7 +15650,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15906,7 +15676,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons apple cider vinegar "
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15925,7 +15695,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15949,7 +15719,7 @@ data.factory('RecipeData', [function(){
       "2 green onions, sliced"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15969,7 +15739,7 @@ data.factory('RecipeData', [function(){
       "3 cups broccoli slaw mix"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15990,7 +15760,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup freshly grated Parmesan"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16013,7 +15783,7 @@ data.factory('RecipeData', [function(){
       "1/2 teaspoon sesame oil"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16038,7 +15808,7 @@ data.factory('RecipeData', [function(){
       "1/2 teaspoon dried basil"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16066,7 +15836,7 @@ data.factory('RecipeData', [function(){
       "1 tablespoon olive oil, or more, to taste"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16089,7 +15859,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16110,7 +15880,7 @@ data.factory('RecipeData', [function(){
       "2 cups arugula "
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16130,7 +15900,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16156,7 +15926,7 @@ data.factory('RecipeData', [function(){
       "1 1/2 cups reduced fat shredded Mexican blend cheese"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16182,7 +15952,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16204,9 +15974,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "slow cooker",
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16225,7 +15993,7 @@ data.factory('RecipeData', [function(){
       "2 heads broccoli, cut into florets"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16248,7 +16016,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16270,7 +16038,7 @@ data.factory('RecipeData', [function(){
       "1/4 teaspoon crushed red pepper flakes, optional"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16294,7 +16062,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16313,7 +16081,7 @@ data.factory('RecipeData', [function(){
       "Sesame seeds, for garnish"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16330,7 +16098,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16350,7 +16118,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16372,7 +16140,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16395,7 +16163,7 @@ data.factory('RecipeData', [function(){
       "1/4 teaspoon ground black pepper"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16416,7 +16184,7 @@ data.factory('RecipeData', [function(){
       "Sesame seeds, for garnish"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16440,7 +16208,7 @@ data.factory('RecipeData', [function(){
       "2 green onions, thinly sliced"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16457,7 +16225,7 @@ data.factory('RecipeData', [function(){
       "15 whole cloves"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16477,7 +16245,7 @@ data.factory('RecipeData', [function(){
       "2 limes, juiced"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16501,7 +16269,7 @@ data.factory('RecipeData', [function(){
       "16 ounces wide egg noodles"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16522,7 +16290,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup heavy cream"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16551,7 +16319,7 @@ data.factory('RecipeData', [function(){
       "1 avocado, halved, seeded, peeled and diced"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16573,7 +16341,7 @@ data.factory('RecipeData', [function(){
       "3 cups baby spinach"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16594,7 +16362,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16615,7 +16383,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16647,7 +16415,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16671,7 +16439,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons apple cider vinegar"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16688,7 +16456,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16713,7 +16481,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16735,13 +16503,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "avocado",
-      "corn",
-      "mexican",
-      "peppers"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16761,7 +16523,7 @@ data.factory('RecipeData', [function(){
       "1 green onion, thinly sliced"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16787,7 +16549,7 @@ data.factory('RecipeData', [function(){
       "1/4 teaspoon salt"
     ],
     "cuisineType": [
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16809,7 +16571,7 @@ data.factory('RecipeData', [function(){
       "Romaine lettuce, for serving"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16833,7 +16595,7 @@ data.factory('RecipeData', [function(){
       "1 1/2 cups grated Parmesan, divided"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16855,7 +16617,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16878,7 +16640,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16897,7 +16659,7 @@ data.factory('RecipeData', [function(){
       "4 slices prosciutto, chopped"
     ],
     "cuisineType": [
-      "pork"
+      "Pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16920,7 +16682,7 @@ data.factory('RecipeData', [function(){
       "1/4 cup grated Parmesan"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16942,7 +16704,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons grated Parmesan"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16956,7 +16718,7 @@ data.factory('RecipeData', [function(){
       "1 Roma tomato, sliced and cut into half-circles"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16990,7 +16752,7 @@ data.factory('RecipeData', [function(){
       "2 pounds flank steak"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17012,7 +16774,7 @@ data.factory('RecipeData', [function(){
       "2 teaspoons sesame seeds"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17032,7 +16794,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17053,7 +16815,7 @@ data.factory('RecipeData', [function(){
       "2 teaspoons sugar, or more to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17073,7 +16835,7 @@ data.factory('RecipeData', [function(){
       "2 teaspoons Imperial Sugar Extra Fine Granulated Sugar, or more, to taste"
     ],
     "cuisineType": [
-      "vegetarian"
+      "Vegetarian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17097,7 +16859,7 @@ data.factory('RecipeData', [function(){
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "beef"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17123,7 +16885,7 @@ data.factory('RecipeData', [function(){
       "1 (15-ounce) can black beans, drained and rinsed"
     ],
     "cuisineType": [
-      "chicken"
+      "Chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17148,23 +16910,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "beef"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/07/11/sweet-and-sour-stir-fried-chicken-with-pineapple-and/",
-    "recipeTitle": "Sweet and Sour Stir-Fried Chicken",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "chicken",
-      "chinese",
-      "pineapple"
+      "Beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17181,11 +16927,7 @@ data.factory('RecipeData', [function(){
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "appetizer",
-      "asian inspired",
-      "entree",
-      "lemon",
-      "seafood"
+      "Seafood"
     ],
     "sourceName": "Damn Delicious"
   }

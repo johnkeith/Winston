@@ -100,7 +100,7 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 			'July', 'August', 'September', 'October', 'Novemeber', 'December']
 		var historicalRecipes = [];
 		var maxHistoricalRecipes = 10;
-		var recipeFilterSettings = { 'Beef': true, 'Pork': true, 'Chicken': true, 'Seafood': true, 'Vegan': true, 'Vegetarian': true };
+		var recipeFilterSettings = { 'Beef': true, 'Pork': true, 'Chicken': true, 'Seafood': true, 'Vegan': true, 'Vegetarian': true, 'Gluten-free': true };
 
 		var getRecipeCategories = function(){
 			allRecipes.forEach(function(recipeObj){
@@ -108,6 +108,18 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 					console.log(cat);
 				})
 			});
+		}
+
+		var recipeNotExcludedByType = function(recipe){			
+			var notExcluded = true;
+
+			recipe.cuisineType.forEach(function(el){
+				if(recipeFilterSettings[el] == false){
+					notExcluded = false;
+				}
+			});
+
+			return notExcluded;
 		}
 
 		var getRandomRecipe = function(excludedIndexes){
@@ -119,9 +131,16 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 			
 			while(recipe == undefined){
 				var newIndex = Math.floor(Math.random() * allRecipes.length);
+
+
 				if(excludedIndexes.indexOf(index) == -1){
 					recipe = allRecipes[newIndex];
-					index = newIndex;
+					
+					if(recipeNotExcludedByType(recipe)){
+						index = newIndex;
+					} else {
+						recipe = undefined;
+					}
 				}
 			}
 			
@@ -186,14 +205,33 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 			LocalStorage.setObject('recipeFilterSettings', recipeFilterSettings);
 		}
 
+		var onlyOneTypeUnfiltered = function(){
+			// not working, needs to be fixed
+			var numberOfTrue = 0;
+
+			for(var value in recipeFilterSettings){
+				if(value){
+					numberOfTrue += 1;
+				}
+			}
+
+			if(numberOfTrue == 1){
+				return true;
+			} else {
+				return false;
+			}
+		}
+
 		recipesService.getRecipeFilterSettings = function(){
 			return recipeFilterSettings;
 		}
 
 		recipesService.toggleRecipeFilter = function(type){
-			recipeFilterSettings[type] = !recipeFilterSettings[type];
+			if(onlyOneTypeUnfiltered() == false){
+				recipeFilterSettings[type] = !recipeFilterSettings[type];
 
-			saveRecipeFilterSettings();
+				saveRecipeFilterSettings();
+			}
 		}
 
 		recipesService.switchToPreviousMealPlan = function(histIndex){
