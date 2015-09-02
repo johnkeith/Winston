@@ -5,7 +5,7 @@ puts "\e[H\e[2J"
 
 data = JSON.parse File.read('combined.json')
 
-valid_categories = ['vegan', 'vegetarian', 'gluten-free', 'seafood', 'beef', 'pork', 'chicken']
+valid_categories = ['veggie', 'vegan', 'vegetarian', 'gluten-free', 'seafood', 'beef', 'pork', 'chicken']
 
 data.each_with_index do |d, idx|
 	if d['cuisineType'].map{ |i| valid_categories.include?(i) }.uniq.include?(false)

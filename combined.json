@@ -4219,9 +4219,7 @@
       "grated carrots, chopped scallions, chopped peanuts, cilantro"
     ],
     "cuisineType": [
-      "main dishes",
-      "meat and chicken",
-      "pasta"
+      "pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4239,9 +4237,6 @@
       "Parmigiano Reggiano cheese for topping"
     ],
     "cuisineType": [
-      "healthy",
-      "pasta",
-      "popular",
       "vegetarian"
     ],
     "sourceName": "Pinch of Yum"
@@ -4270,10 +4265,7 @@
       "sesame seeds"
     ],
     "cuisineType": [
-      "fish and seafood",
-      "healthy",
-      "lightened up",
-      "superfoods"
+      "seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4296,26 +4288,6 @@
       "2 cups panko bread crumbs"
     ],
     "cuisineType": [
-      "healthy",
-      "lindsay's faves",
-      "superfoods",
-      "vegan",
-      "vegetarian"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/favorite-lentil-recipes",
-    "recipeTitle": "Favorite Lentil Recipes",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "gluten-free",
-      "healthy",
-      "lightened up",
-      "main dishes",
-      "superfoods",
       "vegan",
       "vegetarian"
     ],
@@ -4337,11 +4309,7 @@
       "1 lb. whole wheat rigatoni"
     ],
     "cuisineType": [
-      "healthy",
-      "lightened up",
-      "meat and chicken",
-      "pasta",
-      "superfoods"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4361,10 +4329,6 @@
       "¾ cup shredded mozzarella cheese"
     ],
     "cuisineType": [
-      "healthy",
-      "lightened up",
-      "pasta",
-      "superfoods",
       "vegetarian"
     ],
     "sourceName": "Pinch of Yum"
@@ -4389,8 +4353,7 @@
       "12+ flour tortillas"
     ],
     "cuisineType": [
-      "meat and chicken",
-      "quick and easy"
+      "pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4408,8 +4371,7 @@
       "1 lb. boneless skinless chicken breasts"
     ],
     "cuisineType": [
-      "meat and chicken",
-      "quick and easy"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4433,11 +4395,9 @@
       "green herbs for garnish (I used malunggay leaves - you could use cilantro, green onions, etc.)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "healthy",
-      "superfoods",
       "vegan",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4458,36 +4418,9 @@
       "1 cup starchy boiling water from pasta pot"
     ],
     "cuisineType": [
-      "gluten-free",
-      "lightened up",
-      "pasta",
-      "superfoods",
       "vegan",
-      "vegetarian"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/an-edible-mosaic-cookbook-giveaway",
-    "recipeTitle": "An Edible Mosaic Cookbook Giveaway",
-    "ingredients": [
-      "½ batch Lemony Mint Salad Dressing (recipe below)",
-      "1 English cucumber (or 3 to 4 Persian or Japanese cucumbers), diced",
-      "1 onion, minced",
-      "1 lb (500 g) tomatoes, diced (about 4 medium tomatoes)",
-      "1 bunch fresh parsley, minced",
-      "4 sprigs fresh mint, minced",
-      "¼ teaspoon salt",
-      "1 clove garlic, crushed in a mortar and pestle with ¼ teaspoon salt",
-      "Juice of 1 lemon (about 3 tablespoons)",
-      "½ cup (125 ml) olive oil",
-      "1 tablespoon minced fresh mint leaves"
-    ],
-    "cuisineType": [
-      "giveaway",
-      "healthy",
-      "salads",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4511,20 +4444,7 @@
       "Greek yogurt and rice for serving"
     ],
     "cuisineType": [
-      "healthy",
       "vegan",
-      "vegetarian"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/how-to-cut-and-peel-a-kabocha-squash",
-    "recipeTitle": "How to Cut and Peel a Kabocha Squash",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "healthy",
       "vegetarian"
     ],
     "sourceName": "Pinch of Yum"
@@ -4540,8 +4460,7 @@
       "1 can refried beans (I like Amy’s Organic Refried Black Beans – so yummy!)"
     ],
     "cuisineType": [
-      "bjork's faves",
-      "meat and chicken"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4561,31 +4480,8 @@
       "feta cheese and green onions for topping"
     ],
     "cuisineType": [
-      "gluten-free",
-      "healthy",
-      "meat and chicken",
-      "salads",
-      "superfoods",
-      "vegetarian"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/how-i-make-hummus",
-    "recipeTitle": "How I Make Hummus",
-    "ingredients": [
-      "2 cans chickpeas",
-      "1 clove garlic",
-      "2-3 tablespoons olive oil",
-      "up to ½ cup water",
-      "½ teaspoon salt"
-    ],
-    "cuisineType": [
-      "gluten-free",
-      "sandwiches",
-      "superfoods",
-      "vegan",
-      "vegetarian"
+      "chicken",
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4612,8 +4508,7 @@
       "1 teaspoon lime juice"
     ],
     "cuisineType": [
-      "meat and chicken",
-      "sandwiches"
+      "beef"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4635,10 +4530,7 @@
       "sliced green onions for topping"
     ],
     "cuisineType": [
-      "fish and seafood",
-      "healthy",
-      "lightened up",
-      "pasta"
+      "seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4661,10 +4553,8 @@
       "¼ cup milk"
     ],
     "cuisineType": [
-      "gluten-free",
-      "main dishes",
-      "meat and chicken",
-      "soup"
+      "chicken",
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4689,10 +4579,7 @@
       "cilantro and crumbled Cotija cheese for topping"
     ],
     "cuisineType": [
-      "giveaway",
-      "main dishes",
-      "meat and chicken",
-      "quick and easy"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4714,9 +4601,7 @@
       "4 eggs"
     ],
     "cuisineType": [
-      "breakfast",
-      "eggs",
-      "quick and easy"
+
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4739,8 +4624,7 @@
       "1 cup shredded white cheese (Jack, White Cheddar, Pepperjack, etc.)"
     ],
     "cuisineType": [
-      "meat and chicken",
-      "quick and easy"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4764,8 +4648,7 @@
       "½ cup salsa (I like to use a less chunky one)"
     ],
     "cuisineType": [
-      "meat and chicken",
-      "quick and easy"
+      "pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4788,10 +4671,8 @@
       "crushed peanuts for topping"
     ],
     "cuisineType": [
-      "gluten-free",
-      "healthy",
-      "salads",
-      "superfoods"
+      "chicken",
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4811,10 +4692,6 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "healthy",
-      "lightened up",
-      "soup",
-      "superfoods",
       "vegan",
       "vegetarian"
     ],
@@ -4839,11 +4716,8 @@
       "4-6 flour tortillas"
     ],
     "cuisineType": [
-      "gluten-free",
-      "healthy",
-      "lightened up",
-      "superfoods",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4863,7 +4737,6 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "superfoods",
       "vegan",
       "vegetarian"
     ],
@@ -4886,7 +4759,7 @@
       "1 ounce good quality shredded cheese of choice (I used a sharp white cheddar)"
     ],
     "cuisineType": [
-      "meat and chicken"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4905,10 +4778,6 @@
       "1 cup shredded white cheddar cheese"
     ],
     "cuisineType": [
-      "healthy",
-      "lightened up",
-      "pasta",
-      "superfoods",
       "vegetarian"
     ],
     "sourceName": "Pinch of Yum"
@@ -4930,11 +4799,7 @@
       "fresh cilantro, avocado, shredded cheese, sour cream, or pico de gallo for topping"
     ],
     "cuisineType": [
-      "fish and seafood",
-      "gluten-free",
-      "healthy",
-      "lightened up",
-      "superfoods"
+      "seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -4951,8 +4816,6 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "healthy",
-      "superfoods",
       "vegan",
       "vegetarian"
     ],
@@ -4972,11 +4835,6 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "healthy",
-      "lightened up",
-      "salads",
-      "snacks",
-      "superfoods",
       "vegetarian"
     ],
     "sourceName": "Pinch of Yum"
@@ -4997,8 +4855,6 @@
       "1 tablespoon olive oil"
     ],
     "cuisineType": [
-      "pasta",
-      "superfoods",
       "vegetarian"
     ],
     "sourceName": "Pinch of Yum"
@@ -5017,13 +4873,7 @@
       "1 1-inch piece ginger, grated or minced"
     ],
     "cuisineType": [
-      "gluten-free",
-      "healthy",
-      "lightened up",
-      "living abroad",
-      "superfoods",
-      "vegan",
-      "vegetarian"
+      "seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5040,8 +4890,7 @@
       "3 tablespoons chopped fresh basil"
     ],
     "cuisineType": [
-      "meat and chicken",
-      "sandwiches"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5059,9 +4908,7 @@
       "olive oil"
     ],
     "cuisineType": [
-      "healthy",
-      "meat and chicken",
-      "superfoods"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5087,10 +4934,6 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "healthy",
-      "lightened up",
-      "lindsay's faves",
-      "superfoods",
       "vegan",
       "vegetarian"
     ],
@@ -5116,10 +4959,7 @@
       "2 cups chow mein noodles (dry crunchy kind)"
     ],
     "cuisineType": [
-      "healthy",
-      "lightened up",
-      "salads",
-      "superfoods"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5139,8 +4979,6 @@
       "sharp, hard cheese for topping (like Parmesan)"
     ],
     "cuisineType": [
-      "pasta",
-      "superfoods",
       "vegetarian"
     ],
     "sourceName": "Pinch of Yum"
@@ -5162,10 +5000,6 @@
       "salt to taste"
     ],
     "cuisineType": [
-      "gluten-free",
-      "healthy",
-      "salads",
-      "superfoods",
       "vegetarian"
     ],
     "sourceName": "Pinch of Yum"
@@ -5192,11 +5026,7 @@
       "1 avocado (optional)"
     ],
     "cuisineType": [
-      "fish and seafood",
-      "gluten-free",
-      "healthy",
-      "lightened up",
-      "superfoods"
+      "seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5219,10 +5049,7 @@
       "1 ounce good quality shredded cheese of choice (I used a sharp white French cheese... honestly I can't remember the name! woops.)"
     ],
     "cuisineType": [
-      "healthy",
-      "lightened up",
-      "snacks",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5241,11 +5068,7 @@
       "6 ounces enchilada sauce (almost ¾ cup)"
     ],
     "cuisineType": [
-      "fish and seafood",
-      "healthy",
-      "lightened up",
-      "pasta",
-      "superfoods"
+      "seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5266,7 +5089,7 @@
       "1 sheet pie crust, 1 sheet puff pastry, or 1 croissant dough sheet"
     ],
     "cuisineType": [
-      "meat and chicken"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5287,11 +5110,7 @@
       "fresh cilantro"
     ],
     "cuisineType": [
-      "gluten-free",
-      "healthy",
-      "lightened up",
-      "popular",
-      "vegetarian"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5312,11 +5131,8 @@
       "6 tablespoons shredded cheese (Pepperjack, Cheddar, Colby Jack... anything will work)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "healthy",
-      "lightened up",
-      "superfoods",
-      "vegetarian"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5333,9 +5149,7 @@
       "parmesan cheese, fresh lemon, or sea salt for topping"
     ],
     "cuisineType": [
-      "fish and seafood",
-      "lightened up",
-      "superfoods"
+      "seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5359,11 +5173,9 @@
       "Greek yogurt for topping"
     ],
     "cuisineType": [
-      "gluten-free",
-      "healthy",
-      "superfoods",
       "vegan",
-      "vegetarian"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5384,10 +5196,7 @@
       "cilantro and crumbled Cotija cheese for topping"
     ],
     "cuisineType": [
-      "lightened up",
-      "meat and chicken",
-      "popular",
-      "quick and easy"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5413,9 +5222,8 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "superfoods",
       "vegan",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5435,11 +5243,7 @@
       "1 head broccoli, washed and cut into bite-sized pieces"
     ],
     "cuisineType": [
-      "gluten-free",
-      "healthy",
-      "lightened up",
-      "meat and chicken",
-      "superfoods"
+      "beef"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5481,29 +5285,7 @@
       "3-4 green onions, thinly sliced"
     ],
     "cuisineType": [
-      "healthy",
-      "lightened up",
-      "meat and chicken",
-      "quick and easy"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/lazy-chocolate-cherry-fudge-cake",
-    "recipeTitle": "{Lazy} Chocolate Cherry Fudge Cake ",
-    "ingredients": [
-      "1 chocolate fudge cake mix",
-      "1 can cherry pie filling",
-      "3 eggs, beaten",
-      "1 teaspoon almond or vanilla extract",
-      "1 cup sugar",
-      "⅓ cup milk",
-      "5 tablespoons butter",
-      "1 cup chocolate chips"
-    ],
-    "cuisineType": [
-      "cake",
-      "dessert"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5525,10 +5307,7 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "healthy",
-      "lightened up",
-      "meat and chicken",
-      "quick and easy"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5545,9 +5324,7 @@
       "3 tablespoons butter, melted"
     ],
     "cuisineType": [
-      "breakfast",
-      "pancakes",
-      "quick and easy"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5569,8 +5346,7 @@
       "1 slice bacon, chopped or crumbled"
     ],
     "cuisineType": [
-      "fish and seafood",
-      "snacks"
+      "seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5589,10 +5365,7 @@
       "freshly grated Parmesan cheese"
     ],
     "cuisineType": [
-      "breakfast",
-      "eggs",
-      "gluten-free",
-      "quick and easy"
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5612,10 +5385,7 @@
       "crumbled bacon or breadcrumbs for topping"
     ],
     "cuisineType": [
-      "lightened up",
-      "meat and chicken",
-      "pasta",
-      "quick and easy"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5639,9 +5409,7 @@
       "1¼ cup water"
     ],
     "cuisineType": [
-      "gluten-free",
-      "meat and chicken",
-      "quick and easy"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5662,9 +5430,8 @@
       "sour cream"
     ],
     "cuisineType": [
-      "gluten-free",
-      "meat and chicken",
-      "salads"
+      "beef",
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5685,10 +5452,7 @@
       "¼ cup Parmesan cheese for topping"
     ],
     "cuisineType": [
-      "fish and seafood",
-      "lightened up",
-      "pasta",
-      "quick and easy"
+      "seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5712,25 +5476,7 @@
       "2-3 tablespoons dry sherry, if desired"
     ],
     "cuisineType": [
-      "meat and chicken",
-      "soup"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/chili-cheese-black-bean-dip",
-    "recipeTitle": "Chili Cheese Black Bean Dip",
-    "ingredients": [
-      "3 cups prepared chili, or 2 cans",
-      "1 block cream cheese (I used light)",
-      "3 oz. Velveeta cheese",
-      "1 can black beans",
-      "chili powder, cumin, or cayenne to taste",
-      "cilantro for topping",
-      "tortilla chips for dipping"
-    ],
-    "cuisineType": [
-      "snacks"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5747,8 +5493,7 @@
       "toppings: bacon, scallions, and/or French fried onions"
     ],
     "cuisineType": [
-      "salads",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5770,10 +5515,6 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "healthy",
-      "main dishes",
-      "salads",
-      "superfoods",
       "vegan",
       "vegetarian"
     ],
@@ -5791,7 +5532,7 @@
       "1-2 tablespoons butter"
     ],
     "cuisineType": [
-      "sandwiches"
+      "pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5811,10 +5552,7 @@
       "1 cup mozzarella cheese, shredded"
     ],
     "cuisineType": [
-      "lightened up",
-      "pasta",
-      "superfoods",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5833,10 +5571,7 @@
       "¼ cup sliced scallions or green onions"
     ],
     "cuisineType": [
-      "healthy",
-      "lightened up",
-      "pasta",
-      "superfoods"
+      "pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5853,10 +5588,7 @@
       "sour cream and tortilla chips for topping"
     ],
     "cuisineType": [
-      "gluten-free",
-      "lightened up",
-      "soup",
-      "superfoods"
+      "pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5872,8 +5604,7 @@
       "toppings: fresh spinach, pepperoni, green pepper, Canadian bacon, etc."
     ],
     "cuisineType": [
-      "healthy",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5895,11 +5626,8 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "lightened up",
-      "soup",
-      "superfoods",
-      "vegan",
-      "vegetarian"
+      "veggie",
+      "vegan"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5914,9 +5642,7 @@
       "parmesan cheese"
     ],
     "cuisineType": [
-      "meat and chicken",
-      "pasta",
-      "quick and easy"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5932,8 +5658,7 @@
       "lettuce, queso, crema, and tostadas"
     ],
     "cuisineType": [
-      "gluten-free",
-      "meat and chicken"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5952,9 +5677,8 @@
       "cheese"
     ],
     "cuisineType": [
-      "superfoods",
       "vegan",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5975,9 +5699,7 @@
       "4 tablespoons crumbled bacon"
     ],
     "cuisineType": [
-      "lightened up",
-      "pasta",
-      "superfoods"
+      "pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5994,9 +5716,7 @@
       "salt and pepper"
     ],
     "cuisineType": [
-      "lightened up",
-      "sandwiches",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6020,10 +5740,7 @@
       "¼ cup thinly sliced green onions"
     ],
     "cuisineType": [
-      "gluten-free",
-      "lightened up",
-      "meat and chicken",
-      "superfoods"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6039,9 +5756,7 @@
       "½ teaspoon pepper"
     ],
     "cuisineType": [
-      "lightened up",
-      "meat and chicken",
-      "sandwiches"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6069,22 +5784,7 @@
       "⅓ cup peanuts"
     ],
     "cuisineType": [
-      "meat and chicken",
-      "pasta",
-      "salads",
-      "superfoods"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/hot-dog-bar",
-    "recipeTitle": "Hot Dog Bar",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "meat and chicken",
-      "quick and easy"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6101,11 +5801,8 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "healthy",
-      "lightened up",
-      "superfoods",
-      "vegan",
-      "vegetarian"
+      "veggie",
+      "vegan"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6126,10 +5823,7 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "lightened up",
-      "main dishes",
-      "meat and chicken",
-      "salads"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6145,27 +5839,7 @@
       "handful fresh spinach"
     ],
     "cuisineType": [
-      "sandwiches",
-      "vegetarian"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/creamy-cilantro-dressing",
-    "recipeTitle": "Creamy Cilantro Dressing",
-    "ingredients": [
-      "1 bunch cilantro (about 1 cup packed)",
-      "1 cloves garlic",
-      "3 tablespoons plain yogurt",
-      "2½ tablespoons olive oil",
-      "1 teaspoon each honey, lime juice, and salt",
-      "1 teaspoon sugar (optional)",
-      "3 teaspoons water (optional)"
-    ],
-    "cuisineType": [
-      "gluten-free",
-      "lightened up",
-      "salads"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6186,29 +5860,8 @@
       "fresh cilantro"
     ],
     "cuisineType": [
-      "gluten-free",
-      "lightened up",
-      "salads",
-      "superfoods",
-      "vegetarian"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/creamy-basil-dip",
-    "recipeTitle": "Creamy Basil Dip",
-    "ingredients": [
-      "¾ cup light sour cream",
-      "¾ cup mayonnaise",
-      "½ cup shredded parmesan",
-      "½ cup fresh basil, chopped",
-      "crushed garlic to taste",
-      "pinch of oregano and salt"
-    ],
-    "cuisineType": [
-      "sandwiches",
-      "snacks",
-      "vegetarian"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6229,29 +5882,7 @@
       "4 thinly sliced pieces of fresh mozzarella"
     ],
     "cuisineType": [
-      "pasta",
-      "superfoods",
-      "vegetarian"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/garlic-edamame",
-    "recipeTitle": "Garlic Edamame",
-    "ingredients": [
-      "1 bag frozen edamame",
-      "3 cloves garlic",
-      "2 tablespoons olive oil",
-      "coarse sea salt",
-      "low sodium soy sauce (+ wasabi, if you have it!)"
-    ],
-    "cuisineType": [
-      "gluten-free",
-      "lightened up",
-      "snacks",
-      "superfoods",
-      "vegan",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6272,10 +5903,8 @@
       "1 15-ounce can pinto beans"
     ],
     "cuisineType": [
-      "sandwiches",
-      "superfoods",
       "vegan",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6296,11 +5925,9 @@
       "corn tortillas"
     ],
     "cuisineType": [
-      "gluten-free",
-      "lightened up",
-      "superfoods",
+      "veggie",
       "vegan",
-      "vegetarian"
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6318,46 +5945,7 @@
       "¼ teaspoon paprika (x2)"
     ],
     "cuisineType": [
-      "fish and seafood",
-      "sandwiches"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/creamy-garlic-scape-dip",
-    "recipeTitle": "Creamy Garlic Scape Dip",
-    "ingredients": [
-      "10 garlic scapes",
-      "¼ cup almonds",
-      "2 tbs. sunflower seeds",
-      "2 tbs. olive oil",
-      "¼ cup freshly grated parmesan cheese",
-      "salt and pepper",
-      "½ cup Greek yogurt",
-      "sour cream and/or mayonnaise"
-    ],
-    "cuisineType": [
-      "snacks",
-      "vegetarian"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/wild-rice-flatbread",
-    "recipeTitle": "Wild Rice Flatbread",
-    "ingredients": [
-      "2 cups cooked wild rice (or “instant” wild rice, wild rice blend, etc)",
-      "½ cup water",
-      "2 egg whites",
-      "1 clove of garlic",
-      "1 tbs. flaxseed meal",
-      "seasoning (I recommend a sprinkle of red pepper flakes to spice it up!)",
-      "½ tbs. olive oil + salt + pepper"
-    ],
-    "cuisineType": [
-      "gluten-free",
-      "snacks",
-      "vegetarian"
+      "seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6377,11 +5965,8 @@
       "olive oil, balsamic vinegar, and/or Greek dressing"
     ],
     "cuisineType": [
-      "gluten-free",
-      "lightened up",
-      "salads",
-      "superfoods",
-      "vegetarian"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6396,29 +5981,7 @@
       "¼ cup pesto (store bought or homemade)"
     ],
     "cuisineType": [
-      "sandwiches",
-      "vegetarian"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/spicy-hummus",
-    "recipeTitle": "Spicy Hummus",
-    "ingredients": [
-      "1 can chickpeas, drained",
-      "2 cloves garlic",
-      "1 tbs. tahini",
-      "1 squeeze of fresh lemon juice",
-      "1 tbs. olive oil",
-      "salt to taste",
-      "cayenne to taste (I would start small with ¼ teaspoon)"
-    ],
-    "cuisineType": [
-      "gluten-free",
-      "snacks",
-      "superfoods",
-      "vegan",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6436,8 +5999,7 @@
       "8 flour tortillas"
     ],
     "cuisineType": [
-      "sandwiches",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6454,9 +6016,7 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "sandwiches",
-      "superfoods",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6475,11 +6035,8 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "lightened up",
-      "salads",
-      "superfoods",
       "vegan",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6507,8 +6064,7 @@
       "squeeze of fresh lemon juice"
     ],
     "cuisineType": [
-      "meat and chicken",
-      "sandwiches"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6529,27 +6085,7 @@
       "pinch of cayenne to add heat, if you want!"
     ],
     "cuisineType": [
-      "salads",
-      "snacks",
-      "vegetarian"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/baked-zucchini-fries",
-    "recipeTitle": "Baked Zucchini Fries",
-    "ingredients": [
-      "2 medium zucchini, sliced into sticks",
-      "1 large egg white",
-      "⅓ cup seasoned bread crumbs",
-      "¼ tsp. garlic powder (optional)",
-      "cooking spray",
-      "salt and fresh pepper"
-    ],
-    "cuisineType": [
-      "lightened up",
-      "snacks",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6563,8 +6099,7 @@
       "1 cup tomato sauce (pizza, pasta, marinara, whatever)"
     ],
     "cuisineType": [
-      "meat and chicken",
-      "sandwiches"
+      "pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6623,9 +6158,7 @@
       "1 bunch of fresh basil leaves"
     ],
     "cuisineType": [
-      "pasta",
-      "superfoods",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6644,9 +6177,8 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "superfoods",
       "vegan",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6661,25 +6193,7 @@
       "your favorite pizza crust (I used this one)"
     ],
     "cuisineType": [
-      "superfoods",
-      "vegetarian"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/asparagus-and-pea-saute",
-    "recipeTitle": "Asparagus and Pea Saute",
-    "ingredients": [
-      "1 bunch fresh asparagus, chopped",
-      "1 bag frozen peas (or fresh, ideally!)",
-      "2 tbs. butter",
-      "1 shallot, minced",
-      "1 tbs. honey"
-    ],
-    "cuisineType": [
-      "gluten-free",
-      "superfoods",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6697,7 +6211,7 @@
       "cilantro sauce: cilantro, oil, avocado, salsa verde"
     ],
     "cuisineType": [
-      "meat and chicken"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6713,11 +6227,8 @@
       "4 tbs. mozzarella cheese"
     ],
     "cuisineType": [
-      "healthy",
-      "sandwiches",
-      "superfoods",
       "vegan",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6736,10 +6247,7 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "healthy",
-      "salads",
-      "superfoods",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6761,9 +6269,7 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "salads",
-      "superfoods",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6782,11 +6288,7 @@
       "salt and pepper"
     ],
     "cuisineType": [
-      "breakfast",
-      "eggs",
-      "gluten-free",
-      "meat and chicken",
-      "quick and easy"
+      "pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6803,30 +6305,7 @@
       "salt and pepper to taste"
     ],
     "cuisineType": [
-      "healthy",
-      "salads",
-      "superfoods"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/avocado-tomatillo-dip",
-    "recipeTitle": "Avocado Tomatillo Dip",
-    "ingredients": [
-      "2 avocados, seeds and skin removed",
-      "zest and juice of 1 lime",
-      "2 cloves garlic",
-      "1 tsp salt AND pepper",
-      "1 teaspoon honey",
-      "¾ cup Roasted Salsa Verde (I love Archer Farms brand)",
-      "a handful of fresh herbs (I used cilantro and parsley)"
-    ],
-    "cuisineType": [
-      "gluten-free",
-      "sandwiches",
-      "superfoods",
-      "vegan",
-      "vegetarian"
+      "pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6843,9 +6322,7 @@
       "Parmesan cheese"
     ],
     "cuisineType": [
-      "pasta",
-      "superfoods",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6867,9 +6344,7 @@
       "¾ pound good feta cheese, large diced"
     ],
     "cuisineType": [
-      "fish and seafood",
-      "healthy",
-      "salads"
+      "seafood"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6889,7 +6364,7 @@
       "black bean puree (see above)"
     ],
     "cuisineType": [
-      "sandwiches"
+      "pork"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6910,9 +6385,7 @@
       "lettuce leaves, washed"
     ],
     "cuisineType": [
-      "gluten-free",
-      "meat and chicken",
-      "salads"
+      "chicken"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6944,8 +6417,7 @@
       "3 tbs. of Sun Dried Tomato Dill seasoning mix from The Golden Fig"
     ],
     "cuisineType": [
-      "pasta",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6963,11 +6435,7 @@
       "sliced cheese to top pieces (optional – but not really)"
     ],
     "cuisineType": [
-      "healthy",
-      "lightened up",
-      "pasta",
-      "superfoods",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -6985,12 +6453,9 @@
       "Sour cream and salsa"
     ],
     "cuisineType": [
-      "gluten-free",
-      "healthy",
-      "lightened up",
-      "superfoods",
+      "veggie",
       "vegan",
-      "vegetarian"
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -7007,12 +6472,8 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "healthy",
-      "lightened up",
-      "sandwiches",
-      "superfoods",
       "vegan",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -7048,9 +6509,7 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "meat and chicken",
-      "superfoods",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -7066,12 +6525,9 @@
       "water"
     ],
     "cuisineType": [
-      "gluten-free",
-      "healthy",
-      "sandwiches",
-      "superfoods",
       "vegan",
-      "vegetarian"
+      "gluten-free",
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -7095,9 +6551,8 @@
       "Cheese of choice (I used sliced Swiss)"
     ],
     "cuisineType": [
-      "gluten-free",
-      "soup",
-      "vegetarian"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -7125,8 +6580,7 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "superfoods",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -7143,24 +6597,7 @@
       "1 18-ounce tube precooked polenta, cut into 12 rounds"
     ],
     "cuisineType": [
-      "meat and chicken"
-    ],
-    "sourceName": "Pinch of Yum"
-  },
-  {
-    "sourceHref": "http://pinchofyum.com/tomato-ricotta-pasta-with-broccoli",
-    "recipeTitle": "Tomato Ricotta Pasta with Broccoli",
-    "ingredients": [
-      "tomato sauce",
-      "part-skim ricotta cheese",
-      "broccoli",
-      "whole wheat pasta",
-      "parmesan cheese"
-    ],
-    "cuisineType": [
-      "healthy",
-      "pasta",
-      "superfoods"
+      "beef"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -7202,8 +6639,8 @@
       "1 tbsp. parsley, chopped"
     ],
     "cuisineType": [
-      "appetizers & snacks",
-      "lunch"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7221,7 +6658,7 @@
       "1 1 lb. pork tenderloin, trimmed of excess fat around the edges"
     ],
     "cuisineType": [
-      "lunch"
+      "pork"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7237,8 +6674,8 @@
       "1 tbsp. parsley, finely chopped"
     ],
     "cuisineType": [
-      "appetizers & snacks",
-      "lunch"
+      "seafood",
+      "gluten-free"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7262,19 +6699,7 @@
       "4 buns, lightly toasted"
     ],
     "cuisineType": [
-      "lunch"
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2015/01/23/tutorial-baked-sweet-potato/",
-    "recipeTitle": "Tutorial: Baked Sweet Potato",
-    "ingredients": [
-      "5 small to medium sweet potatoes"
-    ],
-    "cuisineType": [
-      "appetizers & snacks",
-      "sides"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7318,7 +6743,7 @@
       "2 delicata squash"
     ],
     "cuisineType": [
-      "lunch"
+      "seafood"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7343,7 +6768,7 @@
       "Salt & pepper to taste"
     ],
     "cuisineType": [
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7366,7 +6791,7 @@
       "2 carrots, sliced thin - however you like! (I used a peeler to make them into thin strips.)"
     ],
     "cuisineType": [
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7386,27 +6811,7 @@
       "juice of 1 lemon"
     ],
     "cuisineType": [
-      "lunch"
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/12/31/moms-creamed-spinach/",
-    "recipeTitle": "Mom’s Creamed Spinach",
-    "ingredients": [
-      "20 oz. frozen chopped spinach, thawed and drained\r",
-      "3 tbsp. butter \r",
-      "1/2 medium onion, chopped\r",
-      "2 tbsp. flour\r",
-      "1 cup skim milk\r",
-      "salt & pepper, to taste\r",
-      "1 tsp. paprika\r",
-      "1/4 tsp. nutmeg\r",
-      "2 tbsp. Italian breadcrumbs"
-    ],
-    "cuisineType": [
-      "breakfast",
-      "sides"
+      "seafood"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7429,21 +6834,6 @@
     ],
     "cuisineType": [
       "lunch"
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/11/28/leftover-veggie-scrambled-eggs/",
-    "recipeTitle": "Leftover Veggie Scrambled Eggs",
-    "ingredients": [
-      "6 large eggs, beaten\r",
-      "1 cup leftover vegetables\r",
-      "1/2 cup shredded swiss cheese\r",
-      "Salt & pepper, to taste"
-    ],
-    "cuisineType": [
-      "breakfast",
-      "sides"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7477,24 +6867,7 @@
       "3 tbsp. dijon mustard"
     ],
     "cuisineType": [
-      "lunch"
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/11/06/lemon-herb-fingerling-potatoes/",
-    "recipeTitle": "Lemon Herb Fingerling Potatoes",
-    "ingredients": [
-      "1 lb. fingerling potatoes\r",
-      "1 tbsp. olive oil\r",
-      "1 tbsp. lemon zest\r",
-      "1/4 tsp. thyme\r",
-      "1/4 tsp. dill\r",
-      "1 tsp. kosher salt\r",
-      "1/2 tsp. coarse black pepper"
-    ],
-    "cuisineType": [
-      "sides"
+      "beef"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7533,25 +6906,7 @@
       "1 tbsp. low sodium soy sauce"
     ],
     "cuisineType": [
-      "lunch"
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/10/01/sun-dried-tomato-pesto/",
-    "recipeTitle": "Sun-dried Tomato Pesto",
-    "ingredients": [
-      "4 cups sun-dried tomatoes (I got mine from Trader Joe's!)\r",
-      "2 cups fresh basil\r",
-      "1 cup fresh parsley\r",
-      "10 garlic cloves\r",
-      "1/2 cup olive oil\r",
-      "1/4 cup pine nuts\r",
-      "salt & pepper, to taste"
-    ],
-    "cuisineType": [
-      "appetizers & snacks",
-      "lunch"
+      "chicken"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7588,7 +6943,7 @@
       "salt & pepper, to taste"
     ],
     "cuisineType": [
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7606,7 +6961,7 @@
       "salt & pepper, to taste"
     ],
     "cuisineType": [
-      "lunch"
+      "seafood"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7624,9 +6979,7 @@
       "a dash of cayenne"
     ],
     "cuisineType": [
-      "appetizers & snacks",
-      "lunch",
-      "sides"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7649,7 +7002,7 @@
       "1 handful fresh basil, chopped"
     ],
     "cuisineType": [
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7670,8 +7023,7 @@
       "a dash of smoked paprika (optional)"
     ],
     "cuisineType": [
-      "lunch",
-      "sides"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7712,8 +7064,7 @@
       "3/4 cup blueberries (I used fresh because it's summer, but thawing and rinsing frozen blueberries would work just as well!)"
     ],
     "cuisineType": [
-      "breakfast",
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7739,7 +7090,7 @@
       "salt and pepper, to taste"
     ],
     "cuisineType": [
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7779,7 +7130,7 @@
       "2 tablespoons fresh cilantro"
     ],
     "cuisineType": [
-      "lunch"
+      "seafood"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7819,9 +7170,7 @@
       "water"
     ],
     "cuisineType": [
-      "appetizers & snacks",
-      "breakfast",
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7838,7 +7187,7 @@
       "1/2 cup spinach leaves"
     ],
     "cuisineType": [
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7865,7 +7214,7 @@
       "2 tbsp. balsamic vinegar reduction"
     ],
     "cuisineType": [
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7883,7 +7232,7 @@
       "salt & pepper, to taste"
     ],
     "cuisineType": [
-      "lunch"
+      "pork"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7906,21 +7255,6 @@
     ],
     "cuisineType": [
 
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/06/20/reginas-pizza-and-boston-restaurant-recommendations/",
-    "recipeTitle": "Regina’s Pizza and Boston Restaurant Recommendations?",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "appetizers & snacks",
-      "breakfast",
-      "dessert",
-      "lunch",
-      "sides"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7954,7 +7288,7 @@
       "1/4 cup shaved parmesan"
     ],
     "cuisineType": [
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7978,7 +7312,7 @@
       "1/2 cup low-fat cheddar cheese, shredded"
     ],
     "cuisineType": [
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7995,7 +7329,7 @@
       "1 bunch bok choy, chopped"
     ],
     "cuisineType": [
-      "lunch"
+      "seafood"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8011,7 +7345,7 @@
       "10 oz. fresh spinach"
     ],
     "cuisineType": [
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8030,7 +7364,7 @@
       "juice of 1/2 lemon"
     ],
     "cuisineType": [
-      "lunch"
+      "pork"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8068,7 +7402,7 @@
       "1 refrigerated pie crust dough, thawed per package instructions (Pillsbury is my favorite.)"
     ],
     "cuisineType": [
-      "lunch"
+      "chicken"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8087,7 +7421,7 @@
       "4 tbsp. low-fat shredded cheddar"
     ],
     "cuisineType": [
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8115,7 +7449,7 @@
       "1/2 cup shredded parmesan"
     ],
     "cuisineType": [
-      "lunch"
+      "chicken"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8136,8 +7470,7 @@
       "cooking spray"
     ],
     "cuisineType": [
-      "lunch",
-      "sides"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8173,8 +7506,7 @@
       "1/4 avocado, sliced into thin strips"
     ],
     "cuisineType": [
-      "appetizers & snacks",
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8195,7 +7527,7 @@
       "cooking spray"
     ],
     "cuisineType": [
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8213,7 +7545,7 @@
       "Fat free cheddar cheese, shredded"
     ],
     "cuisineType": [
-      "lunch"
+      "chicken"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8234,7 +7566,7 @@
       "paprika, to taste"
     ],
     "cuisineType": [
-      "lunch"
+      "seafood"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8255,7 +7587,7 @@
       "4 slices of tomato"
     ],
     "cuisineType": [
-      "lunch"
+      "veggie"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8271,7 +7603,7 @@
       "1 tbsp. sesame seeds"
     ],
     "cuisineType": [
-      "lunch"
+      "pork"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8317,22 +7649,6 @@
     "sourceName": "Scrumptiously Skinny"
   },
   {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2013/09/18/the-light-side-of-pesto/",
-    "recipeTitle": "The Light Side of Pesto",
-    "ingredients": [
-      "8 cups basil",
-      "8 cloves garlic",
-      "1 cup grated parmesan",
-      "6 tbsp. olive oil",
-      "4 tbsp. pine nuts",
-      "salt and pepper, to taste"
-    ],
-    "cuisineType": [
-      "lunch"
-    ],
-    "sourceName": "Scrumptiously Skinny"
-  },
-  {
     "sourceHref": "http://www.scrumptiouslyskinny.com/2013/09/15/kid-friendly-spinach-quiche/",
     "recipeTitle": "Kid-Friendly Spinach Quiche",
     "ingredients": [
@@ -8366,7 +7682,7 @@
       "salt and pepper, to taste"
     ],
     "cuisineType": [
-      "lunch"
+      "beef"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8398,9 +7714,8 @@
       "¼ to ½ teaspoon cayenne pepper (optional)"
     ],
     "cuisineType": [
-      "summer",
       "vegan",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8429,9 +7744,9 @@
       "6 tortillas, flour or corn, warmed or grilled"
     ],
     "cuisineType": [
-      "summer",
       "vegan",
-      "gluten-free-optional"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8453,9 +7768,7 @@
       "any fixings you like: onion, lettuce, tomato, herbs, etc"
     ],
     "cuisineType": [
-      "vegetarian",
-      "appetizer",
-      "snack"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8482,9 +7795,9 @@
       "serve with tomatillo salsa, store-bought or the one from this recipe"
     ],
     "cuisineType": [
-      "summer",
       "vegan",
-      "gluten-free"
+      "gluten-free",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8505,9 +7818,7 @@
       "sea salt and freshly ground black pepper"
     ],
     "cuisineType": [
-      "summer",
-      "vegetarian",
-      "main dish"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8531,9 +7842,7 @@
       "4 whole grain tortillas"
     ],
     "cuisineType": [
-      "summer",
-      "main dish",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8570,9 +7879,7 @@
       "¼ teaspoon honey or maple syrup (optional to offset bitterness)"
     ],
     "cuisineType": [
-      "summer",
-      "vegetarian",
-      "entertaining"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8598,9 +7905,7 @@
       "lemon wedges"
     ],
     "cuisineType": [
-      "summer",
-      "vegetarian",
-      "main dish"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8624,8 +7929,8 @@
       "¾ cup water, more as needed"
     ],
     "cuisineType": [
-      "summer",
       "vegan",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -8652,9 +7957,8 @@
       "pickled onions (not pictured, but a tasty addition)"
     ],
     "cuisineType": [
-      "spring",
-      "salad",
-      "gluten-free"
+      "gluten-free",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8673,9 +7977,8 @@
       "2 ripe avocados"
     ],
     "cuisineType": [
-      "cookbooks",
-      "a modern way to eat",
-      "vegan"
+      "vegan",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8699,9 +8002,8 @@
       "4 cups packed spinach"
     ],
     "cuisineType": [
-      "main dish",
       "vegan",
-      "spring"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8723,9 +8025,7 @@
       "your favorite salsa"
     ],
     "cuisineType": [
-      "main dish",
-      "tacos",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8755,9 +8055,7 @@
       "salt and pepper"
     ],
     "cuisineType": [
-      "spring",
-      "salad",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8784,9 +8082,8 @@
       "optional - minced garlic and/or ginger"
     ],
     "cuisineType": [
-      "vegan",
-      "spring",
-      "main dish"
+      "veggie",
+      "vegan"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8815,8 +8112,8 @@
     ],
     "cuisineType": [
       "vegan",
-      "gluten-free",
-      "main dish"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8840,9 +8137,7 @@
       "Sea salt and freshly ground pepper"
     ],
     "cuisineType": [
-      "spring",
-      "greens",
-      "salad"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8862,9 +8157,7 @@
       "salt and pepper"
     ],
     "cuisineType": [
-      "spring",
-      "breakfast",
-      "dairy free"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8890,8 +8183,8 @@
     ],
     "cuisineType": [
       "vegan",
-      "gluten-free",
-      "soup"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8914,9 +8207,9 @@
       "pinch of salt"
     ],
     "cuisineType": [
-      "pasta",
       "vegan",
-      "gluten-free"
+      "gluten-free",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8940,9 +8233,9 @@
       "1 cup chopped basil"
     ],
     "cuisineType": [
-      "salad",
       "vegan",
-      "gluten-free"
+      "gluten-free",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -8962,8 +8255,7 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "pasta",
-      "vegetarian",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -8980,9 +8272,7 @@
       "drizzle of olive oil"
     ],
     "cuisineType": [
-      "winter",
-      "vegetarian",
-      "tart cherries"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9005,9 +8295,9 @@
       "any sauce or chutney you like - I topped mine with greek yogurt, mixed with salt, pepper, chile flakes and a squeeze of lime, or use this recipe and make a similar vegan version."
     ],
     "cuisineType": [
-      "vegan-option",
+      "vegan",
       "gluten-free",
-      "america's test kitchen"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9031,8 +8321,8 @@
       "a few big handfuls of chopped kale"
     ],
     "cuisineType": [
-      "winter",
       "vegan",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -9057,8 +8347,7 @@
     ],
     "cuisineType": [
       "vegan",
-      "main dish",
-      "valentines day"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9077,9 +8366,7 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "winter",
-      "vegetarian",
-      "main dish"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9104,9 +8391,9 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "winter",
-      "vegan-option",
-      "gluten-free-option"
+      "vegan",
+      "gluten-free",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9136,7 +8423,7 @@
     "cuisineType": [
       "vegan",
       "gluten-free",
-      "winter"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9166,9 +8453,7 @@
       "generous amounts of freshly cracked pepper"
     ],
     "cuisineType": [
-      "main dish",
-      "vegetarian",
-      "vegan-option"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9190,9 +8475,8 @@
       "chipotle cashew cream"
     ],
     "cuisineType": [
-      "winter",
-      "vegetarian",
-      "gluten-free-option"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9211,9 +8495,7 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "winter",
-      "vegetarian",
-      "main dish"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9237,9 +8519,8 @@
       "a scoop of hummus or cashew cream"
     ],
     "cuisineType": [
-      "winter",
-      "salad",
-      "vegan"
+      "vegan",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9265,9 +8546,9 @@
       "a little water to thin, if necessary"
     ],
     "cuisineType": [
-      "salad",
       "vegan",
-      "gluten-free"
+      "gluten-free",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9287,9 +8568,7 @@
       "grated pecorino cheese"
     ],
     "cuisineType": [
-      "fall",
-      "winter",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9314,9 +8593,7 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian",
-      "thanksgiving",
-      "main dish"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9340,9 +8617,8 @@
       "salt & pepper, to taste"
     ],
     "cuisineType": [
-      "fall",
-      "salad",
-      "vegan-option"
+      "vegan",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9365,9 +8641,8 @@
       "optional: a bit of freshly grated parmesan cheese"
     ],
     "cuisineType": [
-      "fall",
-      "main dish",
-      "vegan-option"
+      "vegan",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9396,9 +8671,7 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "fall",
-      "vegetarian",
-      "pumpkin"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9425,9 +8698,8 @@
       "a few pinches of cane sugar and salt"
     ],
     "cuisineType": [
-      "fall",
-      "vegetarian",
-      "vegan-option"
+      "veggie",
+      "vegan"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9452,9 +8724,8 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "fall",
-      "main dish",
-      "gluten-free"
+      "gluten-free",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9490,9 +8761,9 @@
       "a little water, if necessary to thin"
     ],
     "cuisineType": [
-      "fall",
+      "veggie",
       "gluten-free",
-      "vegan-option"
+      "vegan"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9514,9 +8785,9 @@
       "(optional): cooked millet or crusty bread on the side"
     ],
     "cuisineType": [
-      "late summer",
       "vegan",
-      "gluten-free"
+      "gluten-free",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9539,9 +8810,7 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "fall",
-      "salad",
-      "tart cherries"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9564,9 +8833,8 @@
       "¼ - ⅓ cup olive oil"
     ],
     "cuisineType": [
-      "summer",
-      "vegetarian",
-      "vegan-option"
+      "vegan",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9586,8 +8854,7 @@
     ],
     "cuisineType": [
       "vegan",
-      "vegetarian",
-      "soba"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9623,9 +8890,8 @@
       "optional: ¼ cup (or more) greek yogurt"
     ],
     "cuisineType": [
-      "summer",
-      "vegetarian",
-      "vegan-option"
+      "vegan",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9653,9 +8919,9 @@
       "hot sauce or sriracha"
     ],
     "cuisineType": [
-      "vegan",
       "gluten-free",
-      "mccormick"
+      "vegan",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9678,9 +8944,9 @@
       "drizzle of balsamic vinegar"
     ],
     "cuisineType": [
+      "vegan",
       "gluten-free",
-      "vegan-option",
-      "pamela's"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9702,9 +8968,7 @@
       "plenty of salt & pepper"
     ],
     "cuisineType": [
-      "summer",
-      "pasta",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9726,8 +8990,7 @@
     ],
     "cuisineType": [
       "gluten-free",
-      "dairy free",
-      "almond breeze"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9751,9 +9014,7 @@
       "a few pinches of cane sugar and salt"
     ],
     "cuisineType": [
-      "summer",
-      "salad",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9777,8 +9038,8 @@
     ],
     "cuisineType": [
       "vegan",
-      "gluten-free-option",
-      "summer"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9797,9 +9058,8 @@
       "a few spoonfuls of sun cheese (or burrata or fresh ricotta)"
     ],
     "cuisineType": [
-      "summer",
-      "grains",
-      "vegan"
+      "vegan",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9830,9 +9090,8 @@
       "generous pinches of salt"
     ],
     "cuisineType": [
-      "summer",
       "gluten-free",
-      "vibrant food"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9859,9 +9118,8 @@
       "optional - a few handfuls of arugula for serving"
     ],
     "cuisineType": [
-      "summer",
-      "gluten-free",
-      "cookbook"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9888,9 +9146,8 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "spring",
-      "pasta",
-      "gluten-free-option"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9914,8 +9171,8 @@
     ],
     "cuisineType": [
       "vegan",
-      "gluten-free",
-      "spring"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9966,9 +9223,7 @@
       "salt & pepper to taste"
     ],
     "cuisineType": [
-      "spring",
-      "vegetarian",
-      "q squared"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -9992,9 +9247,8 @@
       "1 teaspoon minced ginger"
     ],
     "cuisineType": [
-      "salad",
-      "gluten-free",
-      "vegan-option"
+      "vegan",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10016,8 +9270,7 @@
       "a few pinches of red pepper flakes"
     ],
     "cuisineType": [
-      "spring",
-      "vegetarian",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -10043,9 +9296,7 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "spring",
-      "salad",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10068,8 +9319,8 @@
       "salt & pepper, to taste"
     ],
     "cuisineType": [
-      "pasta",
       "vegan",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -10093,9 +9344,7 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "spring",
-      "greens",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10123,8 +9372,7 @@
     "cuisineType": [
       "vegan",
       "gluten-free",
-      "cauliflower",
-      "curry"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10151,8 +9399,8 @@
     ],
     "cuisineType": [
       "vegan",
-      "gluten-free",
-      "sir kensingtons"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10180,7 +9428,7 @@
     "cuisineType": [
       "vegan",
       "gluten-free",
-      "favorite"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10207,8 +9455,7 @@
     ],
     "cuisineType": [
       "vegan",
-      "pasta",
-      "hatchery box"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10233,8 +9480,8 @@
       "1 teaspoon sriracha - optional"
     ],
     "cuisineType": [
-      "salad",
       "vegan",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -10263,8 +9510,8 @@
     ],
     "cuisineType": [
       "vegan",
-      "gluten-free",
-      "easy"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10289,9 +9536,9 @@
       "salt"
     ],
     "cuisineType": [
-      "winter",
       "vegan",
-      "gluten-free"
+      "gluten-free",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10311,9 +9558,9 @@
       "salt, pepper"
     ],
     "cuisineType": [
-      "breakfast",
-      "vegetarian",
-      "gluten-free"
+      "veggie",
+      "gluten-free",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10342,8 +9589,8 @@
       "diced avocado w/ a squeeze of lime"
     ],
     "cuisineType": [
-      "winter",
       "vegan",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -10375,9 +9622,9 @@
       "salt, to taste"
     ],
     "cuisineType": [
-      "winter",
-      "vegan-option",
-      "gluten-free-option"
+      "vegan",
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10394,9 +9641,9 @@
       "chives"
     ],
     "cuisineType": [
-      "healthy",
-      "gluten-free",
-      "vegan-optional"
+      "vegan",
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10424,8 +9671,8 @@
     ],
     "cuisineType": [
       "vegan",
-      "gluten-free",
-      "soup"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10455,9 +9702,8 @@
       "1 teaspoon sriracha (optional)"
     ],
     "cuisineType": [
-      "winter",
-      "salad",
-      "gluten-free"
+      "gluten-free",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10482,8 +9728,8 @@
       "1 teaspoon rice vinegar"
     ],
     "cuisineType": [
-      "winter",
       "vegan",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -10512,8 +9758,8 @@
     ],
     "cuisineType": [
       "vegan",
-      "gluten-free",
-      "healthy"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10539,8 +9785,8 @@
     ],
     "cuisineType": [
       "vegan",
-      "gluten-free",
-      "favorite"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10564,52 +9810,8 @@
       "a few pinches of red pepper flakes"
     ],
     "cuisineType": [
-      "winter",
-      "vegan"
-    ],
-    "sourceName": "Love and Lemons"
-  },
-  {
-    "sourceHref": "http://www.loveandlemons.com/2013/12/04/creamy-polenta-mushrooms/",
-    "recipeTitle": "creamy polenta & mushrooms recipe",
-    "ingredients": [
-      "1 cup polenta",
-      "3 cups water",
-      "1 clove garlic, minced",
-      "1 tablespoon olive oil",
-      "1 tablespoon butter (or vegan earth balance)",
-      "¼ cup grated asiago cheese (optional), plus extra to go on top",
-      "salt, pepper",
-      "1 tablespoon olive oil",
-      "1 shallot, chopped",
-      "3 cups mixed mushrooms, (whatever kinds you like) coarsely chopped",
-      "½ cup chickpeas, cooked & drained",
-      "½ tablespoon soy sauce",
-      "2 tablespoons sherry vinegar",
-      "¼ cup chopped fresh tarragon",
-      "¼ cup chopped chives",
-      "salt, pepper",
-      "1 cup polenta",
-      "3 cups water",
-      "1 clove garlic, minced",
-      "1 tablespoon olive oil",
-      "1 tablespoon butter (or vegan earth balance)",
-      "¼ cup grated asiago cheese (optional), plus extra to go on top",
-      "salt, pepper",
-      "1 tablespoon olive oil",
-      "1 shallot, chopped",
-      "3 cups mixed mushrooms, (whatever kinds you like) coarsely chopped",
-      "½ cup chickpeas, cooked & drained",
-      "½ tablespoon soy sauce",
-      "2 tablespoons sherry vinegar",
-      "¼ cup chopped fresh tarragon",
-      "¼ cup chopped chives",
-      "salt, pepper"
-    ],
-    "cuisineType": [
-      "fall",
-      "gluten-free",
-      "vegan-option"
+      "vegan",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10659,8 +9861,8 @@
       "drizzle of balsamic or reduced balsamic"
     ],
     "cuisineType": [
-      "fall",
       "vegan",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -10681,9 +9883,7 @@
       "store bought green chile salsa"
     ],
     "cuisineType": [
-      "fall",
-      "vegetarian",
-      "easy"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10709,8 +9909,7 @@
       "a pinch of salt & a few cracks of pepper"
     ],
     "cuisineType": [
-      "fall",
-      "salad",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -10735,8 +9934,7 @@
       "freshly ground black pepper"
     ],
     "cuisineType": [
-      "cookbook",
-      "cooking from the heart"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10759,8 +9957,7 @@
       "optional: drizzle of honey"
     ],
     "cuisineType": [
-      "fall",
-      "favorite"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10790,8 +9987,8 @@
       "(optional - extra peanut sauce)"
     ],
     "cuisineType": [
-      "easy",
       "vegan",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -10818,9 +10015,7 @@
       "cilantro (optional)"
     ],
     "cuisineType": [
-      "breakfast",
-      "eggs",
-      "favorite"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10848,8 +10043,8 @@
     ],
     "cuisineType": [
       "vegan",
-      "gluten-free",
-      "summer"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10876,9 +10071,9 @@
       "sesame seeds for coating"
     ],
     "cuisineType": [
-      "summer",
-      "gluten-free",
-      "vegan"
+      "vegan",
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10900,9 +10095,8 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "summer",
-      "salad",
-      "vegan"
+      "vegan",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10932,9 +10126,7 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "vegetarian",
-      "sandwich",
-      "giveaway"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10965,9 +10157,8 @@
       "salt, pepper"
     ],
     "cuisineType": [
-      "quinoa",
       "vegan",
-      "cashew cream"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -10992,9 +10183,7 @@
       "pecorino or parmesan cheese, optional"
     ],
     "cuisineType": [
-      "summer",
-      "tomato",
-      "pasta"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11021,9 +10210,9 @@
       "tofu or other cooked protein (optional)"
     ],
     "cuisineType": [
-      "summer",
       "vegan",
-      "gluten-free"
+      "gluten-free",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11051,7 +10240,7 @@
       "extra lime slices"
     ],
     "cuisineType": [
-      "summer",
+      "seafood",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -11079,9 +10268,7 @@
       "avocado slices"
     ],
     "cuisineType": [
-      "summer",
-      "vegetarian",
-      "grilling"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11102,9 +10289,8 @@
       "optional: sriracha or chile flakes"
     ],
     "cuisineType": [
-      "summer",
-      "noodles",
-      "vegan"
+      "vegan",
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11137,73 +10323,7 @@
       "oil, for frying"
     ],
     "cuisineType": [
-      "summer",
-      "mango",
-      "sandwiches"
-    ],
-    "sourceName": "Love and Lemons"
-  },
-  {
-    "sourceHref": "http://www.loveandlemons.com/2013/05/22/kale-5-dinners/",
-    "recipeTitle": "a few bunches of kale, 5 dinners recipe",
-    "ingredients": [
-      "½ cup raw kale leaves",
-      "½ cup flat leaf parsley",
-      "2 tablespoons fresh oregano leaves",
-      "3 garlic cloves",
-      "2 tablespoons sherry vinegar",
-      "⅓ cup olive oil",
-      "Salt and pepper, to taste",
-      "pinches Red pepper flakes (optional)",
-      "splashes Lemon juice (optional)",
-      "serve with: grilled fish, meat or veggies, sauteéd kale on the side",
-      "5 leaves of kale (blanched), about 1 cup of cooked kale",
-      "1 cup of feta",
-      "1 clove garlic minced",
-      "¼ cup scallions",
-      "1 teaspoon dried oregano",
-      "salt & pepper",
-      "pinch of pepper flake",
-      "¼ cup melted butter",
-      "6 sheets of filo dough",
-      "2-3 kale leaves",
-      "olive oil",
-      "cooked brown rice (3/4 cup, or so, per bowl)",
-      "rice vinegar",
-      "pinch of sugar",
-      "salt & pepper",
-      "avocado slices",
-      "edamame",
-      "chopped nori (easiest to cut with scissors)",
-      "pickled shiso leaf or pickled ginger",
-      "toasted sesame seeds",
-      "optional: bonito flakes",
-      "serve with: soy sauce mixed with a bit of rice vinegar & sesame oil",
-      "2 tablespoons olive oil",
-      "1 large shallot, chopped",
-      "1 to 2 cloves of garlic, minced",
-      "½ teaspoon smoked paprika",
-      "1 teaspoon saffron",
-      "1½ cup chickpeas, cooked, rinsed and drained",
-      "1 tablespoon tomato paste",
-      "2 to 3 teaspoons sherry vinegar",
-      "½ bunch kale, chopped",
-      "Salt and pepper",
-      "splashes Lemon juice (optional)",
-      "¼ cup toasted pine nuts (optional)",
-      "¼ cup crushed tomatoes (can be from a can)",
-      "pinch of smoked paprika",
-      "1 cup chopped raw kale",
-      "olive oil",
-      "balsamic vinegar",
-      "feta cheese (optional)",
-      "chopped scallions or chives",
-      "salt & pepper",
-      "1-2 eggs"
-    ],
-    "cuisineType": [
-      "kale",
-      "spring"
+      "seafood"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11257,9 +10377,7 @@
       "a pinch of salt and pepper"
     ],
     "cuisineType": [
-      "breakfast",
-      "spring",
-      "mango"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11287,9 +10405,7 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "spring",
-      "almond milk",
-      "pasta"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11311,9 +10427,8 @@
       "salt"
     ],
     "cuisineType": [
-      "spring",
       "vegan",
-      "lemon"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11363,8 +10478,8 @@
       "tortillas (corn or flour)"
     ],
     "cuisineType": [
-      "dairy free",
-      "gluten-free-optional"
+      "seafood",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11388,7 +10503,7 @@
     ],
     "cuisineType": [
       "vegan",
-      "favorite"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11409,44 +10524,7 @@
     ],
     "cuisineType": [
       "vegan",
-      "winter"
-    ],
-    "sourceName": "Love and Lemons"
-  },
-  {
-    "sourceHref": "http://www.loveandlemons.com/2013/02/18/mini-ceviche-tacos/",
-    "recipeTitle": "mini ceviche tacos recipe",
-    "ingredients": [
-      "1 (14 ounce) can hearts of palm, slice into ¼ inch pieces",
-      "¼ cup very thin red onion slices",
-      "½ poblano, roasted & chopped (about ¼ cup)",
-      "¼ cup corn kernels",
-      "¼ cup chopped scallions",
-      "¼ cup red pepper, diced",
-      "¼ cup chopped cilantro",
-      "¼ cup lime juice",
-      "1 tablespoon olive oil",
-      "salt",
-      "tortillas (mini or regular sized), or tortilla chips",
-      "avocado slices",
-      "extra cilantro for garnish",
-      "a few radish slices",
-      "5 oz whitefish such as sea bass, snapper or tilapia",
-      "¼ cup lime juice (plus extra at the end, to taste)",
-      "¼ cup thinly sliced red onion",
-      "¼ cup corn kernels",
-      "¼ cup chopped scallions",
-      "¼ cup red pepper, diced",
-      "½ poblano, roasted & chopped (about ¼ cup)",
-      "salt",
-      "tortillas (mini or regular sized), or tortilla chips",
-      "avocado slices",
-      "extra cilantro for garnish",
-      "a few radish slices"
-    ],
-    "cuisineType": [
-      "summer",
-      "vegan"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11484,9 +10562,8 @@
       "pinch of red pepper flakes"
     ],
     "cuisineType": [
-      "winter",
-      "gluten-free",
-      "favorite"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11540,8 +10617,8 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "winter",
       "vegan",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -11569,7 +10646,6 @@
     ],
     "cuisineType": [
       "seafood",
-      "winter",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -11602,8 +10678,8 @@
       "sesame seeds & panko bread crumbs to coat"
     ],
     "cuisineType": [
-      "winter",
       "vegan",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -11631,8 +10707,7 @@
       "poached egg (optional)"
     ],
     "cuisineType": [
-      "winter",
-      "pasta",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -11658,8 +10733,8 @@
     ],
     "cuisineType": [
       "vegan",
-      "gluten-free",
-      "favorite"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11690,8 +10765,8 @@
     ],
     "cuisineType": [
       "vegan",
-      "gluten-free",
-      "winter"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11712,8 +10787,8 @@
       "toasted almonds and sesame seeds"
     ],
     "cuisineType": [
-      "fall",
       "vegan",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -11741,8 +10816,8 @@
     ],
     "cuisineType": [
       "vegan",
-      "gluten-free",
-      "favorite"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11768,9 +10843,8 @@
       "¼ cup toasted pumpkin seeds"
     ],
     "cuisineType": [
-      "fall",
-      "gluten-free",
-      "thanksgiving"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11794,9 +10868,7 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "fall",
-      "vegetarian",
-      "salad"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11822,9 +10894,8 @@
       "optional - seared tofu or other protein"
     ],
     "cuisineType": [
-      "dairy free",
-      "gluten-free",
-      "keys to the kitchen"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11850,8 +10921,8 @@
     ],
     "cuisineType": [
       "vegan",
-      "gluten-free",
-      "favorite"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11879,8 +10950,8 @@
       "salt & pepper, to taste"
     ],
     "cuisineType": [
-      "summer",
       "vegan",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -11906,9 +10977,7 @@
       "a few pinches of red pepper flakes"
     ],
     "cuisineType": [
-      "summer",
-      "salad",
-      "favorite"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11933,9 +11002,8 @@
       "salt & pepper"
     ],
     "cuisineType": [
-      "summer",
-      "gluten-free",
-      "favorite"
+      "veggie",
+      "gluten-free"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11958,9 +11026,8 @@
       "salt and pepper, to taste"
     ],
     "cuisineType": [
-      "summer",
       "vegan",
-      "grilling"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -11983,9 +11050,7 @@
       "grated parmesan or pecorino cheese to go on top (optional)"
     ],
     "cuisineType": [
-      "spring",
-      "pasta",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Love and Lemons"
   },
@@ -12013,8 +11078,7 @@
       "water or more stock, if needed"
     ],
     "cuisineType": [
-      "spring",
-      "vegetarian",
+      "veggie",
       "gluten-free"
     ],
     "sourceName": "Love and Lemons"
@@ -12057,11 +11121,7 @@
       "Sour cream"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "soup",
-      "chicken",
-      "mexican"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12082,13 +11142,7 @@
       "1 tablespoon poppy seeds"
     ],
     "cuisineType": [
-      "appetizer",
-      "christmas",
-      "entree",
-      "fall",
-      "healthy",
-      "quick & easy",
-      "salad"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12108,9 +11162,6 @@
       "1/2 teaspoon crushed red pepper flakes, or more, to taste "
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -12135,9 +11186,6 @@
       "1 jalapeno, thinly sliced"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -12162,8 +11210,6 @@
       "1/2 teaspoon garlic powder"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -12186,14 +11232,7 @@
       "1/2 teaspoon sesame seeds"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "pasta",
-      "quick & easy",
-      "salad",
-      "vegetarian",
-      "avocado",
-      "mango"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12220,12 +11259,7 @@
       "2 teaspoons cornstarch"
     ],
     "cuisineType": [
-      "appetizer",
-      "asian inspired",
-      "entree",
-      "healthy",
-      "new year",
-      "quinoa"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12249,13 +11283,7 @@
       "1 teaspoon grated ginger"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "healthy",
-      "new year",
-      "quick & easy",
-      "salad",
-      "quinoa"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12276,9 +11304,6 @@
       "1/2 teaspoon sesame seeds"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -12303,9 +11328,6 @@
       "Freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "appetizer",
-      "entree",
-      "quick & easy",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -12332,10 +11354,6 @@
       "1 teaspoon Sriracha, optional"
     ],
     "cuisineType": [
-      "appetizer",
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "beef"
     ],
     "sourceName": "Damn Delicious"
@@ -12360,10 +11378,7 @@
       "1 tablespoon cornstarch"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "chicken",
-      "lemon"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12385,11 +11400,7 @@
       "1 head butter lettuce"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "healthy",
-      "quick & easy",
-      "turkey"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12412,11 +11423,7 @@
       "1 teaspoon soy sauce"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "healthy",
-      "quick & easy",
-      "salad"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12433,12 +11440,7 @@
       "8 ounces sliced honey roasted turkey"
     ],
     "cuisineType": [
-      "entree",
-      "giveaway",
-      "quick & easy",
-      "avocado",
-      "pork",
-      "sandwich"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12457,24 +11459,7 @@
       "1/2 cup canned corn kernels, drained and rinsed"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "vegetarian",
-      "avocado"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/07/01/baby-back-ribs-with-balsamic-peach-bbq-sauce/",
-    "recipeTitle": "Baby Back Ribs with Balsamic Peach BBQ Sauce",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "peach",
-      "pork"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12518,12 +11503,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "salad",
-      "avocado",
-      "bacon"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12545,10 +11525,7 @@
       "1 Roma tomato, diced"
     ],
     "cuisineType": [
-      "breakfast",
-      "entree",
-      "quick & easy",
-      "bacon"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12567,27 +11544,7 @@
       "2 tablespoons freshly squeezed lime juice"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "giveaway",
-      "quick & easy",
-      "beef",
-      "hot dog",
-      "pineapple",
       "pork"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2013/02/03/bacon-wrapped-chili-cheese-dogs-sundaysupper/",
-    "recipeTitle": "Bacon-Wrapped Chili Cheese Dogs",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "bacon",
-      "hot dog"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12634,7 +11591,6 @@
       "2 tablespoons brown sugar, packed"
     ],
     "cuisineType": [
-      "entree",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -12657,7 +11613,6 @@
       "1 tablespoon whole grain mustard "
     ],
     "cuisineType": [
-      "entree",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -12675,9 +11630,7 @@
       "1 cup marinara sauce, homemade or storebought"
     ],
     "cuisineType": [
-      "entree",
-      "chicken",
-      "italian"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12697,12 +11650,7 @@
       "Pinch of salt"
     ],
     "cuisineType": [
-      "appetizer",
-      "entree",
-      "game day",
-      "quick & easy",
-      "pork",
-      "sandwich"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12723,9 +11671,6 @@
       "2 teaspoons sesame seeds"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -12746,7 +11691,6 @@
       "8 bone-in, skin-on chicken thighs"
     ],
     "cuisineType": [
-      "entree",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -12772,8 +11716,6 @@
       "1/4 teaspoon ground black pepper"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -12794,11 +11736,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "chicken",
-      "potatoes",
-      "zucchini"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12816,11 +11754,7 @@
       "1/4 cup basil leaves, chiffonade"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "vegetarian",
-      "italian"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12840,10 +11774,7 @@
       "1/2 teaspoon garlic powder"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "chicken",
-      "chinese"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12866,9 +11797,6 @@
       "2 teaspoons Frank's Hot Sauce"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -12892,9 +11820,6 @@
       "Pinch of crushed red pepper flakes"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -12915,11 +11840,7 @@
       "Sriracha, for serving"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "hot dog",
-      "peppers"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12946,13 +11867,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
-      "salad",
-      "avocado",
-      "bacon",
-      "corn"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -12984,9 +11899,7 @@
       "2 large eggs"
     ],
     "cuisineType": [
-      "entree",
-      "chicken",
-      "pie"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13005,10 +11918,7 @@
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "chicken",
-      "pizza"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13031,10 +11941,6 @@
       "1/4 cup tortilla strips"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
-      "salad",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -13058,9 +11964,7 @@
       "1 Roma tomato, diced"
     ],
     "cuisineType": [
-      "entree",
-      "beef",
-      "mexican"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13084,9 +11988,7 @@
       "1/4 teaspoon ground black pepper"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13102,27 +12004,7 @@
       "2 teaspoons chopped mint leaves"
     ],
     "cuisineType": [
-      "healthy",
-      "salad",
-      "blueberries",
-      "melon",
-      "strawberries"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/06/29/biscuit-lime-fish-tacos/",
-    "recipeTitle": "Biscuit Lime Fish Tacos",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "quick & easy",
-      "avocado",
-      "mexican",
-      "peppers",
-      "seafood"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13176,13 +12058,7 @@
       "1 tablespoon sugar"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "new year",
-      "quick & easy",
-      "salad",
-      "vegetarian",
-      "quinoa"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13200,14 +12076,7 @@
       "1/2 cup mixed medley cherry tomatoes"
     ],
     "cuisineType": [
-      "entree",
-      "giveaway",
-      "pasta",
-      "quick & easy",
-      "italian",
-      "kale",
-      "lemon",
-      "pork"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13224,13 +12093,8 @@
       "1 avocado, halved, seeded, peeled and diced"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "avocado",
-      "bacon",
-      "beef",
-      "hot dog",
-      "tomato"
+      "pork",
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13251,28 +12115,7 @@
       "2 teaspoons sugar, or more to taste"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
-      "salad",
-      "uncategorized",
-      "bacon"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2013/02/27/blt-with-guacamole-on-sweet-potato-rolls/",
-    "recipeTitle": "BLT with Guacamole on Sweet Potato Rolls",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "quick & easy",
-      "avocado",
-      "bread",
-      "pork",
-      "sandwich"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13313,10 +12156,7 @@
       "4 ounces Wisconsin Brie, thinly sliced"
     ],
     "cuisineType": [
-      "breakfast",
-      "entree",
-      "blueberries",
-      "sandwich"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13333,12 +12173,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "broccoli",
-      "chicken",
-      "lightened up"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13359,12 +12194,7 @@
       "1/3 cup Greek yogurt"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "new year",
-      "quick & easy",
-      "broccoli",
-      "quinoa"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13388,10 +12218,6 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
-      "sandwich",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -13417,9 +12243,6 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -13446,9 +12269,6 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -13469,12 +12289,7 @@
       "1/4 cup basil leaves, chiffonade "
     ],
     "cuisineType": [
-      "appetizer",
-      "entree",
-      "healthy",
-      "quick & easy",
-      "salad",
-      "italian"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13493,11 +12308,7 @@
       "1/4 cup fresh basil leaves, chiffonade"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "italian",
-      "tomato"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13516,15 +12327,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
-      "salad",
-      "vegetarian",
-      "avocado",
-      "italian",
-      "quinoa",
-      "tomato"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13552,11 +12355,6 @@
       "Diced avocado, for serving"
     ],
     "cuisineType": [
-      "entree",
-      "avocado",
-      "mexican",
-      "peppers",
-      "pizza",
       "pork"
     ],
     "sourceName": "Damn Delicious"
@@ -13580,9 +12378,7 @@
       "2 tablespoons chopped fresh parsley leaves "
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "soup"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13609,30 +12405,7 @@
       "2 tablespoons chopped chives"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "soup"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2015/02/07/cheesy-avocado-quesadillas/",
-    "recipeTitle": "Cheesy Avocado Quesadillas",
-    "ingredients": [
-      "1 tablespoon olive oil ",
-      "1 pound ground beef ",
-      "1 tablespoon Old El Paso™ taco seasoning mix ",
-      "1 (4.5-ounce) can Old El Paso™ chopped green chiles, drained ",
-      "8 (8-inch) Old El Paso™ flour tortillas for burritos ",
-      "1 (16-ounce) can Old El Paso™ refried beans, heated ",
-      "2 avocados, peeled, halved, seeded and sliced ",
-      "2 cups shredded mozzarella cheese ",
-      "2 tablespoons chopped fresh cilantro leaves"
-    ],
-    "cuisineType": [
-      "entree",
-      "quick & easy",
-      "mexican"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13684,9 +12457,6 @@
       "1/2 cup shredded cheddar cheese, or more, to taste "
     ],
     "cuisineType": [
-      "appetizer",
-      "entree",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -13710,9 +12480,6 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -13736,8 +12503,6 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "soup",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -13760,10 +12525,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "chicken",
-      "sandwich"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13785,10 +12547,7 @@
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "chicken",
-      "mexican"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13814,9 +12573,6 @@
       "1/2 cup Panko*"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -13838,10 +12594,7 @@
       "Grated Parmesan, for serving"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "chicken",
-      "italian"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13864,11 +12617,7 @@
       "1/3 cup olive oil"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
-      "chicken",
-      "sandwich"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13890,9 +12639,6 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -13912,9 +12658,6 @@
       "Sliced green onions, for garnish"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -13934,10 +12677,7 @@
       "1 roma tomato, diced, for serving"
     ],
     "cuisineType": [
-      "entree",
-      "giveaway",
-      "chicken",
-      "mexican"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -13955,7 +12695,6 @@
       "2 tablespoons milk"
     ],
     "cuisineType": [
-      "entree",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -13979,7 +12718,6 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -14003,7 +12741,6 @@
       "1/4 cup basil leaves, chiffonade"
     ],
     "cuisineType": [
-      "entree",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -14031,10 +12768,6 @@
       "1 teaspoon soy sauce"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "healthy",
-      "salad",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -14061,12 +12794,7 @@
       "1/4 teaspoon white pepper"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "chicken",
-      "chinese",
-      "orange"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14090,31 +12818,7 @@
       "2 tablespoons Panko"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "mexican",
       "pork"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2015/07/31/cilantro-jalapeno-sauce/",
-    "recipeTitle": "Cilantro Jalapeno Sauce",
-    "ingredients": [
-      "4 jalapenos, halved ",
-      "2 cups loosely packed cilantro, stems removed ",
-      "1/2 cup sour cream ",
-      "2 cloves garlic ",
-      "Juice of 1 lime ",
-      "Pinch of salt ",
-      "1/2 cup olive oil ",
-      "1 tablespoon apple cider vinegar"
-    ],
-    "cuisineType": [
-      "appetizer",
-      "entree",
-      "quick & easy",
-      "mexican"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14161,7 +12865,6 @@
       "2 teaspoons freshly squeezed lemon juice"
     ],
     "cuisineType": [
-      "entree",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -14184,9 +12887,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "chicken",
-      "sandwich"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14211,10 +12912,6 @@
       "1 tablespoon sesame oil"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "pasta",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -14241,25 +12938,7 @@
       "1 sprig rosemary"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "soup"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/12/18/creamy-meyer-lemon-pasta/",
-    "recipeTitle": "Creamy Meyer Lemon Pasta",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "asparagus",
-      "lemon",
-      "tomato"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14311,8 +12990,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "pasta"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14336,11 +13014,7 @@
       "1 head broccoli, cut into florets"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "beef",
-      "chinese"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14363,12 +13037,7 @@
       "1/4 teaspoon salt, or more, to taste "
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "new year",
-      "quick & easy",
-      "vegetarian",
-      "mexican"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14393,9 +13062,6 @@
       "1/2 cup olive oil"
     ],
     "cuisineType": [
-      "appetizer",
-      "entree",
-      "quick & easy",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -14420,8 +13086,6 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "soup",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -14443,9 +13107,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14468,27 +13130,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
       "chicken"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2014/07/05/easy-homemade-pesto/",
-    "recipeTitle": "Easy Homemade Pesto",
-    "ingredients": [
-      "1 cup fresh basil leaves ",
-      "3 cloves garlic, peeled ",
-      "3 tablespoons pine nuts ",
-      "1/3 cup grated Parmesan ",
-      "Kosher salt and freshly ground black pepper, to taste ",
-      "1/3 cup olive oil"
-    ],
-    "cuisineType": [
-      "entree",
-      "quick & easy",
-      "italian"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14512,25 +13154,6 @@
       "entree",
       "quick & easy",
       "soup"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2014/01/22/easy-lemon-chicken/",
-    "recipeTitle": "Easy Lemon Chicken",
-    "ingredients": [
-      "1 cup vegetable oil ",
-      "1 cup Italian bread crumbs ",
-      "Zest of 2 lemons, plus more, for garnish ",
-      "1 pound BARE® Chicken's fresh boneless, skinless chicken breast fillets, cut crosswise in half ",
-      "Kosher salt and freshly ground black pepper, to taste ",
-      "1/2 cup all-purpose flour ",
-      "2 large eggs, beaten"
-    ],
-    "cuisineType": [
-      "entree",
-      "quick & easy",
-      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14575,10 +13198,7 @@
       "1/2 teaspoon Sriracha, or more, to taste"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "side dish"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14602,11 +13222,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "pasta",
-      "quick & easy",
-      "italian"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14627,8 +13243,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14652,10 +13267,6 @@
       "1 teaspoon Sriracha, optional"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "broccoli",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -14679,9 +13290,7 @@
       "1 Roma tomato, diced"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "mexican"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14702,8 +13311,6 @@
       "1 teaspoon Sriracha, or more, to taste"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -14727,10 +13334,6 @@
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "soup",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -14751,11 +13354,7 @@
       "1 avocado, halved, seeded, peeled and thinly sliced"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "avocado",
-      "bacon",
-      "sandwich"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14781,12 +13380,7 @@
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "avocado",
-      "corn",
-      "mexican"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14806,10 +13400,7 @@
       "1/4 teaspoon red pepper flakes, or more, to taste"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "chicken",
-      "chinese"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14834,9 +13425,6 @@
       "2 cloves garlic, pressed"
     ],
     "cuisineType": [
-      "entree",
-      "mexican",
-      "peppers",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -14866,10 +13454,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "salad"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14889,7 +13474,6 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -14917,9 +13501,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -14939,27 +13521,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
       "seafood"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2013/10/08/greek-quinoa-avocado-salad/",
-    "recipeTitle": "Greek Quinoa and Avocado Salad",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "healthy",
-      "new year",
-      "quick & easy",
-      "salad",
-      "vegetarian",
-      "quinoa"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15004,12 +13566,7 @@
       "1 avocado, halved, seeded, peeled and thinly sliced, for serving"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
-      "salad",
-      "lightened up",
-      "sandwich"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15032,11 +13589,7 @@
       "2 Roma tomatoes, thinly sliced, for serving"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "bacon",
-      "peppers",
-      "sandwich"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15056,15 +13609,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "giveaway",
-      "healthy",
-      "quick & easy",
-      "salad",
-      "vegetarian",
-      "avocado",
-      "corn",
-      "tomato"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15081,9 +13626,7 @@
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "mexican"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15101,9 +13644,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15126,13 +13667,7 @@
       "1 tablespoon poppy seeds"
     ],
     "cuisineType": [
-      "appetizer",
-      "entree",
-      "fall",
-      "healthy",
-      "quick & easy",
-      "salad",
-      "bacon"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15151,25 +13686,7 @@
       "8-10 Mission Foods Super Soft Medium Flour Tortillas, softened"
     ],
     "cuisineType": [
-      "entree",
-      "chicken",
-      "mexican",
-      "pineapple"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/11/18/hawaiian-bbq-turkey-flatbread-pizza-sundaysupper/",
-    "recipeTitle": "Hawaiian BBQ Turkey Flatbread Pizza",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "quick & easy",
-      "pineapple",
-      "pizza",
-      "turkey"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15214,13 +13731,7 @@
       "1 avocado, halved, seeded, peeled and thinly sliced"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "avocado",
-      "beef",
-      "hot dog",
-      "mango",
-      "mexican"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15240,9 +13751,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "mexican"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15266,8 +13775,6 @@
       "4 boneless, skinless chicken breasts"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -15291,9 +13798,6 @@
       "1 tablespoon cornstarch"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -15315,9 +13819,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "seafood"
+      "seafdood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15334,9 +13836,7 @@
       "2 pounds salmon"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy"
+      "seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15356,10 +13856,6 @@
       "1/2 cup cornstarch"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "chinese",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -15382,9 +13878,7 @@
       "1 large egg, beaten"
     ],
     "cuisineType": [
-      "entree",
-      "chicken",
-      "pie"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15415,7 +13909,6 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
       "beef"
     ],
     "sourceName": "Damn Delicious"
@@ -15441,10 +13934,7 @@
       "Pinch of sugar, optional"
     ],
     "cuisineType": [
-      "entree",
-      "beef",
-      "italian",
-      "sandwich"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15460,11 +13950,7 @@
       "2 cups shredded Great Midwest Jalapeño Jack"
     ],
     "cuisineType": [
-      "entree",
-      "bacon",
-      "peppers",
-      "pork",
-      "sandwich"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15482,26 +13968,7 @@
       "1 1/2 cups grated jalapeño monterey jack cheese"
     ],
     "cuisineType": [
-      "entree",
-      "bacon",
-      "italian",
-      "peppers",
-      "pizza"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/06/03/kalbi-steak-kimchi-grilled-cheese-sundaysupper/",
-    "recipeTitle": "Kalbi Steak Kimchi Grilled Cheese",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "asian inspired",
-      "entree",
-      "beef",
-      "korean",
-      "sandwich"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15552,13 +14019,7 @@
       "1 tablespoon sugar"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
-      "salad",
-      "vegetarian",
-      "kale",
-      "quinoa"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15578,11 +14039,7 @@
       "Cooked rice, for serving"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "beef",
-      "korean"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15597,11 +14054,7 @@
       "1/4 cup plus 2 tablespoons sugar"
     ],
     "cuisineType": [
-      "appetizer",
-      "asian inspired",
-      "quick & easy",
-      "chicken",
-      "korean"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15627,10 +14080,6 @@
       "1 teaspoon sesame oil"
     ],
     "cuisineType": [
-      "appetizer",
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -15653,10 +14102,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "salad",
-      "thanksgiving"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15673,11 +14119,7 @@
       "1 avocado, halved, seeded, peeled and sliced"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "thanksgiving",
-      "sandwich",
-      "turkey"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15701,9 +14143,7 @@
       "1 large egg, beaten"
     ],
     "cuisineType": [
-      "entree",
-      "thanksgiving",
-      "turkey"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15724,7 +14164,6 @@
       "2 cups baby spinach, chopped"
     ],
     "cuisineType": [
-      "entree",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -15743,9 +14182,6 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "appetizer",
-      "entree",
-      "quick & easy",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -15769,8 +14205,6 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -15795,11 +14229,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "soup",
-      "chicken",
-      "lemon"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15819,23 +14249,7 @@
       "1 pound asparagus, trimmed"
     ],
     "cuisineType": [
-      "entree",
       "chicken"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/09/20/lemon-pepper-shrimp-scampi-with-orzo/",
-    "recipeTitle": "Lemon Pepper Shrimp Scampi with Orzo",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "lemon",
-      "seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15873,30 +14287,7 @@
       "2 tablespoons cornstarch"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "chicken",
-      "chinese"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2014/04/18/mexican-corn-cob/",
-    "recipeTitle": "Mexican Corn on the Cob",
-    "ingredients": [
-      "6 ears corn, unhusked ",
-      "6 tablespoons unsalted butter ",
-      "2 teaspoons chili powder ",
-      "1/4 cup grated cotija cheese ",
-      "1/4 cup freshly chopped cilantro leaves ",
-      "Juice of 2 limes"
-    ],
-    "cuisineType": [
-      "entree",
-      "quick & easy",
-      "vegetarian",
-      "corn"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15924,34 +14315,6 @@
       "hot dog",
       "mexican",
       "peppers"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2014/03/12/mexican-rice/",
-    "recipeTitle": "Mexican Rice",
-    "ingredients": [
-      "1 tablespoon olive oil ",
-      "2 cloves garlic, minced ",
-      "1 onion, diced ",
-      "1 1/2 cups basmati rice ",
-      "1 (8-ounce) can tomato sauce ",
-      "1 1/2 cups vegetable broth ",
-      "1 cup corn kernels ",
-      "1/2 cup diced carrots ",
-      "1/2 cup frozen peas ",
-      "1/4 teaspoon chili powder ",
-      "1/4 teaspoon cumin ",
-      "Kosher salt and freshly ground black pepper, to taste ",
-      "2 Roma tomatoes, diced ",
-      "2 tablespoons chopped fresh cilantro leaves"
-    ],
-    "cuisineType": [
-      "entree",
-      "quick & easy",
-      "side dish",
-      "vegetarian",
-      "mexican"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -15994,10 +14357,7 @@
       "Kosher salt and freshly ground black pepper, to taste "
     ],
     "cuisineType": [
-      "appetizer",
-      "entree",
-      "healthy",
-      "pizza"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16015,24 +14375,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "appetizer",
-      "entree",
-      "italian"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2013/02/24/miso-soup-with-vermicelli-mushrooms-and-tofu/",
-    "recipeTitle": "Miso Soup with Vermicelli, Mushrooms and Tofu",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "soup",
-      "vegetarian"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16073,8 +14416,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "soup"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16093,10 +14435,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "italian"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16122,10 +14461,7 @@
       "1 (15-ounce) can Great Northern beans, drained and rinsed"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "soup",
-      "italian"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16145,9 +14481,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "soup"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16167,10 +14501,7 @@
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "beef",
-      "mexican"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16189,10 +14520,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "chicken",
-      "potatoes"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16214,9 +14542,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "chicken",
-      "potatoes"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16239,11 +14565,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "broccoli",
-      "chicken",
-      "potatoes"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16267,9 +14589,6 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "quick & easy",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -16294,13 +14613,7 @@
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "new year",
-      "one pot",
-      "quick & easy",
-      "vegetarian",
-      "mexican"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16318,8 +14631,6 @@
       "2 tablespoons chopped fresh parsley leaves "
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
       "pork"
     ],
     "sourceName": "Damn Delicious"
@@ -16341,9 +14652,6 @@
       "1 teaspoon hot sauce, optional"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "quick & easy",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -16364,10 +14672,7 @@
       "1 cup shredded pepper jack cheese"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "pasta",
-      "quick & easy"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16388,11 +14693,7 @@
       "1/4 cup basil leaves, chiffonade"
     ],
     "cuisineType": [
-      "entree",
-      "giveaway",
-      "one pot",
-      "pasta",
-      "italian"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16414,10 +14715,6 @@
       "1 cup shredded cheddar cheese"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "pasta",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -16442,10 +14739,7 @@
       "Kosher salt and freshly ground black pepper, to taste."
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "quick & easy",
-      "mexican"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16468,10 +14762,6 @@
       "2 green onions, sliced "
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "pasta",
-      "quick & easy",
       "beef"
     ],
     "sourceName": "Damn Delicious"
@@ -16496,10 +14786,6 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "pasta",
-      "quick & easy",
       "beef"
     ],
     "sourceName": "Damn Delicious"
@@ -16519,10 +14805,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "pasta",
-      "quick & easy"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16544,9 +14827,6 @@
       "1/4 cup grated Parmesan cheese"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "pasta",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -16570,11 +14850,7 @@
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "quick & easy",
-      "vegetarian",
-      "mexican"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16596,16 +14872,7 @@
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "giveaway",
-      "one pot",
-      "pasta",
-      "quick & easy",
-      "avocado",
-      "corn",
-      "mexican",
-      "tomato",
-      "turkey"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16623,10 +14890,7 @@
       "1 cup grated Parmesan"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "pasta",
-      "quick & easy"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16647,10 +14911,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "pasta",
-      "quick & easy"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16671,8 +14932,6 @@
       "1/4 cup freshly grated Parmesan cheese"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -16696,10 +14955,7 @@
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "mexican"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16718,26 +14974,7 @@
       "1/4 cup heavy cream"
     ],
     "cuisineType": [
-      "entree",
-      "one pot",
-      "pasta",
-      "quick & easy",
-      "vegetarian"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2013/01/28/open-faced-apple-butter-pastrami-sandwiches-and-a/",
-    "recipeTitle": "Open-Faced Apple Butter Pastrami Sandwiches",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "giveaway",
-      "quick & easy",
-      "beef",
-      "sandwich"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16789,7 +15026,6 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -16811,21 +15047,7 @@
       "8 bone-in, skin-on chicken thighs"
     ],
     "cuisineType": [
-      "entree",
       "chicken"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/06/13/pancetta-fried-rice/",
-    "recipeTitle": "Pancetta Fried Rice",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16857,9 +15079,6 @@
       "2 large eggs, beaten"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -16879,10 +15098,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "side dish"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16902,29 +15118,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "appetizer",
-      "entree",
-      "quick & easy",
       "chicken"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2015/05/22/parmesan-corn-on-the-cob/",
-    "recipeTitle": "Parmesan Corn on the Cob",
-    "ingredients": [
-      "8 ears corn, unhusked ",
-      "8 tablespoons unsalted butter, at room temperature ",
-      "2 cloves garlic, pressed ",
-      "1/2 teaspoon dried thyme ",
-      "Kosher salt and freshly ground black pepper, to taste ",
-      "1/2 cup freshly grated Parmesan ",
-      "2 tablespoons chopped fresh parsley leaves"
-    ],
-    "cuisineType": [
-      "entree",
-      "quick & easy",
-      "corn"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16972,9 +15166,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -16997,8 +15189,6 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -17017,11 +15207,7 @@
       "Fried egg, for serving"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "asparagus",
-      "tomato"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17044,10 +15230,6 @@
       "1 head butter lettuce"
     ],
     "cuisineType": [
-      "appetizer",
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -17067,25 +15249,7 @@
       "2 teaspoons vegetable oil"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "beef",
-      "chinese"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/11/26/philly-cheesesteak-pizza-with-balsamic-fig-reduction/",
-    "recipeTitle": "Philly Cheesesteak Pizza with Balsamic Fig Reduction",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "giveaway",
-      "beef",
-      "pizza"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17132,22 +15296,7 @@
       "2 green onions, sliced"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/06/27/pinoy-spaghetti/",
-    "recipeTitle": "Pinoy Spaghetti",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "asian inspired",
-      "entree",
-      "pasta"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17172,22 +15321,6 @@
       "pizza",
       "turkey",
       "zucchini"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/09/18/pork-and-asparagus-with-hoisin-sauce/",
-    "recipeTitle": "Pork and Asparagus with Hoisin Sauce",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
-      "asparagus",
-      "chinese",
-      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17224,10 +15357,7 @@
       "1 teaspoon Sriracha, optional"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "pasta",
-      "quick & easy"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17254,12 +15384,7 @@
       "1/4 cup sour cream"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "new year",
-      "vegetarian",
-      "mexican",
-      "quinoa"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17279,11 +15404,7 @@
       "1/4 cup basil leaves, chiffonade"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "new year",
-      "chicken",
-      "italian"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17311,15 +15432,7 @@
       "1 avocado, halved, seeded, peeled and diced"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "new year",
-      "soup",
-      "vegetarian",
-      "avocado",
-      "corn",
-      "quinoa",
-      "tomato"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17342,10 +15455,7 @@
       "1 Roma tomato, diced"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "new year",
-      "mexican"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17366,15 +15476,7 @@
       "1 tablespoon sugar"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "new year",
-      "quick & easy",
-      "salad",
-      "blueberries",
-      "mango",
-      "quinoa",
-      "strawberries"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17398,13 +15500,7 @@
       "6 bell peppers, tops cut, stemmed and seeded"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "new year",
-      "vegetarian",
-      "mexican",
-      "peppers",
-      "quinoa"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17429,14 +15525,7 @@
       "Sriracha, for serving"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "giveaway",
-      "healthy",
-      "quick & easy",
-      "vegetarian",
-      "quinoa",
-      "zucchini"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17454,25 +15543,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
       "chicken"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2013/01/22/raspberry-balsamic-glaze-pork-sliders-with-coleslaw-and/",
-    "recipeTitle": "Raspberry Balsamic Glaze Pork Sliders with Coleslaw",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "giveaway",
-      "quick & easy",
-      "side dish",
-      "pork",
-      "raspberries",
-      "sandwich"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17518,11 +15589,7 @@
       "1 1/2 cups shredded mozzarella cheese"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "italian",
-      "peppers"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17544,32 +15611,7 @@
       "2 tablespoons chopped chives"
     ],
     "cuisineType": [
-      "entree",
-      "fall",
-      "soup"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2013/12/02/roasted-red-pepper-alfredo/",
-    "recipeTitle": "Roasted Red Pepper Alfredo",
-    "ingredients": [
-      "12 ounces linguine ",
-      "2 tablespoons olive oil ",
-      "2 cloves garlic, minced ",
-      "1 onion, diced ",
-      "1/2 cup milk ",
-      "1/2 cup heavy cream ",
-      "4 ounces crumbled goat cheese ",
-      "1/2 cup grated Parmesan, plus more for garnish ",
-      "1 (12-ounce) jar roasted red peppers, drained and chopped ",
-      "Kosher salt and freshly ground black pepper, to taste"
-    ],
-    "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "vegetarian"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17623,29 +15665,7 @@
       "1-2 teaspoons Sriracha"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "new year",
-      "quick & easy",
       "seafood"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/09/12/roasted-veggie-trapanese-pesto-pasta/",
-    "recipeTitle": "Roasted Veggie Trapanese Pesto Pasta",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "asparagus",
-      "chicken",
-      "peppers",
-      "tomato",
-      "zucchini"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17689,11 +15709,8 @@
       "2 Roma tomatoes, thinly sliced, for serving"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "bacon",
-      "sandwich",
-      "seafood"
+      "seafood",
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17716,9 +15733,7 @@
       "1/4 cup heavy cream"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "soup"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17746,10 +15761,7 @@
       "1 teaspoon chili paste"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "chicken",
-      "chinese"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17775,8 +15787,6 @@
       "1/2 teaspoon sesame seeds"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -17798,9 +15808,7 @@
       "2 hard boiled eggs, sliced lengthwise, for serving"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17824,9 +15832,6 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "soup",
-      "bacon",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -17850,9 +15855,6 @@
       "1 tablespoon sugar"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -17871,8 +15873,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy"
+      "seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17898,14 +15899,6 @@
       "2 tablespoons apple cider vinegar "
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
-      "salad",
-      "uncategorized",
-      "avocado",
-      "bacon",
-      "corn",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -17925,8 +15918,7 @@
       "1/4 cup chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy"
+      "seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -17950,9 +15942,6 @@
       "2 green onions, sliced"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -17973,11 +15962,6 @@
       "3 cups broccoli slaw mix"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "avocado",
-      "broccoli",
-      "sandwich",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -17999,10 +15983,6 @@
       "1/4 cup freshly grated Parmesan"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "lemon",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -18026,9 +16006,6 @@
       "1/2 teaspoon sesame oil"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -18054,11 +16031,7 @@
       "1/2 teaspoon dried basil"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "salad",
-      "vegetarian"
+      "seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18086,10 +16059,7 @@
       "1 tablespoon olive oil, or more, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "beef",
-      "sandwich"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18112,8 +16082,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "pasta"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18134,11 +16103,7 @@
       "2 cups arugula "
     ],
     "cuisineType": [
-      "appetizer",
-      "entree",
-      "healthy",
-      "quick & easy",
-      "sandwich"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18158,10 +16123,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18187,8 +16149,7 @@
       "1 1/2 cups reduced fat shredded Mexican blend cheese"
     ],
     "cuisineType": [
-      "entree",
-      "mexican"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18214,24 +16175,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
       "seafood"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2012/10/12/sloppy-joes-with-avocado-and-fried-egg/",
-    "recipeTitle": "Sloppy Joes with Avocado and Fried Egg",
-    "ingredients": [
-
-    ],
-    "cuisineType": [
-      "entree",
-      "quick & easy",
-      "avocado",
-      "beef",
-      "sandwich"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18274,11 +16218,7 @@
       "2 heads broccoli, cut into florets"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "slow cooker",
-      "beef",
-      "broccoli"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18301,8 +16241,6 @@
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "slow cooker",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -18325,9 +16263,7 @@
       "1/4 teaspoon crushed red pepper flakes, optional"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "slow cooker"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18351,10 +16287,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "slow cooker",
-      "italian"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18373,9 +16306,6 @@
       "Sesame seeds, for garnish"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "slow cooker",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -18393,8 +16323,6 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "slow cooker",
       "beef"
     ],
     "sourceName": "Damn Delicious"
@@ -18415,10 +16343,7 @@
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "slow cooker",
-      "mexican"
+      "seafood"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18440,9 +16365,7 @@
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "slow cooker",
-      "mexican"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18465,8 +16388,6 @@
       "1/4 teaspoon ground black pepper"
     ],
     "cuisineType": [
-      "entree",
-      "slow cooker",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -18488,9 +16409,6 @@
       "Sesame seeds, for garnish"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "slow cooker",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -18515,9 +16433,6 @@
       "2 green onions, thinly sliced"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "slow cooker",
       "beef"
     ],
     "sourceName": "Damn Delicious"
@@ -18535,8 +16450,7 @@
       "15 whole cloves"
     ],
     "cuisineType": [
-      "entree",
-      "thanksgiving"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18556,9 +16470,6 @@
       "2 limes, juiced"
     ],
     "cuisineType": [
-      "entree",
-      "slow cooker",
-      "mexican",
       "pork"
     ],
     "sourceName": "Damn Delicious"
@@ -18583,10 +16494,6 @@
       "16 ounces wide egg noodles"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "slow cooker",
-      "italian",
       "pork"
     ],
     "sourceName": "Damn Delicious"
@@ -18608,9 +16515,7 @@
       "1/4 cup heavy cream"
     ],
     "cuisineType": [
-      "entree",
-      "slow cooker",
-      "soup"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18639,9 +16544,6 @@
       "1 avocado, halved, seeded, peeled and diced"
     ],
     "cuisineType": [
-      "entree",
-      "giveaway",
-      "slow cooker",
       "pork"
     ],
     "sourceName": "Damn Delicious"
@@ -18664,9 +16566,7 @@
       "3 cups baby spinach"
     ],
     "cuisineType": [
-      "entree",
-      "slow cooker",
-      "soup"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18687,9 +16587,6 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "slow cooker",
       "beef"
     ],
     "sourceName": "Damn Delicious"
@@ -18711,9 +16608,7 @@
       "2 tablespoons chopped fresh cilantro leaves"
     ],
     "cuisineType": [
-      "entree",
-      "chicken",
-      "mexican"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18745,12 +16640,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
-      "vegetarian",
-      "avocado",
-      "mexican"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18774,12 +16664,7 @@
       "2 tablespoons apple cider vinegar"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
-      "salad",
-      "vegetarian",
-      "mexican"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18796,10 +16681,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "bacon"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18824,36 +16706,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy"
-    ],
-    "sourceName": "Damn Delicious"
-  },
-  {
-    "sourceHref": "/2013/07/29/spam-fried-rice-and-a-zojirushi-rice-cooker-giveaway/",
-    "recipeTitle": "Spam Fried Rice",
-    "ingredients": [
-      "2 tablespoons vegetable oil, divided ",
-      "2 large eggs, beaten ",
-      "2 cloves garlic, minced ",
-      "6 ounces Spam, diced ",
-      "1/2 cup frozen corn ",
-      "1/2 cup frozen peas ",
-      "1/2 cup frozen diced carrots ",
-      "3 cups cooked rice ",
-      "1 1/2 tablespoons soy sauce ",
-      "1/2 tablespoon fish sauce ",
-      "1/4 teaspoon sesame oil ",
-      "1/4 teaspoon white pepper ",
-      "2 green onions, sliced ",
-      "Sriracha, for serving"
-    ],
-    "cuisineType": [
-      "asian inspired",
-      "entree",
-      "giveaway",
-      "quick & easy"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18901,8 +16754,6 @@
       "1 green onion, thinly sliced"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -18929,10 +16780,6 @@
       "1/4 teaspoon salt"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "avocado",
-      "sandwich",
       "seafood"
     ],
     "sourceName": "Damn Delicious"
@@ -18955,10 +16802,7 @@
       "Romaine lettuce, for serving"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "healthy",
-      "quick & easy"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -18982,9 +16826,7 @@
       "1 1/2 cups grated Parmesan, divided"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "bacon"
+      "pork"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -19006,9 +16848,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -19031,10 +16871,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "soup",
-      "vegetarian"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -19053,9 +16890,6 @@
       "4 slices prosciutto, chopped"
     ],
     "cuisineType": [
-      "entree",
-      "italian",
-      "pizza",
       "pork"
     ],
     "sourceName": "Damn Delicious"
@@ -19079,10 +16913,7 @@
       "1/4 cup grated Parmesan"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "italian"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -19104,10 +16935,7 @@
       "2 tablespoons grated Parmesan"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy",
-      "soup"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -19121,12 +16949,7 @@
       "1 Roma tomato, sliced and cut into half-circles"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "avocado",
-      "beef",
-      "hot dog",
-      "mexican"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -19160,10 +16983,7 @@
       "2 pounds flank steak"
     ],
     "cuisineType": [
-      "entree",
-      "salad",
-      "beef",
-      "mexican"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -19185,9 +17005,6 @@
       "2 teaspoons sesame seeds"
     ],
     "cuisineType": [
-      "asian inspired",
-      "entree",
-      "quick & easy",
       "chicken"
     ],
     "sourceName": "Damn Delicious"
@@ -19208,9 +17025,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "pasta",
-      "quick & easy"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -19231,13 +17046,7 @@
       "2 teaspoons sugar, or more to taste"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "quick & easy",
-      "salad",
-      "vegetarian",
-      "avocado",
-      "strawberries"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -19257,14 +17066,7 @@
       "2 teaspoons Imperial Sugar Extra Fine Granulated Sugar, or more, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "healthy",
-      "new year",
-      "quick & easy",
-      "salad",
-      "vegetarian",
-      "quinoa",
-      "strawberries"
+      "veggie"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -19288,11 +17090,7 @@
       "Kosher salt and freshly ground black pepper, to taste"
     ],
     "cuisineType": [
-      "entree",
-      "quick & easy",
-      "beef",
-      "peppers",
-      "sandwich"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -19318,9 +17116,7 @@
       "1 (15-ounce) can black beans, drained and rinsed"
     ],
     "cuisineType": [
-      "entree",
-      "soup",
-      "turkey"
+      "chicken"
     ],
     "sourceName": "Damn Delicious"
   },
@@ -19345,8 +17141,7 @@
       "2 tablespoons chopped fresh parsley leaves"
     ],
     "cuisineType": [
-      "appetizer",
-      "entree"
+      "beef"
     ],
     "sourceName": "Damn Delicious"
   },
