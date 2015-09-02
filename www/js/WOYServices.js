@@ -123,28 +123,33 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 		}
 
 		var getRandomRecipe = function(excludedIndexes){
-			var recipe, index;
-			
-			if(excludedIndexes == undefined){
-				excludedIndexes = [];
-			}
-			
-			while(recipe == undefined){
-				var newIndex = Math.floor(Math.random() * allRecipes.length);
+			if(allRecipeTypesAreFiltered() == false){
+				var recipe, index;
+				
+				if(excludedIndexes == undefined){
+					excludedIndexes = [];
+				}
+				
+				while(recipe == undefined){
+					var newIndex = Math.floor(Math.random() * allRecipes.length);
 
 
-				if(excludedIndexes.indexOf(index) == -1){
-					recipe = allRecipes[newIndex];
-					
-					if(recipeNotExcludedByType(recipe)){
-						index = newIndex;
-					} else {
-						recipe = undefined;
+					if(excludedIndexes.indexOf(index) == -1){
+						recipe = allRecipes[newIndex];
+						
+						if(recipeNotExcludedByType(recipe)){
+							index = newIndex;
+						} else {
+							recipe = undefined;
+						}
 					}
 				}
+
+				return { index: index, recipe: recipe };
+
+			} else {
+				return null;
 			}
-			
-			return { index: index, recipe: recipe };
 		}
 
 		var saveCurrentRecipes = function(){
@@ -205,17 +210,16 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 			LocalStorage.setObject('recipeFilterSettings', recipeFilterSettings);
 		}
 
-		var onlyOneTypeUnfiltered = function(){
-			// not working, needs to be fixed
-			var numberOfTrue = 0;
+		var allRecipeTypesAreFiltered = function(){
+			var result = 0;
 
-			for(var value in recipeFilterSettings){
-				if(value){
-					numberOfTrue += 1;
+			for(var key in recipeFilterSettings){
+				if(recipeFilterSettings[key] == false){
+					result += 1
 				}
 			}
 
-			if(numberOfTrue == 1){
+			if(result == Object.keys(recipeFilterSettings).length){
 				return true;
 			} else {
 				return false;
@@ -227,11 +231,9 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 		}
 
 		recipesService.toggleRecipeFilter = function(type){
-			if(onlyOneTypeUnfiltered() == false){
-				recipeFilterSettings[type] = !recipeFilterSettings[type];
+			recipeFilterSettings[type] = !recipeFilterSettings[type];
 
-				saveRecipeFilterSettings();
-			}
+			saveRecipeFilterSettings();
 		}
 
 		recipesService.switchToPreviousMealPlan = function(histIndex){
@@ -262,8 +264,10 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 				var ds = constructDateForRecipe(i);
 				var randomRecipe = getRandomRecipe(exclusionList);
 
-				exclusionList.push(randomRecipe.index);
-				currentRecipes.push({ date: ds, recipe: randomRecipe.recipe});
+				if(randomRecipe != null){
+					exclusionList.push(randomRecipe.index);
+					currentRecipes.push({ date: ds, recipe: randomRecipe.recipe});
+				}
 			}
 
 			saveCurrentRecipes();
@@ -295,11 +299,16 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 		}
 
 		recipesService.refreshRecipeAtIndex = function(index){
-			currentRecipes[index].recipe = getRandomRecipe().recipe;
-			var ingredients = currentRecipes[index].recipe.ingredients;
+			var randomRecipe = getRandomRecipe()
+			
+			if(randomRecipe != null){
+				currentRecipes[index].recipe = randomRecipe.recipe; 
 
-			saveCurrentRecipes();
-			GroceriesService.addIngredientsToGroceriesList(ingredients);
+				var ingredients = currentRecipes[index].recipe.ingredients;
+
+				saveCurrentRecipes();
+				GroceriesService.addIngredientsToGroceriesList(ingredients);
+			}
 		}
 
 		recipesService.getCurrentRecipes = function(){
