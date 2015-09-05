@@ -907,8 +907,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Pinch of Yum"
   },
   {
-    "sourceHref": "http://pinchofyum.com/roasted-vegetarian-pitas-with-avocado-dip",
-    "recipeTitle": "Roasted vegetarian Pitas with Avocado Dip",
+    "sourceHref": "http://pinchofyum.com/roasted-veggie-pitas-with-avocado-dip",
+    "recipeTitle": "Roasted Veggie Pitas with Avocado Dip",
     "ingredients": [
       "2 ripe avocados",
       "1-2 cloves garlic (go for one clove or less if you're sensitive to strong garlic tastes)",
@@ -1300,8 +1300,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Pinch of Yum"
   },
   {
-    "sourceHref": "http://pinchofyum.com/spicy-sofritas-vegetarian-bowls",
-    "recipeTitle": "Spicy Sofritas vegetarian Bowls",
+    "sourceHref": "http://pinchofyum.com/spicy-sofritas-veggie-bowls",
+    "recipeTitle": "Spicy Sofritas Veggie Bowls",
     "ingredients": [
       "1½ cups uncooked white long grain rice",
       "4-5 limes",
@@ -1551,8 +1551,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Pinch of Yum"
   },
   {
-    "sourceHref": "http://pinchofyum.com/goat-cheese-scrambled-eggs-pesto-vegetarians",
-    "recipeTitle": "Goat Cheese Scrambled Eggs with Pesto vegetarians",
+    "sourceHref": "http://pinchofyum.com/goat-cheese-scrambled-eggs-pesto-veggies",
+    "recipeTitle": "Goat Cheese Scrambled Eggs with Pesto Veggies",
     "ingredients": [
       "2 cups chopped kale",
       "¼ cup julienne sun dried tomatoes",
@@ -1862,8 +1862,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Pinch of Yum"
   },
   {
-    "sourceHref": "http://pinchofyum.com/rainbow-vegetarian-bowls-with-jalapeno-ranch",
-    "recipeTitle": "Rainbow vegetarian Bowls with Jalapeño Ranch",
+    "sourceHref": "http://pinchofyum.com/rainbow-veggie-bowls-with-jalapeno-ranch",
+    "recipeTitle": "Rainbow Veggie Bowls with Jalapeño Ranch",
     "ingredients": [
       "1¼ cup nonfat plain Greek yogurt",
       "½ cup 2% milk",
@@ -1894,8 +1894,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Pinch of Yum"
   },
   {
-    "sourceHref": "http://pinchofyum.com/best-10-minute-vegetarian-fried-rice",
-    "recipeTitle": "The Best 10 Minute vegetarian Fried Rice",
+    "sourceHref": "http://pinchofyum.com/best-10-minute-veggie-fried-rice",
+    "recipeTitle": "The Best 10 Minute Veggie Fried Rice",
     "ingredients": [
       "2 tablespoons sesame oil, divided",
       "2 cloves garlic, minced",
@@ -2206,8 +2206,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Pinch of Yum"
   },
   {
-    "sourceHref": "http://pinchofyum.com/herbed-quinoa-garden-vegetarian-salad",
-    "recipeTitle": "Herbed Quinoa Garden vegetarian Salad",
+    "sourceHref": "http://pinchofyum.com/herbed-quinoa-garden-veggie-salad",
+    "recipeTitle": "Herbed Quinoa Garden Veggie Salad",
     "ingredients": [
       "⅓ cup olive oil",
       "3 tablespoons warm water",
@@ -2353,8 +2353,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Pinch of Yum"
   },
   {
-    "sourceHref": "http://pinchofyum.com/honey-ginger-tofu-vegetarian-stir-fry",
-    "recipeTitle": "Honey Ginger Tofu and vegetarian Stir Fry",
+    "sourceHref": "http://pinchofyum.com/honey-ginger-tofu-veggie-stir-fry",
+    "recipeTitle": "Honey Ginger Tofu and Veggie Stir Fry",
     "ingredients": [
       "1½ cup uncooked brown rice or farro",
       "2 tablespoons canola oil",
@@ -3055,8 +3055,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Pinch of Yum"
   },
   {
-    "sourceHref": "http://pinchofyum.com/super-easy-skinny-vegetarian-crockpot-lasagna",
-    "recipeTitle": "Super Easy Skinny vegetarian Crockpot Lasagna",
+    "sourceHref": "http://pinchofyum.com/super-easy-skinny-veggie-crockpot-lasagna",
+    "recipeTitle": "Super Easy Skinny Veggie Crockpot Lasagna",
     "ingredients": [
       "(2) 24 ounce jars or cans of Italian tomato sauce (see notes)",
       "9 thick lasagna noodles with wavy edges (mine were called bronze cut)",
@@ -3494,8 +3494,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Pinch of Yum"
   },
   {
-    "sourceHref": "http://pinchofyum.com/avocado-vegetarian-panini",
-    "recipeTitle": "Avocado vegetarian Panini ",
+    "sourceHref": "http://pinchofyum.com/avocado-veggie-panini",
+    "recipeTitle": "Avocado Veggie Panini ",
     "ingredients": [
       "1½ tablespoons butter or olive oil",
       "1 minced shallot (onion or garlic works too)",
@@ -3810,8 +3810,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Pinch of Yum"
   },
   {
-    "sourceHref": "http://pinchofyum.com/vegetarian-alfredo-lasagna",
-    "recipeTitle": "vegetarian Alfredo Lasagna",
+    "sourceHref": "http://pinchofyum.com/veggie-alfredo-lasagna",
+    "recipeTitle": "Veggie Alfredo Lasagna",
     "ingredients": [
       "5 large cloves garlic, minced",
       "1 tablespoons butter",
@@ -4277,8 +4277,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Pinch of Yum"
   },
   {
-    "sourceHref": "http://pinchofyum.com/curried-vegetarian-burgers",
-    "recipeTitle": "Curried vegetarian Burgers",
+    "sourceHref": "http://pinchofyum.com/curried-veggie-burgers",
+    "recipeTitle": "Curried Veggie Burgers",
     "ingredients": [
       "1 (14 ounce) can chickpeas, rinsed and drained",
       "1 (28 ounce) can lentils, rinsed and drained, or 3½ cups cooked lentils",
@@ -4321,8 +4321,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Pinch of Yum"
   },
   {
-    "sourceHref": "http://pinchofyum.com/whole-wheat-roasted-vegetarian-lasagna",
-    "recipeTitle": "Whole Wheat Roasted vegetarian Lasagna",
+    "sourceHref": "http://pinchofyum.com/whole-wheat-roasted-veggie-lasagna",
+    "recipeTitle": "Whole Wheat Roasted Veggie Lasagna",
     "ingredients": [
       "6 cups fresh sturdy vegetables, chopped (red or yellow peppers, cauliflower, broccoli, carrots, etc.)",
       "1½ tablespoon olive oil",
@@ -4608,7 +4608,7 @@ data.factory('RecipeData', [function(){
       "4 eggs"
     ],
     "cuisineType": [
-
+      "Vegetarian"
     ],
     "sourceName": "Pinch of Yum"
   },
@@ -5544,8 +5544,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Pinch of Yum"
   },
   {
-    "sourceHref": "http://pinchofyum.com/skinny-vegetarian-lasagna",
-    "recipeTitle": "Skinny vegetarian Lasagna",
+    "sourceHref": "http://pinchofyum.com/skinny-veggie-lasagna",
+    "recipeTitle": "Skinny Veggie Lasagna",
     "ingredients": [
       "3 cups chopped vegetarians of your choice",
       "½ chopped onion",
@@ -6011,8 +6011,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Pinch of Yum"
   },
   {
-    "sourceHref": "http://pinchofyum.com/parmesan-pesto-vegetarian-sandwich",
-    "recipeTitle": "Parmesan Pesto vegetarian Sandwich",
+    "sourceHref": "http://pinchofyum.com/parmesan-pesto-veggie-sandwich",
+    "recipeTitle": "Parmesan Pesto Veggie Sandwich",
     "ingredients": [
       "2 whole grain ciabatta rolls",
       "1 whole zucchini",
@@ -6901,8 +6901,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Scrumptiously Skinny"
   },
   {
-    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/10/27/chicken-vegetarian-curry/",
-    "recipeTitle": "Chicken & vegetarian Curry",
+    "sourceHref": "http://www.scrumptiouslyskinny.com/2014/10/27/chicken-veggie-curry/",
+    "recipeTitle": "Chicken & Veggie Curry",
     "ingredients": [
       "1 lb. chicken breast, cut into 1 inch cubes\r",
       "1 lb. frozen mixed vegetables\r",
@@ -7278,7 +7278,7 @@ data.factory('RecipeData', [function(){
       "Salt and pepper, to taste (Don't salt too lightly - the salt will help this brown and make the skin absolutely delicious.)"
     ],
     "cuisineType": [
-
+      "Chicken"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7379,7 +7379,7 @@ data.factory('RecipeData', [function(){
       "salt and pepper, to taste"
     ],
     "cuisineType": [
-
+      "Chicken"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7511,7 +7511,7 @@ data.factory('RecipeData', [function(){
       "water (to soak skewers)"
     ],
     "cuisineType": [
-
+      "Seafood"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7537,7 +7537,7 @@ data.factory('RecipeData', [function(){
       "10 tbsp. part-skim mozzarella"
     ],
     "cuisineType": [
-
+      "Chicken"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -7557,7 +7557,7 @@ data.factory('RecipeData', [function(){
       "paprika, to taste"
     ],
     "cuisineType": [
-
+      "Vegetarian"
     ],
     "sourceName": "Scrumptiously Skinny"
   },
@@ -8291,7 +8291,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Love and Lemons"
   },
   {
-    "sourceHref": "http://www.loveandlemons.com/2015/01/19/black-bean-chickpea-vegetarian-chili/",
+    "sourceHref": "http://www.loveandlemons.com/2015/01/19/black-bean-chickpea-veggie-chili/",
     "recipeTitle": "Easy Black Bean & Chickpea Chili Recipe",
     "ingredients": [
       "2 tablespoons olive oil",
@@ -8569,8 +8569,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Love and Lemons"
   },
   {
-    "sourceHref": "http://www.loveandlemons.com/2014/10/23/harissa-spiced-fall-vegetarian-pitas/",
-    "recipeTitle": "harissa spiced fall vegetarian pitas recipe",
+    "sourceHref": "http://www.loveandlemons.com/2014/10/23/harissa-spiced-fall-veggie-pitas/",
+    "recipeTitle": "harissa spiced fall veggie pitas recipe",
     "ingredients": [
       "1 medium sweet potato, chopped into 1-inch cubes",
       "drizzle of olive oil",
@@ -9017,7 +9017,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Love and Lemons"
   },
   {
-    "sourceHref": "http://www.loveandlemons.com/2014/06/02/vegetarian-baked-macaroni/",
+    "sourceHref": "http://www.loveandlemons.com/2014/06/02/veggie-baked-macaroni/",
     "recipeTitle": "mostly-vegetarian baked macaroni recipe",
     "ingredients": [
       "¾ cups cashew cream",
@@ -9601,8 +9601,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Love and Lemons"
   },
   {
-    "sourceHref": "http://www.loveandlemons.com/2014/01/13/chili-orange-vegetarian-bowl/",
-    "recipeTitle": "chili-orange vegetarian bowl recipe",
+    "sourceHref": "http://www.loveandlemons.com/2014/01/13/chili-orange-veggie-bowl/",
+    "recipeTitle": "chili-orange veggie bowl recipe",
     "ingredients": [
       "½ cup forbidden rice (uncooked)",
       "1 small sweet potato, cubed",
@@ -9911,8 +9911,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Love and Lemons"
   },
   {
-    "sourceHref": "http://www.loveandlemons.com/2013/09/03/grilled-vegetarians-basil-miso/",
-    "recipeTitle": "grilled vegetarians with basil miso recipe",
+    "sourceHref": "http://www.loveandlemons.com/2013/09/03/grilled-veggies-basil-miso/",
+    "recipeTitle": "grilled veggies with basil miso recipe",
     "ingredients": [
       "¼ cup walnuts or pine nuts",
       "2 tablespoons olive oil",
@@ -9992,8 +9992,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Love and Lemons"
   },
   {
-    "sourceHref": "http://www.loveandlemons.com/2013/08/06/vegetarian-caprese-sandwich-olive-pesto/",
-    "recipeTitle": "vegetarian caprese with olive pesto recipe",
+    "sourceHref": "http://www.loveandlemons.com/2013/08/06/veggie-caprese-sandwich-olive-pesto/",
+    "recipeTitle": "veggie caprese with olive pesto recipe",
     "ingredients": [
       "grainy bread, toasted or grilled",
       "olive & almond pesto",
@@ -10137,8 +10137,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Love and Lemons"
   },
   {
-    "sourceHref": "http://www.loveandlemons.com/2013/07/02/grilled-vegetarian-skewers/",
-    "recipeTitle": "chile-lime grilled vegetarian skewers recipe",
+    "sourceHref": "http://www.loveandlemons.com/2013/07/02/grilled-veggie-skewers/",
+    "recipeTitle": "chile-lime grilled veggie skewers recipe",
     "ingredients": [
       "big handful of baby bella mushrooms",
       "½ red onion",
@@ -10974,8 +10974,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Love and Lemons"
   },
   {
-    "sourceHref": "http://www.loveandlemons.com/2012/04/04/sweet-potato-vegetarian-burgers/",
-    "recipeTitle": "Sweet Potato vegetarian Burgers Recipe",
+    "sourceHref": "http://www.loveandlemons.com/2012/04/04/sweet-potato-veggie-burgers/",
+    "recipeTitle": "Sweet Potato Veggie Burgers Recipe",
     "ingredients": [
       "1 sweet potato",
       "⅓ block of extra firm tofu (from a 14 oz package)",
@@ -10990,12 +10990,12 @@ data.factory('RecipeData', [function(){
       "whatever fixings you like on your burger: I had avocado, red onion & sprouts"
     ],
     "cuisineType": [
-
+      "Vegetarian"
     ],
     "sourceName": "Love and Lemons"
   },
   {
-    "sourceHref": "/2013/09/22/5-ingredient-white-chicken-chili/",
+    "sourceHref": "http://damndelicious.net/2013/09/22/5-ingredient-white-chicken-chili/",
     "recipeTitle": "5-Ingredient White Chicken Chili",
     "ingredients": [
       "6 cups chicken broth ",
@@ -11016,7 +11016,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/12/08/apple-cranberry-pecan-salad/",
+    "sourceHref": "http://damndelicious.net/2014/12/08/apple-cranberry-pecan-salad/",
     "recipeTitle": "Apple Cranberry Pecan Salad",
     "ingredients": [
       "6 cups baby spinach ",
@@ -11037,7 +11037,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/05/03/asian-honey-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/05/03/asian-honey-chicken/",
     "recipeTitle": "Asian Honey Chicken",
     "ingredients": [
       "1/2 cup vegetable oil ",
@@ -11057,7 +11057,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/07/27/asian-jalapeno-chicken/",
+    "sourceHref": "http://damndelicious.net/2015/07/27/asian-jalapeno-chicken/",
     "recipeTitle": "Asian Jalapeno Chicken",
     "ingredients": [
       "1 tablespoon vegetable oil ",
@@ -11081,7 +11081,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/02/15/asian-lemon-chicken-tenders/",
+    "sourceHref": "http://damndelicious.net/2014/02/15/asian-lemon-chicken-tenders/",
     "recipeTitle": "Asian Lemon Chicken Tenders",
     "ingredients": [
       "1 cup vegetable oil ",
@@ -11105,7 +11105,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/07/02/asian-pasta-salad/",
+    "sourceHref": "http://damndelicious.net/2013/07/02/asian-pasta-salad/",
     "recipeTitle": "Asian Pasta Salad",
     "ingredients": [
       "8 ounces elbows pasta ",
@@ -11127,7 +11127,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/10/15/asian-quinoa-meatballs/",
+    "sourceHref": "http://damndelicious.net/2014/10/15/asian-quinoa-meatballs/",
     "recipeTitle": "Asian Quinoa Meatballs",
     "ingredients": [
       "1 pound ground turkey ",
@@ -11154,7 +11154,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/10/29/asian-quinoa-salad/",
+    "sourceHref": "http://damndelicious.net/2013/10/29/asian-quinoa-salad/",
     "recipeTitle": "Asian Quinoa Salad",
     "ingredients": [
       "1/2 cup quinoa ",
@@ -11178,7 +11178,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/12/19/asian-salmon-foil/",
+    "sourceHref": "http://damndelicious.net/2014/12/19/asian-salmon-foil/",
     "recipeTitle": "Asian Salmon in Foil",
     "ingredients": [
       "1/4 cup honey ",
@@ -11199,7 +11199,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/05/11/asian-salmon-kabobs/",
+    "sourceHref": "http://damndelicious.net/2015/05/11/asian-salmon-kabobs/",
     "recipeTitle": "Asian Salmon Kabobs",
     "ingredients": [
       "1 1/2 pounds skinless salmon fillet, cut into 1-inch chunks ",
@@ -11223,7 +11223,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/06/06/asian-steak-roll-ups/",
+    "sourceHref": "http://damndelicious.net/2015/06/06/asian-steak-roll-ups/",
     "recipeTitle": "Asian Steak Roll Ups",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -11249,7 +11249,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/08/24/asian-style-chicken-nuggets-with-lemon-glaze/",
+    "sourceHref": "http://damndelicious.net/2012/08/24/asian-style-chicken-nuggets-with-lemon-glaze/",
     "recipeTitle": "Asian Style Chicken Nuggets with Lemon Glaze",
     "ingredients": [
       "4 tablespoons rice vinegar ",
@@ -11273,7 +11273,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/09/24/asian-turkey-lettuce-wraps/",
+    "sourceHref": "http://damndelicious.net/2013/09/24/asian-turkey-lettuce-wraps/",
     "recipeTitle": "Asian Turkey Lettuce Wraps",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -11295,7 +11295,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/01/10/asian-style-cobb-salad/",
+    "sourceHref": "http://damndelicious.net/2013/01/10/asian-style-cobb-salad/",
     "recipeTitle": "Asian-Style Cobb Salad",
     "ingredients": [
       "5 cups chopped romaine lettuce ",
@@ -11318,7 +11318,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/04/18/avocado-club-sandwich-with-spicy-chipotle-pepper-spread/",
+    "sourceHref": "http://damndelicious.net/2013/04/18/avocado-club-sandwich-with-spicy-chipotle-pepper-spread/",
     "recipeTitle": "Avocado Club Sandwich with Spicy Chipotle Pepper Spread",
     "ingredients": [
       "8 slices applewood smoked bacon ",
@@ -11335,7 +11335,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/06/20/avocado-pasta/",
+    "sourceHref": "http://damndelicious.net/2014/06/20/avocado-pasta/",
     "recipeTitle": "Avocado Pasta",
     "ingredients": [
       "12 ounces spaghetti ",
@@ -11354,7 +11354,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/07/21/bacon-pea-macaroni-cheese/",
+    "sourceHref": "http://damndelicious.net/2014/07/21/bacon-pea-macaroni-cheese/",
     "recipeTitle": "Bacon and Pea Macaroni & Cheese",
     "ingredients": [
       "8 ounces elbow macaroni ",
@@ -11375,7 +11375,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/06/28/bacon-avocado-pasta/",
+    "sourceHref": "http://damndelicious.net/2014/06/28/bacon-avocado-pasta/",
     "recipeTitle": "Bacon Avocado Pasta",
     "ingredients": [
       "12 ounces fusili pasta ",
@@ -11396,7 +11396,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/02/02/bacon-mushroom-spinach-frittata/",
+    "sourceHref": "http://damndelicious.net/2015/02/02/bacon-mushroom-spinach-frittata/",
     "recipeTitle": "Bacon Mushroom Spinach Frittata",
     "ingredients": [
       "5 large eggs ",
@@ -11418,7 +11418,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/01/21/bacon-wrapped-teriyaki-hot-dogs-with-pineapple-salsa/",
+    "sourceHref": "http://damndelicious.net/2013/01/21/bacon-wrapped-teriyaki-hot-dogs-with-pineapple-salsa/",
     "recipeTitle": "Bacon Wrapped Teriyaki Hot Dogs with Pineapple Salsa",
     "ingredients": [
       "6 hot dogs ",
@@ -11437,7 +11437,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/06/17/bacon-wrapped-sonoran-hot-dog-sunday-supper/",
+    "sourceHref": "http://damndelicious.net/2012/06/17/bacon-wrapped-sonoran-hot-dog-sunday-supper/",
     "recipeTitle": "Bacon-Wrapped Sonoran Hot Dog",
     "ingredients": [
       "3 Romato tomatoes, diced",
@@ -11459,7 +11459,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/05/02/baked-caprese-chicken/",
+    "sourceHref": "http://damndelicious.net/2015/05/02/baked-caprese-chicken/",
     "recipeTitle": "Baked Caprese Chicken",
     "ingredients": [
       "2 tablespoons olive oil ",
@@ -11480,7 +11480,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/09/13/baked-chicken-mushroom-skillet/",
+    "sourceHref": "http://damndelicious.net/2014/09/13/baked-chicken-mushroom-skillet/",
     "recipeTitle": "Baked Chicken and Mushroom Skillet",
     "ingredients": [
       "8 bone-in, skin-on chicken thighs ",
@@ -11502,7 +11502,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/10/29/baked-chicken-parmesan/",
+    "sourceHref": "http://damndelicious.net/2012/10/29/baked-chicken-parmesan/",
     "recipeTitle": "Baked Chicken Parmesan",
     "ingredients": [
       "1 pound spaghetti ",
@@ -11519,7 +11519,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/08/05/ham-and-mango-cheese-sliders/",
+    "sourceHref": "http://damndelicious.net/2013/08/05/ham-and-mango-cheese-sliders/",
     "recipeTitle": "Baked Ham and Cheese Sliders",
     "ingredients": [
       "9 KING’S HAWAIIAN Original Hawaiian Sweet Dinner Rolls, split ",
@@ -11539,7 +11539,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/07/25/baked-honey-garlic-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/07/25/baked-honey-garlic-chicken/",
     "recipeTitle": "Baked Honey Garlic Chicken",
     "ingredients": [
       "1 pound boneless, skinless chicken breasts, cut into 1-inch chunks ",
@@ -11560,7 +11560,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/09/01/baked-honey-mustard-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/09/01/baked-honey-mustard-chicken/",
     "recipeTitle": "Baked Honey Mustard Chicken",
     "ingredients": [
       "3 tablespoons Dijon mustard ",
@@ -11580,7 +11580,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/02/28/baked-honey-sesame-chicken/",
+    "sourceHref": "http://damndelicious.net/2015/02/28/baked-honey-sesame-chicken/",
     "recipeTitle": "Baked Honey Sesame Chicken",
     "ingredients": [
       "2 tablespoons unsalted butter ",
@@ -11605,8 +11605,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/07/03/baked-ranch-chicken-tenders-and-vegetarians/",
-    "recipeTitle": "Baked Ranch Chicken Tenders and vegetarians",
+    "sourceHref": "http://damndelicious.net/2015/07/03/baked-ranch-chicken-tenders-and-veggies/",
+    "recipeTitle": "Baked Ranch Chicken Tenders and Veggies",
     "ingredients": [
       "16 ounces baby red potatoes, halved ",
       "2 tablespoons olive oil ",
@@ -11625,7 +11625,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/01/07/baked-ravioli/",
+    "sourceHref": "http://damndelicious.net/2014/01/07/baked-ravioli/",
     "recipeTitle": "Baked Ravioli",
     "ingredients": [
       "1 (16-ounce) package cheese-filled ravioli ",
@@ -11643,7 +11643,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/01/18/baked-sweet-sour-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/01/18/baked-sweet-sour-chicken/",
     "recipeTitle": "Baked Sweet and Sour Chicken",
     "ingredients": [
       "1 pound boneless, skinless chicken breasts, cut into 1-inch chunks ",
@@ -11663,7 +11663,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/06/06/bang-bang-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/06/06/bang-bang-chicken/",
     "recipeTitle": "Bang Bang Chicken",
     "ingredients": [
       "1/2 cup vegetable oil, or more, as needed ",
@@ -11686,7 +11686,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/11/07/bang-bang-shrimp-pasta/",
+    "sourceHref": "http://damndelicious.net/2014/11/07/bang-bang-shrimp-pasta/",
     "recipeTitle": "Bang Bang Shrimp Pasta",
     "ingredients": [
       "8 ounces spaghetti ",
@@ -11709,7 +11709,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/08/28/bahn-mi-hot-dogs/",
+    "sourceHref": "http://damndelicious.net/2013/08/28/bahn-mi-hot-dogs/",
     "recipeTitle": "Banh Mi Hot Dogs",
     "ingredients": [
       "2 tablespoons vinegar ",
@@ -11729,7 +11729,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/01/25/bbq-chicken-cobb-salad/",
+    "sourceHref": "http://damndelicious.net/2014/01/25/bbq-chicken-cobb-salad/",
     "recipeTitle": "BBQ Chicken Cobb Salad",
     "ingredients": [
       "4 slices bacon, diced ",
@@ -11756,7 +11756,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/06/11/bbq-chicken-cornbread-pie/",
+    "sourceHref": "http://damndelicious.net/2012/06/11/bbq-chicken-cornbread-pie/",
     "recipeTitle": "BBQ Chicken Cornbread Pie",
     "ingredients": [
       "2 tablespoons olive oil ",
@@ -11788,7 +11788,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/02/09/bbq-chicken-french-bread-pizza/",
+    "sourceHref": "http://damndelicious.net/2015/02/09/bbq-chicken-french-bread-pizza/",
     "recipeTitle": "BBQ Chicken French Bread Pizza",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -11807,7 +11807,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/01/03/bbq-chicken-salad/",
+    "sourceHref": "http://damndelicious.net/2014/01/03/bbq-chicken-salad/",
     "recipeTitle": "BBQ Chicken Salad",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -11830,7 +11830,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/01/04/beef-enchiladas/",
+    "sourceHref": "http://damndelicious.net/2014/01/04/beef-enchiladas/",
     "recipeTitle": "Beef Enchiladas",
     "ingredients": [
       "2 1/2 cups enchilada sauce, divided ",
@@ -11853,7 +11853,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/11/28/beef-noodle-stir-fry/",
+    "sourceHref": "http://damndelicious.net/2014/11/28/beef-noodle-stir-fry/",
     "recipeTitle": "Beef Noodle Stir Fry",
     "ingredients": [
       "2 (7-ounce) refrigerated udon noodles, seasoning sauce packets discarded* ",
@@ -11877,7 +11877,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/08/19/berry-cantaloupe-salad/",
+    "sourceHref": "http://damndelicious.net/2013/08/19/berry-cantaloupe-salad/",
     "recipeTitle": "Berry Cantaloupe Salad",
     "ingredients": [
       "1/2 cantaloupe, scooped with melon baller ",
@@ -11893,7 +11893,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/12/23/biscuit-pot-pie/",
+    "sourceHref": "http://damndelicious.net/2013/12/23/biscuit-pot-pie/",
     "recipeTitle": "Biscuit Pot Pie",
     "ingredients": [
       "2 tablespoons unsalted butter ",
@@ -11922,7 +11922,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/05/28/black-bean-quinoa-salad/",
+    "sourceHref": "http://damndelicious.net/2014/05/28/black-bean-quinoa-salad/",
     "recipeTitle": "Black Bean Quinoa Salad",
     "ingredients": [
       "1 cup quinoa ",
@@ -11945,7 +11945,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/04/17/black-truffle-pasta-with-kale-italian-sausage-and/",
+    "sourceHref": "http://damndelicious.net/2013/04/17/black-truffle-pasta-with-kale-italian-sausage-and/",
     "recipeTitle": "Black Truffle Pasta with Meyer Lemon Cream Sauce",
     "ingredients": [
       "8 ounces black truffle strangozzi pasta ",
@@ -11963,7 +11963,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/08/26/blat-hot-dogs/",
+    "sourceHref": "http://damndelicious.net/2013/08/26/blat-hot-dogs/",
     "recipeTitle": "BLAT Hot Dogs",
     "ingredients": [
       "6 slices bacon ",
@@ -11981,7 +11981,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/01/13/blt-chopped-salad/",
+    "sourceHref": "http://damndelicious.net/2014/01/13/blt-chopped-salad/",
     "recipeTitle": "BLT Chopped Salad",
     "ingredients": [
       "4 slices bacon, diced ",
@@ -12002,7 +12002,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/03/06/bolognese-sauce-with-cloves-and-cinnamon/",
+    "sourceHref": "http://damndelicious.net/2013/03/06/bolognese-sauce-with-cloves-and-cinnamon/",
     "recipeTitle": "Bolognese Sauce",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -12023,7 +12023,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/04/24/brie-and-blueberry-waffle-grilled-cheese/",
+    "sourceHref": "http://damndelicious.net/2013/04/24/brie-and-blueberry-waffle-grilled-cheese/",
     "recipeTitle": "Brie and Blueberry Waffle Grilled Cheese",
     "ingredients": [
       "1 1/2 cups blueberries ",
@@ -12040,7 +12040,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/01/15/broccoli-chicken-mac-and-cheese/",
+    "sourceHref": "http://damndelicious.net/2013/01/15/broccoli-chicken-mac-and-cheese/",
     "recipeTitle": "Broccoli Chicken Mac and Cheese",
     "ingredients": [
       "8 ounces pasta shells ",
@@ -12057,7 +12057,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/03/05/broccoli-quinoa-casserole/",
+    "sourceHref": "http://damndelicious.net/2014/03/05/broccoli-quinoa-casserole/",
     "recipeTitle": "Broccoli Quinoa Casserole",
     "ingredients": [
       "1 cup quinoa ",
@@ -12078,7 +12078,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/03/05/broiled-salmon-gyros-with-cucumber-feta-yogurt-dip/",
+    "sourceHref": "http://damndelicious.net/2013/03/05/broiled-salmon-gyros-with-cucumber-feta-yogurt-dip/",
     "recipeTitle": "Broiled Salmon Gyros with Cucumber Feta Yogurt Dip",
     "ingredients": [
       "1 pound salmon ",
@@ -12102,7 +12102,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/03/18/buffalo-chicken-quinoa-bites-with-greek-yogurt-blue/",
+    "sourceHref": "http://damndelicious.net/2013/03/18/buffalo-chicken-quinoa-bites-with-greek-yogurt-blue/",
     "recipeTitle": "Buffalo Chicken Quinoa Bites with Greek Yogurt Blue Cheese Dip",
     "ingredients": [
       "1 cup cooked quinoa ",
@@ -12127,7 +12127,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/07/01/cajun-shrimp-with-garlic-parmesan-cream-sauce/",
+    "sourceHref": "http://damndelicious.net/2015/07/01/cajun-shrimp-with-garlic-parmesan-cream-sauce/",
     "recipeTitle": "Cajun Shrimp with Garlic Parmesan Cream Sauce",
     "ingredients": [
       "8 ounces fettuccine ",
@@ -12153,7 +12153,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/05/26/caprese-avocado-salad/",
+    "sourceHref": "http://damndelicious.net/2014/05/26/caprese-avocado-salad/",
     "recipeTitle": "Caprese Avocado Salad",
     "ingredients": [
       "1/2 cup balsamic vinegar ",
@@ -12173,7 +12173,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/08/21/caprese-mac-and-cheese/",
+    "sourceHref": "http://damndelicious.net/2013/08/21/caprese-mac-and-cheese/",
     "recipeTitle": "Caprese Mac and Cheese",
     "ingredients": [
       "8 ounces elbow macaroni ",
@@ -12192,7 +12192,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/07/18/caprese-quinoa-salad/",
+    "sourceHref": "http://damndelicious.net/2013/07/18/caprese-quinoa-salad/",
     "recipeTitle": "Caprese Quinoa Salad",
     "ingredients": [
       "1 cup Bob’s Red Mill quinoa ",
@@ -12211,7 +12211,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/09/16/carnitas-avocado-pizza-with-chipotle-avocado-mayonnaise/",
+    "sourceHref": "http://damndelicious.net/2012/09/16/carnitas-avocado-pizza-with-chipotle-avocado-mayonnaise/",
     "recipeTitle": "Carnitas Avocado Pizza",
     "ingredients": [
       "2 teaspoons chili powder ",
@@ -12239,7 +12239,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/03/22/cauliflower-chowder/",
+    "sourceHref": "http://damndelicious.net/2014/03/22/cauliflower-chowder/",
     "recipeTitle": "Cauliflower Chowder",
     "ingredients": [
       "4 slices bacon, diced ",
@@ -12262,7 +12262,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/03/03/cheeseburger-soup/",
+    "sourceHref": "http://damndelicious.net/2014/03/03/cheeseburger-soup/",
     "recipeTitle": "Cheeseburger Soup",
     "ingredients": [
       "3 hamburger buns, diced into 1-inch cubes ",
@@ -12289,7 +12289,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/09/17/cheesy-enchilada-rice-skillet/",
+    "sourceHref": "http://damndelicious.net/2014/09/17/cheesy-enchilada-rice-skillet/",
     "recipeTitle": "Cheesy Enchilada Rice Skillet",
     "ingredients": [
       "1 cup uncooked rice ",
@@ -12314,7 +12314,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/11/01/chicken-alfredo-roll-ups/",
+    "sourceHref": "http://damndelicious.net/2014/11/01/chicken-alfredo-roll-ups/",
     "recipeTitle": "Chicken Alfredo Roll Ups",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -12338,7 +12338,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/01/03/chicken-broccoli-alfredo/",
+    "sourceHref": "http://damndelicious.net/2015/01/03/chicken-broccoli-alfredo/",
     "recipeTitle": "Chicken and Broccoli Alfredo",
     "ingredients": [
       "8 ounces rotini pasta ",
@@ -12361,7 +12361,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/01/17/chicken-potato-chowder/",
+    "sourceHref": "http://damndelicious.net/2014/01/17/chicken-potato-chowder/",
     "recipeTitle": "Chicken and Potato Chowder",
     "ingredients": [
       "1/4 cup unsalted butter ",
@@ -12384,7 +12384,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/08/22/chicken-caesar-ciabatta-sandwiches/",
+    "sourceHref": "http://damndelicious.net/2012/08/22/chicken-caesar-ciabatta-sandwiches/",
     "recipeTitle": "Chicken Caesar Ciabatta Sandwiches",
     "ingredients": [
       "1 cup romaine lettuce leaves ",
@@ -12406,7 +12406,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/02/19/chicken-enchilada-skillet/",
+    "sourceHref": "http://damndelicious.net/2014/02/19/chicken-enchilada-skillet/",
     "recipeTitle": "Chicken Enchilada Skillet",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -12428,7 +12428,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/10/22/chicken-florentine-artichoke-bake/",
+    "sourceHref": "http://damndelicious.net/2014/10/22/chicken-florentine-artichoke-bake/",
     "recipeTitle": "Chicken Florentine Artichoke Bake",
     "ingredients": [
       "8 ounces rotini pasta ",
@@ -12454,7 +12454,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/08/29/chicken-pesto-lasagna-roll-ups/",
+    "sourceHref": "http://damndelicious.net/2012/08/29/chicken-pesto-lasagna-roll-ups/",
     "recipeTitle": "Chicken Pesto Lasagna Roll-Ups",
     "ingredients": [
       "12 lasagna noodles ",
@@ -12475,7 +12475,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/10/22/chicken-pesto-sandwich/",
+    "sourceHref": "http://damndelicious.net/2012/10/22/chicken-pesto-sandwich/",
     "recipeTitle": "Chicken Pesto Sandwich",
     "ingredients": [
       "2 cups shredded chicken breast ",
@@ -12498,7 +12498,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/05/21/chicken-tenders-with-greek-yogurt-ranch/",
+    "sourceHref": "http://damndelicious.net/2013/05/21/chicken-tenders-with-greek-yogurt-ranch/",
     "recipeTitle": "Chicken Tenders with Greek Yogurt Ranch",
     "ingredients": [
       "1 pound boneless skinless chicken breast, cut into 1-inch strips ",
@@ -12520,7 +12520,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/12/20/chicken-teriyaki-kabobs/",
+    "sourceHref": "http://damndelicious.net/2013/12/20/chicken-teriyaki-kabobs/",
     "recipeTitle": "Chicken Teriyaki Kabobs",
     "ingredients": [
       "1 tablespoon cornstarch ",
@@ -12539,7 +12539,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/05/05/chicken-tortilla-stack-and-a-giveaway/",
+    "sourceHref": "http://damndelicious.net/2013/05/05/chicken-tortilla-stack-and-a-giveaway/",
     "recipeTitle": "Chicken Tortilla Stack",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -12558,7 +12558,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/04/12/chicken-40-cloves-garlic/",
+    "sourceHref": "http://damndelicious.net/2014/04/12/chicken-40-cloves-garlic/",
     "recipeTitle": "Chicken with 40 Cloves of Garlic",
     "ingredients": [
       "8 bone-in, skin-on chicken thighs ",
@@ -12576,7 +12576,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/01/09/chicken-creamy-mushroom-sauce/",
+    "sourceHref": "http://damndelicious.net/2015/01/09/chicken-creamy-mushroom-sauce/",
     "recipeTitle": "Chicken with Creamy Mushroom Sauce",
     "ingredients": [
       "8 bone-in, skin-on chicken thighs ",
@@ -12599,7 +12599,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/11/22/chicken-sun-dried-tomato-cream-sauce/",
+    "sourceHref": "http://damndelicious.net/2014/11/22/chicken-sun-dried-tomato-cream-sauce/",
     "recipeTitle": "Chicken with Sun-Dried Tomato Cream Sauce",
     "ingredients": [
       "8 bone-in, skin-on chicken thighs ",
@@ -12622,7 +12622,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/08/25/chinese-chicken-salad/",
+    "sourceHref": "http://damndelicious.net/2014/08/25/chinese-chicken-salad/",
     "recipeTitle": "Chinese Chicken Salad",
     "ingredients": [
       "2 boneless, skinless chicken breasts ",
@@ -12649,7 +12649,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/10/19/chinese-orange-chicken/",
+    "sourceHref": "http://damndelicious.net/2013/10/19/chinese-orange-chicken/",
     "recipeTitle": "Chinese Orange Chicken",
     "ingredients": [
       "1 1/2 pounds boneless, skinless chicken breasts, cut into 1-inch chunks ",
@@ -12675,7 +12675,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/08/02/chorizo-mac-and-cheese/",
+    "sourceHref": "http://damndelicious.net/2012/08/02/chorizo-mac-and-cheese/",
     "recipeTitle": "Chorizo Mac and Cheese",
     "ingredients": [
       "2 cups elbow macaroni ",
@@ -12699,7 +12699,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/11/03/coconut-chicken-tenders/",
+    "sourceHref": "http://damndelicious.net/2014/11/03/coconut-chicken-tenders/",
     "recipeTitle": "Coconut Chicken Tenders",
     "ingredients": [
       "1 cup vegetable oil ",
@@ -12720,7 +12720,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/07/18/copycat-chick-fil-nuggets/",
+    "sourceHref": "http://damndelicious.net/2014/07/18/copycat-chick-fil-nuggets/",
     "recipeTitle": "Copycat Chick-fil-A Nuggets",
     "ingredients": [
       "1 pound boneless, skinless chicken breasts, cut into 1-inch chunks ",
@@ -12743,7 +12743,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/05/16/copycat-chick-fil-a-sandwich/",
+    "sourceHref": "http://damndelicious.net/2015/05/16/copycat-chick-fil-a-sandwich/",
     "recipeTitle": "Copycat Chick-fil-A Sandwich",
     "ingredients": [
       "4 hamburger buns, split ",
@@ -12765,7 +12765,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/05/12/cpks-kung-pao-spaghetti/",
+    "sourceHref": "http://damndelicious.net/2014/05/12/cpks-kung-pao-spaghetti/",
     "recipeTitle": "CPK's Kung Pao Spaghetti",
     "ingredients": [
       "1 pound spaghetti ",
@@ -12790,7 +12790,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/01/10/creamy-chicken-mushroom-soup/",
+    "sourceHref": "http://damndelicious.net/2015/01/10/creamy-chicken-mushroom-soup/",
     "recipeTitle": "Creamy Chicken and Mushroom Soup",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -12816,7 +12816,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/04/11/creamy-mushroom-fettuccine/",
+    "sourceHref": "http://damndelicious.net/2015/04/11/creamy-mushroom-fettuccine/",
     "recipeTitle": "Creamy Mushroom Fettuccine",
     "ingredients": [
       "8 ounces fettuccine ",
@@ -12840,7 +12840,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/03/07/creamy-spinach-and-mushroom-lasagna/",
+    "sourceHref": "http://damndelicious.net/2015/03/07/creamy-spinach-and-mushroom-lasagna/",
     "recipeTitle": "Creamy Spinach and Mushroom Lasagna",
     "ingredients": [
       "9 lasagna noodles ",
@@ -12866,7 +12866,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/08/13/easy-beef-broccoli/",
+    "sourceHref": "http://damndelicious.net/2014/08/13/easy-beef-broccoli/",
     "recipeTitle": "Easy Beef and Broccoli",
     "ingredients": [
       "2/3 cup reduced sodium soy sauce ",
@@ -12890,7 +12890,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/09/10/easy-burrito-bowls/",
+    "sourceHref": "http://damndelicious.net/2014/09/10/easy-burrito-bowls/",
     "recipeTitle": "Easy Burrito Bowls",
     "ingredients": [
       "1 cup uncooked rice ",
@@ -12913,7 +12913,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/03/23/easy-chimichurri-shrimp/",
+    "sourceHref": "http://damndelicious.net/2015/03/23/easy-chimichurri-shrimp/",
     "recipeTitle": "Easy Chimichurri Shrimp",
     "ingredients": [
       "1 pound medium shrimp, peeled and deveined ",
@@ -12938,7 +12938,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/04/25/easy-clam-chowder/",
+    "sourceHref": "http://damndelicious.net/2015/04/25/easy-clam-chowder/",
     "recipeTitle": "Easy Clam Chowder",
     "ingredients": [
       "4 slices bacon, diced ",
@@ -12962,7 +12962,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/02/13/easy-garlic-alfredo-tortellini/",
+    "sourceHref": "http://damndelicious.net/2015/02/13/easy-garlic-alfredo-tortellini/",
     "recipeTitle": "Easy Garlic Alfredo Tortellini",
     "ingredients": [
       "1 (9-ounce) package refrigerated three cheese tortellini ",
@@ -12983,7 +12983,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/06/22/easy-grilled-chicken/",
+    "sourceHref": "http://damndelicious.net/2015/06/22/easy-grilled-chicken/",
     "recipeTitle": "Easy Grilled Chicken",
     "ingredients": [
       "1/4 cup balsamic vinegar ",
@@ -13006,7 +13006,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/10/13/easy-homemade-ramen/",
+    "sourceHref": "http://damndelicious.net/2014/10/13/easy-homemade-ramen/",
     "recipeTitle": "Easy Homemade Ramen",
     "ingredients": [
       "1 tablespoon sesame oil ",
@@ -13026,7 +13026,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/12/20/easy-linguine-clams/",
+    "sourceHref": "http://damndelicious.net/2014/12/20/easy-linguine-clams/",
     "recipeTitle": "Easy Linguine with Clams",
     "ingredients": [
       "12 ounces linguine ",
@@ -13044,7 +13044,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/10/03/easy-lo-mein/",
+    "sourceHref": "http://damndelicious.net/2014/10/03/easy-lo-mein/",
     "recipeTitle": "Easy Lo Mein",
     "ingredients": [
       "8 ounces lo mein egg noodles* ",
@@ -13067,7 +13067,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/12/27/easy-one-pot-lasagna/",
+    "sourceHref": "http://damndelicious.net/2014/12/27/easy-one-pot-lasagna/",
     "recipeTitle": "Easy One Pot Lasagna",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -13091,7 +13091,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/01/31/easy-pork-chops-with-sweet-and-sour-glaze/",
+    "sourceHref": "http://damndelicious.net/2015/01/31/easy-pork-chops-with-sweet-and-sour-glaze/",
     "recipeTitle": "Easy Pork Chops with Sweet and Sour Glaze",
     "ingredients": [
       "4 (8-ounce) pork chops, bone-in, 3/4-inch to 1-inch thick ",
@@ -13112,7 +13112,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/01/16/easy-shrimp-broccoli-stir-fry/",
+    "sourceHref": "http://damndelicious.net/2015/01/16/easy-shrimp-broccoli-stir-fry/",
     "recipeTitle": "Easy Shrimp and Broccoli Stir Fry",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -13136,7 +13136,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/09/24/easy-taco-pie/",
+    "sourceHref": "http://damndelicious.net/2014/09/24/easy-taco-pie/",
     "recipeTitle": "Easy Taco Pie",
     "ingredients": [
       "1/2 cup Original Bisquick™ mix ",
@@ -13159,7 +13159,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/06/17/easy-thai-chicken/",
+    "sourceHref": "http://damndelicious.net/2015/06/17/easy-thai-chicken/",
     "recipeTitle": "Easy Thai Chicken",
     "ingredients": [
       "2 tablespoons unsalted butter ",
@@ -13180,7 +13180,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/02/18/easy-thai-shrimp-soup/",
+    "sourceHref": "http://damndelicious.net/2015/02/18/easy-thai-shrimp-soup/",
     "recipeTitle": "Easy Thai Shrimp Soup",
     "ingredients": [
       "1 cup uncooked basmati rice ",
@@ -13203,7 +13203,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/07/25/egg-salad-blta-sandwich/",
+    "sourceHref": "http://damndelicious.net/2012/07/25/egg-salad-blta-sandwich/",
     "recipeTitle": "Egg Salad BLTA Sandwich",
     "ingredients": [
       "4 slices applewood smoked bacon ",
@@ -13223,7 +13223,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/10/18/enchilada-pasta/",
+    "sourceHref": "http://damndelicious.net/2013/10/18/enchilada-pasta/",
     "recipeTitle": "Enchilada Pasta",
     "ingredients": [
       "16 ounces extra wide egg noodles ",
@@ -13249,7 +13249,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/04/23/firecracker-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/04/23/firecracker-chicken/",
     "recipeTitle": "Firecracker Chicken",
     "ingredients": [
       "1 pound boneless, skinless chicken breasts, cut into 1-inch chunks ",
@@ -13269,7 +13269,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/06/27/fish-tacos-with-chipotle-mayo/",
+    "sourceHref": "http://damndelicious.net/2013/06/27/fish-tacos-with-chipotle-mayo/",
     "recipeTitle": "Fish Tacos with Chipotle Mayo",
     "ingredients": [
       "1 pound tilapia fillets, cut in half lengthwise ",
@@ -13294,7 +13294,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/06/30/fusilli-caesar-salad/",
+    "sourceHref": "http://damndelicious.net/2014/06/30/fusilli-caesar-salad/",
     "recipeTitle": "Fusilli Caesar Salad",
     "ingredients": [
       "8 ounces fusilli pasta ",
@@ -13323,7 +13323,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/11/29/garlic-brown-sugar-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/11/29/garlic-brown-sugar-chicken/",
     "recipeTitle": "Garlic Brown Sugar Chicken",
     "ingredients": [
       "8 bone-in, skin-on chicken thighs ",
@@ -13343,7 +13343,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/07/11/garlic-butter-fettuccine-with-chicken-and-zucchini/",
+    "sourceHref": "http://damndelicious.net/2015/07/11/garlic-butter-fettuccine-with-chicken-and-zucchini/",
     "recipeTitle": "Garlic Butter Fettuccine with Chicken and Zucchini",
     "ingredients": [
       "8 ounces fettuccine ",
@@ -13370,7 +13370,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/03/13/garlic-butter-shrimp-pasta/",
+    "sourceHref": "http://damndelicious.net/2015/03/13/garlic-butter-shrimp-pasta/",
     "recipeTitle": "Garlic Butter Shrimp Pasta",
     "ingredients": [
       "8 ounces fettuccine ",
@@ -13390,7 +13390,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/11/07/lightened-up-greek-yogurt-chicken-salad-sandwich/",
+    "sourceHref": "http://damndelicious.net/2012/11/07/lightened-up-greek-yogurt-chicken-salad-sandwich/",
     "recipeTitle": "Greek Yogurt Chicken Salad Sandwich",
     "ingredients": [
       "1 pound cooked chicken breast, shredded ",
@@ -13411,7 +13411,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/02/17/greek-yogurt-egg-salad-sandwich-sundaysupper/",
+    "sourceHref": "http://damndelicious.net/2013/02/17/greek-yogurt-egg-salad-sandwich-sundaysupper/",
     "recipeTitle": "Greek Yogurt Egg Salad Sandwich",
     "ingredients": [
       "8 large eggs ",
@@ -13430,7 +13430,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/05/27/green-chili-bacon-cheeseburger-sliders-sundaysupper/",
+    "sourceHref": "http://damndelicious.net/2012/05/27/green-chili-bacon-cheeseburger-sliders-sundaysupper/",
     "recipeTitle": "Green Chili Bacon Cheeseburger Sliders",
     "ingredients": [
       "2 (4-ounce) cans diced green chiles, divided ",
@@ -13453,7 +13453,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/07/14/grilled-corn-salad-and-recipegirl-cookbook-giveaway/",
+    "sourceHref": "http://damndelicious.net/2013/07/14/grilled-corn-salad-and-recipegirl-cookbook-giveaway/",
     "recipeTitle": "Grilled Corn Salad",
     "ingredients": [
       "5 ears corn, shucked and rinsed ",
@@ -13473,7 +13473,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/07/25/grilled-nacho-pizza/",
+    "sourceHref": "http://damndelicious.net/2013/07/25/grilled-nacho-pizza/",
     "recipeTitle": "Grilled Nacho Pizza",
     "ingredients": [
       "1 can (11-ounce) Pillsbury® refrigerated thin pizza crust ",
@@ -13490,7 +13490,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/11/01/gruyere-bacon-mac-cheese/",
+    "sourceHref": "http://damndelicious.net/2013/11/01/gruyere-bacon-mac-cheese/",
     "recipeTitle": "Gruyere Bacon Mac and Cheese",
     "ingredients": [
       "8 ounces elbow macaroni ",
@@ -13508,7 +13508,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/09/22/harvest-cobb-salad/",
+    "sourceHref": "http://damndelicious.net/2014/09/22/harvest-cobb-salad/",
     "recipeTitle": "Harvest Cobb Salad",
     "ingredients": [
       "4 slices bacon, diced ",
@@ -13531,7 +13531,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/03/19/hawaiian-bbq-chicken-taquitos/",
+    "sourceHref": "http://damndelicious.net/2013/03/19/hawaiian-bbq-chicken-taquitos/",
     "recipeTitle": "Hawaiian BBQ Chicken Taquitos",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -13550,7 +13550,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/08/06/hawaiian-chicken-and-pineapple/",
+    "sourceHref": "http://damndelicious.net/2015/08/06/hawaiian-chicken-and-pineapple/",
     "recipeTitle": "Hawaiian Chicken and Pineapple",
     "ingredients": [
       "1/4 cup reduced sodium soy sauce ",
@@ -13572,7 +13572,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/06/06/hawaiian-hot-dogs-with-mango-salsa/",
+    "sourceHref": "http://damndelicious.net/2013/06/06/hawaiian-hot-dogs-with-mango-salsa/",
     "recipeTitle": "Hawaiian Hot Dogs with Mango Salsa",
     "ingredients": [
       "1 mango, peeled and diced ",
@@ -13593,7 +13593,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/03/17/homemade-enchilada-sauce/",
+    "sourceHref": "http://damndelicious.net/2014/03/17/homemade-enchilada-sauce/",
     "recipeTitle": "Homemade Enchilada Sauce",
     "ingredients": [
       "1/4 cup vegetable oil ",
@@ -13613,8 +13613,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/07/10/honey-balsamic-chicken-breasts-and-vegetarians/",
-    "recipeTitle": "Honey Balsamic Chicken Breasts and vegetarians",
+    "sourceHref": "http://damndelicious.net/2015/07/10/honey-balsamic-chicken-breasts-and-veggies/",
+    "recipeTitle": "Honey Balsamic Chicken Breasts and Veggies",
     "ingredients": [
       "16 ounces baby red potatoes, halved ",
       "2 cups cherry tomatoes ",
@@ -13637,7 +13637,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/10/08/honey-garlic-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/10/08/honey-garlic-chicken/",
     "recipeTitle": "Honey Garlic Chicken",
     "ingredients": [
       "1 cup vegetable oil ",
@@ -13660,7 +13660,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/08/18/honey-glazed-salmon/",
+    "sourceHref": "http://damndelicious.net/2014/08/18/honey-glazed-salmon/",
     "recipeTitle": "Honey Glazed Salmon",
     "ingredients": [
       "4 salmon filets ",
@@ -13681,7 +13681,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/02/07/honey-salmon-foil/",
+    "sourceHref": "http://damndelicious.net/2014/02/07/honey-salmon-foil/",
     "recipeTitle": "Honey Salmon in Foil",
     "ingredients": [
       "1/4 cup honey ",
@@ -13698,7 +13698,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/07/16/honey-walnut-shrimp/",
+    "sourceHref": "http://damndelicious.net/2013/07/16/honey-walnut-shrimp/",
     "recipeTitle": "Honey Walnut Shrimp",
     "ingredients": [
       "1 cup vegetable oil ",
@@ -13718,7 +13718,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/06/08/individual-chicken-pot-pies/",
+    "sourceHref": "http://damndelicious.net/2012/06/08/individual-chicken-pot-pies/",
     "recipeTitle": "Individual Chicken Pot Pies",
     "ingredients": [
       "8 tablespoons salted butter, divided",
@@ -13740,7 +13740,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/03/09/irish-beef-stew/",
+    "sourceHref": "http://damndelicious.net/2015/03/09/irish-beef-stew/",
     "recipeTitle": "Irish Beef Stew",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -13771,7 +13771,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/08/08/italian-meatball-sandwiches/",
+    "sourceHref": "http://damndelicious.net/2012/08/08/italian-meatball-sandwiches/",
     "recipeTitle": "Italian Meatball Sandwiches",
     "ingredients": [
       "1 1/2 pounds ground beef ",
@@ -13796,7 +13796,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/08/04/jalapeno-popper-grilled-cheese/",
+    "sourceHref": "http://damndelicious.net/2013/08/04/jalapeno-popper-grilled-cheese/",
     "recipeTitle": "Jalapeno Popper Grilled Cheese",
     "ingredients": [
       "4 jalapeños, trimmed and halved lengthwise ",
@@ -13812,7 +13812,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/05/24/jalapeno-popper-pizza/",
+    "sourceHref": "http://damndelicious.net/2012/05/24/jalapeno-popper-pizza/",
     "recipeTitle": "Jalapeño Popper Pizza",
     "ingredients": [
       "2 tablespoons olive oil ",
@@ -13830,7 +13830,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/06/04/kale-pesto-egg-salad-and-a-giveaway/",
+    "sourceHref": "http://damndelicious.net/2013/06/04/kale-pesto-egg-salad-and-a-giveaway/",
     "recipeTitle": "Kale Pesto Egg Salad",
     "ingredients": [
       "8 large eggs ",
@@ -13853,7 +13853,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/03/25/kale-salad-with-meyer-lemon-vinaigrette/",
+    "sourceHref": "http://damndelicious.net/2013/03/25/kale-salad-with-meyer-lemon-vinaigrette/",
     "recipeTitle": "Kale Salad with Meyer Lemon Vinaigrette",
     "ingredients": [
       "4 cups chopped kale ",
@@ -13874,7 +13874,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/07/07/korean-beef-bowl/",
+    "sourceHref": "http://damndelicious.net/2013/07/07/korean-beef-bowl/",
     "recipeTitle": "Korean Beef Bowl",
     "ingredients": [
       "1/3 cup brown sugar, packed ",
@@ -13894,7 +13894,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/07/05/korean-fried-chicken/",
+    "sourceHref": "http://damndelicious.net/2013/07/05/korean-fried-chicken/",
     "recipeTitle": "Korean Fried Chicken",
     "ingredients": [
       "2 cups vegetable oil ",
@@ -13909,7 +13909,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/08/09/kung-pao-chicken-lettuce-wraps/",
+    "sourceHref": "http://damndelicious.net/2014/08/09/kung-pao-chicken-lettuce-wraps/",
     "recipeTitle": "Kung Pao Chicken Lettuce Wraps",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -13935,7 +13935,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/11/28/ham-cobb-salad/",
+    "sourceHref": "http://damndelicious.net/2013/11/28/ham-cobb-salad/",
     "recipeTitle": "Leftover Thanksgiving Ham Cobb Salad",
     "ingredients": [
       "5 cups chopped romaine lettuce ",
@@ -13957,7 +13957,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/11/21/leftover-thanksgiving-turkey-pesto-panini/",
+    "sourceHref": "http://damndelicious.net/2012/11/21/leftover-thanksgiving-turkey-pesto-panini/",
     "recipeTitle": "Leftover Thanksgiving Turkey Pesto Panini",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -13974,7 +13974,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/11/22/leftover-thanksgiving-turkey-pot-pie/",
+    "sourceHref": "http://damndelicious.net/2013/11/22/leftover-thanksgiving-turkey-pot-pie/",
     "recipeTitle": "Leftover Thanksgiving Turkey Pot Pie",
     "ingredients": [
       "2 tablespoons unsalted butter ",
@@ -13998,7 +13998,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/12/31/lemon-butter-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/12/31/lemon-butter-chicken/",
     "recipeTitle": "Lemon Butter Chicken",
     "ingredients": [
       "8 bone-in, skin-on chicken thighs ",
@@ -14019,7 +14019,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/03/14/lemon-butter-scallops/",
+    "sourceHref": "http://damndelicious.net/2015/03/14/lemon-butter-scallops/",
     "recipeTitle": "Lemon Butter Scallops",
     "ingredients": [
       "1 tablespoon unsalted butter ",
@@ -14037,7 +14037,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/06/13/lemon-chicken-and-potatoes-in-foil/",
+    "sourceHref": "http://damndelicious.net/2015/06/13/lemon-chicken-and-potatoes-in-foil/",
     "recipeTitle": "Lemon Chicken and Potatoes in Foil",
     "ingredients": [
       "3 tablespoons olive oil ",
@@ -14060,7 +14060,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/04/25/lemon-chicken-orzo-soup/",
+    "sourceHref": "http://damndelicious.net/2014/04/25/lemon-chicken-orzo-soup/",
     "recipeTitle": "Lemon Chicken Orzo Soup",
     "ingredients": [
       "2 tablespoons olive oil, divided ",
@@ -14084,7 +14084,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/03/20/lemon-chicken-with-asparagus-and-potatoes/",
+    "sourceHref": "http://damndelicious.net/2015/03/20/lemon-chicken-with-asparagus-and-potatoes/",
     "recipeTitle": "Lemon Chicken with Asparagus and Potatoes",
     "ingredients": [
       "2 tablespoons olive oil ",
@@ -14104,7 +14104,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/06/19/lemon-shrimp-with-garlic-and-herbs/",
+    "sourceHref": "http://damndelicious.net/2013/06/19/lemon-shrimp-with-garlic-and-herbs/",
     "recipeTitle": "Lemon Shrimp with Garlic and Herbs with Cilantro Lime Rice",
     "ingredients": [
       "2 cups cooked rice ",
@@ -14119,7 +14119,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/05/23/lighter-general-tsos-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/05/23/lighter-general-tsos-chicken/",
     "recipeTitle": "Lighter General Tso's Chicken",
     "ingredients": [
       "1 1/2 pounds boneless, skinless chicken breasts, cut into 1-inch chunks ",
@@ -14139,7 +14139,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/05/26/mexican-hot-dogs-with-chipotle-cream/",
+    "sourceHref": "http://damndelicious.net/2013/05/26/mexican-hot-dogs-with-chipotle-cream/",
     "recipeTitle": "Mexican Hot Dogs with Chipotle Cream",
     "ingredients": [
       "2 cups corn kernels ",
@@ -14159,7 +14159,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/04/13/mini-blt-wedge-salads/",
+    "sourceHref": "http://damndelicious.net/2015/04/13/mini-blt-wedge-salads/",
     "recipeTitle": "Mini BLT Wedge Salads",
     "ingredients": [
       "4 large eggs ",
@@ -14176,7 +14176,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/04/20/mini-cauliflower-pizzas/",
+    "sourceHref": "http://damndelicious.net/2015/04/20/mini-cauliflower-pizzas/",
     "recipeTitle": "Mini Cauliflower Pizzas",
     "ingredients": [
       "1/3 cup marinara sauce ",
@@ -14199,7 +14199,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/12/12/mini-lasagna-cups/",
+    "sourceHref": "http://damndelicious.net/2014/12/12/mini-lasagna-cups/",
     "recipeTitle": "Mini Lasagna Cups",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -14217,7 +14217,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/03/28/mushroom-corn-and-bacon-chowder/",
+    "sourceHref": "http://damndelicious.net/2015/03/28/mushroom-corn-and-bacon-chowder/",
     "recipeTitle": "Mushroom, Corn and Bacon Chowder",
     "ingredients": [
       "4 slices bacon, diced ",
@@ -14243,7 +14243,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/09/05/olive-garden-alfredo-sauce/",
+    "sourceHref": "http://damndelicious.net/2014/09/05/olive-garden-alfredo-sauce/",
     "recipeTitle": "Olive Garden Alfredo Sauce",
     "ingredients": [
       "8 ounces fettuccine ",
@@ -14262,7 +14262,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/05/17/olive-garden-pasta-e-fagioli/",
+    "sourceHref": "http://damndelicious.net/2014/05/17/olive-garden-pasta-e-fagioli/",
     "recipeTitle": "Olive Garden Pasta e Fagioli",
     "ingredients": [
       "1 cup ditalini pasta ",
@@ -14288,7 +14288,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/12/07/olive-garden-zuppa-toscana-copycat-recipe/",
+    "sourceHref": "http://damndelicious.net/2013/12/07/olive-garden-zuppa-toscana-copycat-recipe/",
     "recipeTitle": "Olive Garden Zuppa Toscana Copycat Recipe",
     "ingredients": [
       "4 slices bacon, diced ",
@@ -14308,7 +14308,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/10/06/one-pan-enchilada-bake/",
+    "sourceHref": "http://damndelicious.net/2014/10/06/one-pan-enchilada-bake/",
     "recipeTitle": "One Pan Enchilada Bake",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -14328,8 +14328,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/05/08/one-pan-garlic-ranch-chicken-and-vegetarians/",
-    "recipeTitle": "One Pan Garlic Ranch Chicken and vegetarians",
+    "sourceHref": "http://damndelicious.net/2015/05/08/one-pan-garlic-ranch-chicken-and-veggies/",
+    "recipeTitle": "One Pan Garlic Ranch Chicken and veggies",
     "ingredients": [
       "8 teaspoons brown sugar, divided ",
       "8 bone-in, skin-on chicken thighs ",
@@ -14347,7 +14347,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/05/30/one-pan-greek-chicken/",
+    "sourceHref": "http://damndelicious.net/2015/05/30/one-pan-greek-chicken/",
     "recipeTitle": "One Pan Greek Chicken",
     "ingredients": [
       "16 ounces baby red potatoes, halved ",
@@ -14369,8 +14369,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/06/27/one-pan-honey-garlic-chicken-and-vegetarians/",
-    "recipeTitle": "One Pan Honey Garlic Chicken and vegetarians",
+    "sourceHref": "http://damndelicious.net/2015/06/27/one-pan-honey-garlic-chicken-and-veggies/",
+    "recipeTitle": "One Pan Honey Garlic Chicken and Veggies",
     "ingredients": [
       "3 tablespoons olive oil, divided ",
       "2 tablespoons unsalted butter, melted ",
@@ -14392,7 +14392,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/06/19/one-pan-lemon-herb-salmon-and-zucchini/",
+    "sourceHref": "http://damndelicious.net/2015/06/19/one-pan-lemon-herb-salmon-and-zucchini/",
     "recipeTitle": "One Pan Lemon Herb Salmon and Zucchini",
     "ingredients": [
       "4 zucchini, chopped ",
@@ -14416,7 +14416,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/04/09/one-pan-mexican-quinoa/",
+    "sourceHref": "http://damndelicious.net/2014/04/09/one-pan-mexican-quinoa/",
     "recipeTitle": "One Pan Mexican Quinoa",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -14440,8 +14440,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/07/29/one-pan-ranch-pork-chops-and-vegetarians/",
-    "recipeTitle": "One Pan Ranch Pork Chops and vegetarians",
+    "sourceHref": "http://damndelicious.net/2015/07/29/one-pan-ranch-pork-chops-and-veggies/",
+    "recipeTitle": "One Pan Ranch Pork Chops and Veggies",
     "ingredients": [
       "4 (8-ounce) pork chops, bone-in, 3/4-inch to 1-inch thick ",
       "16 ounces baby red potatoes, halved ",
@@ -14458,8 +14458,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/05/18/one-pan-salmon-and-vegetarians/",
-    "recipeTitle": "One Pan Salmon and vegetarians",
+    "sourceHref": "http://damndelicious.net/2015/05/18/one-pan-salmon-and-veggies/",
+    "recipeTitle": "One Pan Salmon and Veggies",
     "ingredients": [
       "4 cups chopped kale leaves, ribs and thick stems removed ",
       "2 cups cherry tomatoes ",
@@ -14479,7 +14479,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/12/09/one-pot-andouille-sausage-skillet-pasta/",
+    "sourceHref": "http://damndelicious.net/2013/12/09/one-pot-andouille-sausage-skillet-pasta/",
     "recipeTitle": "One Pot Andouille Sausage Skillet Pasta",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -14499,7 +14499,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/01/20/one-pot-baked-ziti/",
+    "sourceHref": "http://damndelicious.net/2014/01/20/one-pot-baked-ziti/",
     "recipeTitle": "One Pot Baked Ziti",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -14520,7 +14520,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/06/27/one-pot-bbq-chicken-pasta/",
+    "sourceHref": "http://damndelicious.net/2014/06/27/one-pot-bbq-chicken-pasta/",
     "recipeTitle": "One Pot BBQ Chicken Pasta",
     "ingredients": [
       "4 slices bacon, diced ",
@@ -14542,7 +14542,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/07/25/one-pot-beans-chicken-and-rice/",
+    "sourceHref": "http://damndelicious.net/2015/07/25/one-pot-beans-chicken-and-rice/",
     "recipeTitle": "One Pot Beans, Chicken and Rice",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -14566,7 +14566,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/01/11/one-pot-cheeseburger-casserole/",
+    "sourceHref": "http://damndelicious.net/2014/01/11/one-pot-cheeseburger-casserole/",
     "recipeTitle": "One Pot Cheeseburger Casserole",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -14589,7 +14589,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/03/15/one-pot-chili-mac-cheese/",
+    "sourceHref": "http://damndelicious.net/2014/03/15/one-pot-chili-mac-cheese/",
     "recipeTitle": "One Pot Chili Mac and Cheese",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -14613,7 +14613,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/10/11/one-pot-garlic-parmesan-pasta/",
+    "sourceHref": "http://damndelicious.net/2014/10/11/one-pot-garlic-parmesan-pasta/",
     "recipeTitle": "One Pot Garlic Parmesan Pasta",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -14632,7 +14632,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/08/15/one-pot-lemon-orzo-shrimp/",
+    "sourceHref": "http://damndelicious.net/2014/08/15/one-pot-lemon-orzo-shrimp/",
     "recipeTitle": "One Pot Lemon Orzo Shrimp",
     "ingredients": [
       "1 pound medium shrimp, peeled and deveined ",
@@ -14654,7 +14654,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/08/27/one-pot-mexican-rice-casserole/",
+    "sourceHref": "http://damndelicious.net/2014/08/27/one-pot-mexican-rice-casserole/",
     "recipeTitle": "One Pot Mexican Rice Casserole",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -14677,7 +14677,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/09/22/one-pot-mexican-skillet-pasta/",
+    "sourceHref": "http://damndelicious.net/2013/09/22/one-pot-mexican-skillet-pasta/",
     "recipeTitle": "One Pot Mexican Skillet Pasta",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -14699,7 +14699,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/05/16/one-pot-pasta/",
+    "sourceHref": "http://damndelicious.net/2014/05/16/one-pot-pasta/",
     "recipeTitle": "One Pot Pasta",
     "ingredients": [
       "1 pound spaghetti ",
@@ -14717,7 +14717,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/08/16/one-pot-pizza-pasta-bake/",
+    "sourceHref": "http://damndelicious.net/2014/08/16/one-pot-pizza-pasta-bake/",
     "recipeTitle": "One Pot Pizza Pasta Bake",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -14738,7 +14738,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/03/30/one-pot-shrimp-parmesan-pasta/",
+    "sourceHref": "http://damndelicious.net/2015/03/30/one-pot-shrimp-parmesan-pasta/",
     "recipeTitle": "One Pot Shrimp Parmesan Pasta",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -14759,7 +14759,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/08/04/one-pot-taco-pasta/",
+    "sourceHref": "http://damndelicious.net/2014/08/04/one-pot-taco-pasta/",
     "recipeTitle": "One Pot Taco Pasta",
     "ingredients": [
       "1 pound ground beef ",
@@ -14782,7 +14782,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/06/13/one-pot-zucchini-mushroom-pasta/",
+    "sourceHref": "http://damndelicious.net/2014/06/13/one-pot-zucchini-mushroom-pasta/",
     "recipeTitle": "One Pot Zucchini Mushroom Pasta",
     "ingredients": [
       "1 pound spaghetti ",
@@ -14801,7 +14801,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/02/20/oven-fried-chicken-honey-mustard-glaze/",
+    "sourceHref": "http://damndelicious.net/2015/02/20/oven-fried-chicken-honey-mustard-glaze/",
     "recipeTitle": "Oven Fried Chicken with Honey Mustard Glaze",
     "ingredients": [
       "8 boneless, skinless chicken thighs ",
@@ -14824,7 +14824,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/07/19/oven-fried-chicken-with-homemade-coleslaw/",
+    "sourceHref": "http://damndelicious.net/2012/07/19/oven-fried-chicken-with-homemade-coleslaw/",
     "recipeTitle": "Oven-Fried Chicken with Homemade Coleslaw",
     "ingredients": [
       "3 pound boneless, skinless chicken thighs, excess fat trimmed ",
@@ -14852,7 +14852,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/02/01/pan-roasted-lemon-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/02/01/pan-roasted-lemon-chicken/",
     "recipeTitle": "Pan Roasted Lemon Chicken",
     "ingredients": [
       "1 1/4 cups chicken stock ",
@@ -14873,7 +14873,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/08/02/panda-express-sweet-fire-chicken-copycat/",
+    "sourceHref": "http://damndelicious.net/2014/08/02/panda-express-sweet-fire-chicken-copycat/",
     "recipeTitle": "Panda Express Sweet Fire Chicken Copycat",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -14892,7 +14892,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/02/10/parmesan-spinach-orzo/",
+    "sourceHref": "http://damndelicious.net/2014/02/10/parmesan-spinach-orzo/",
     "recipeTitle": "Parmesan and Spinach Orzo",
     "ingredients": [
       "1 cup orzo pasta ",
@@ -14911,7 +14911,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/12/26/parmesan-chicken-bites/",
+    "sourceHref": "http://damndelicious.net/2014/12/26/parmesan-chicken-bites/",
     "recipeTitle": "Parmesan Chicken Bites",
     "ingredients": [
       "1/2 cup vegetable oil ",
@@ -14931,7 +14931,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/03/27/parmesan-crusted-chicken/",
+    "sourceHref": "http://damndelicious.net/2015/03/27/parmesan-crusted-chicken/",
     "recipeTitle": "Parmesan Crusted Chicken",
     "ingredients": [
       "8 bone-in, skin-on chicken thighs ",
@@ -14952,7 +14952,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/12/13/pasta-sun-dried-tomato-cream-sauce/",
+    "sourceHref": "http://damndelicious.net/2014/12/13/pasta-sun-dried-tomato-cream-sauce/",
     "recipeTitle": "Pasta with Sun-Dried Tomato Cream Sauce",
     "ingredients": [
       "8 ounces penne ",
@@ -14978,7 +14978,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/05/04/pecan-crusted-salmon-with-lemon-glaze/",
+    "sourceHref": "http://damndelicious.net/2015/05/04/pecan-crusted-salmon-with-lemon-glaze/",
     "recipeTitle": "Pecan Crusted Salmon with Lemon Glaze",
     "ingredients": [
       "4 salmon filets ",
@@ -15001,7 +15001,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/07/21/pesto-pasta-with-sun-dried-tomatoes-and-roasted/",
+    "sourceHref": "http://damndelicious.net/2012/07/21/pesto-pasta-with-sun-dried-tomatoes-and-roasted/",
     "recipeTitle": "Pesto Pasta with Sun Dried Tomatoes and Roasted Asparagus",
     "ingredients": [
       "8 ounces medium shell pasta ",
@@ -15019,7 +15019,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/05/30/pf-changs-chicken-lettuce-wraps/",
+    "sourceHref": "http://damndelicious.net/2014/05/30/pf-changs-chicken-lettuce-wraps/",
     "recipeTitle": "PF Chang's Chicken Lettuce Wraps",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -15042,7 +15042,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/10/05/pf-changs-mongolian-beef-copycat-recipe/",
+    "sourceHref": "http://damndelicious.net/2013/10/05/pf-changs-mongolian-beef-copycat-recipe/",
     "recipeTitle": "PF Chang’s Mongolian Beef Copycat Recipe",
     "ingredients": [
       "1 pound flank steak, thinly sliced across the grain ",
@@ -15061,7 +15061,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/01/17/philly-cheesesteak-with-garlic-aioli-and-a-giveaway/",
+    "sourceHref": "http://damndelicious.net/2013/01/17/philly-cheesesteak-with-garlic-aioli-and-a-giveaway/",
     "recipeTitle": "Philly Cheesesteak with Garlic Aioli",
     "ingredients": [
       "1/4 cup mayonnaise ",
@@ -15081,7 +15081,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/06/25/pineapple-fried-rice/",
+    "sourceHref": "http://damndelicious.net/2014/06/25/pineapple-fried-rice/",
     "recipeTitle": "Pineapple Fried Rice",
     "ingredients": [
       "3 tablespoons soy sauce ",
@@ -15105,7 +15105,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/10/02/pizza-stuffed-zucchini-boats/",
+    "sourceHref": "http://damndelicious.net/2013/10/02/pizza-stuffed-zucchini-boats/",
     "recipeTitle": "Pizza Stuffed Zucchini Boats",
     "ingredients": [
       "4 zucchini ",
@@ -15123,7 +15123,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/08/20/quick-chicken-and-broccoli-stir-fry/",
+    "sourceHref": "http://damndelicious.net/2015/08/20/quick-chicken-and-broccoli-stir-fry/",
     "recipeTitle": "Quick Chicken and Broccoli Stir Fry",
     "ingredients": [
       "1 pound boneless, skinless chicken breasts, cut into 1-inch chunks ",
@@ -15146,7 +15146,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/04/19/quinoa-black-bean-tacos/",
+    "sourceHref": "http://damndelicious.net/2014/04/19/quinoa-black-bean-tacos/",
     "recipeTitle": "Quinoa Black Bean Tacos",
     "ingredients": [
       "1/2 cup uncooked quinoa ",
@@ -15173,7 +15173,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/06/23/quinoa-chicken-parmesan/",
+    "sourceHref": "http://damndelicious.net/2014/06/23/quinoa-chicken-parmesan/",
     "recipeTitle": "Quinoa Chicken Parmesan",
     "ingredients": [
       "1 cup quinoa ",
@@ -15193,7 +15193,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/10/16/quinoa-chili/",
+    "sourceHref": "http://damndelicious.net/2013/10/16/quinoa-chili/",
     "recipeTitle": "Quinoa Chili",
     "ingredients": [
       "1 cup quinoa ",
@@ -15221,7 +15221,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/07/07/quinoa-enchilada-casserole/",
+    "sourceHref": "http://damndelicious.net/2014/07/07/quinoa-enchilada-casserole/",
     "recipeTitle": "Quinoa Enchilada Casserole",
     "ingredients": [
       "1 cup quinoa ",
@@ -15244,7 +15244,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/08/28/quinoa-fruit-salad/",
+    "sourceHref": "http://damndelicious.net/2013/08/28/quinoa-fruit-salad/",
     "recipeTitle": "Quinoa Fruit Salad",
     "ingredients": [
       "2 cups cooked quinoa ",
@@ -15265,7 +15265,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/06/03/quinoa-stuffed-bell-peppers/",
+    "sourceHref": "http://damndelicious.net/2013/06/03/quinoa-stuffed-bell-peppers/",
     "recipeTitle": "Quinoa Stuffed Bell Peppers",
     "ingredients": [
       "3 cups cooked quinoa ",
@@ -15289,8 +15289,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/10/19/quinoa-vegetarian-fried-rice-and-a-giveaway/",
-    "recipeTitle": "Quinoa vegetarian \"Fried Rice\"",
+    "sourceHref": "http://damndelicious.net/2012/10/19/quinoa-veggie-fried-rice-and-a-giveaway/",
+    "recipeTitle": "Quinoa Veggie \"Fried Rice\"",
     "ingredients": [
       "2 tablespoons olive oil, divided ",
       "2 large eggs, beaten ",
@@ -15314,7 +15314,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/10/31/ranch-cheddar-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/10/31/ranch-cheddar-chicken/",
     "recipeTitle": "Ranch Cheddar Chicken",
     "ingredients": [
       "1/2 cup mayonnaise ",
@@ -15332,7 +15332,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/02/26/ravioli-italian-sausage-skillet/",
+    "sourceHref": "http://damndelicious.net/2014/02/26/ravioli-italian-sausage-skillet/",
     "recipeTitle": "Ravioli and Italian Sausage Skillet",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -15355,7 +15355,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/10/25/red-pepper-pasta-bake/",
+    "sourceHref": "http://damndelicious.net/2013/10/25/red-pepper-pasta-bake/",
     "recipeTitle": "Red Pepper Pasta Bake",
     "ingredients": [
       "6 ounces penne pasta ",
@@ -15375,7 +15375,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/12/10/roasted-butternut-squash-bacon-soup/",
+    "sourceHref": "http://damndelicious.net/2014/12/10/roasted-butternut-squash-bacon-soup/",
     "recipeTitle": "Roasted Butternut Squash and Bacon Soup",
     "ingredients": [
       "1 butternut squash (about 3 pounds), peeled, seeded and cut in 1-inch chunks ",
@@ -15397,7 +15397,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/06/15/roasted-shrimp-enchiladas-with-jalape-o-cream-sauce/",
+    "sourceHref": "http://damndelicious.net/2012/06/15/roasted-shrimp-enchiladas-with-jalape-o-cream-sauce/",
     "recipeTitle": "Roasted Shrimp Enchiladas with Jalapeño Cream Sauce",
     "ingredients": [
       "1 pound medium shrimp, peeled and deveined ",
@@ -15428,7 +15428,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/11/14/roasted-shrimp-quinoa-spring-rolls/",
+    "sourceHref": "http://damndelicious.net/2012/11/14/roasted-shrimp-quinoa-spring-rolls/",
     "recipeTitle": "Roasted Shrimp Quinoa Spring Rolls",
     "ingredients": [
       "1 pound medium shrimp, peeled and deveined ",
@@ -15448,7 +15448,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/07/11/salisbury-steak-meatballs/",
+    "sourceHref": "http://damndelicious.net/2014/07/11/salisbury-steak-meatballs/",
     "recipeTitle": "Salisbury Steak Meatballs",
     "ingredients": [
       "8 ounces egg noodles ",
@@ -15473,7 +15473,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/06/06/salmon-blt-sliders-with-chipotle-mayo/",
+    "sourceHref": "http://damndelicious.net/2012/06/06/salmon-blt-sliders-with-chipotle-mayo/",
     "recipeTitle": "Salmon BLT Sliders with Chipotle Mayo",
     "ingredients": [
       "1 pound salmon filets ",
@@ -15492,7 +15492,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/10/29/sausage-potato-spinach-soup/",
+    "sourceHref": "http://damndelicious.net/2014/10/29/sausage-potato-spinach-soup/",
     "recipeTitle": "Sausage, Potato and Spinach Soup",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -15515,7 +15515,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/03/15/sesame-chicken/",
+    "sourceHref": "http://damndelicious.net/2013/03/15/sesame-chicken/",
     "recipeTitle": "Sesame Chicken",
     "ingredients": [
       "1 1/2 pounds boneless, skinless chicken breasts, cut into 1-inch chunks ",
@@ -15543,7 +15543,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/11/13/sesame-ginger-salmon/",
+    "sourceHref": "http://damndelicious.net/2013/11/13/sesame-ginger-salmon/",
     "recipeTitle": "Sesame Ginger Salmon",
     "ingredients": [
       "1/4 cup olive oil ",
@@ -15569,7 +15569,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/06/17/sesame-soba-noodles/",
+    "sourceHref": "http://damndelicious.net/2013/06/17/sesame-soba-noodles/",
     "recipeTitle": "Sesame Soba Noodles",
     "ingredients": [
       "8 ounces soba ",
@@ -15590,7 +15590,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/10/24/shrimp-corn-chowder/",
+    "sourceHref": "http://damndelicious.net/2014/10/24/shrimp-corn-chowder/",
     "recipeTitle": "Shrimp and Corn Chowder",
     "ingredients": [
       "4 slices bacon, diced ",
@@ -15614,7 +15614,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/08/22/shrimp-and-zucchini-noodles/",
+    "sourceHref": "http://damndelicious.net/2015/08/22/shrimp-and-zucchini-noodles/",
     "recipeTitle": "Shrimp and Zucchini Noodles",
     "ingredients": [
       "1 pound medium shrimp, peeled and deveined ",
@@ -15637,7 +15637,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/08/26/shrimp-boil-foil-packets/",
+    "sourceHref": "http://damndelicious.net/2015/08/26/shrimp-boil-foil-packets/",
     "recipeTitle": "Shrimp Boil Foil Packets",
     "ingredients": [
       "1 1/2 pounds large shrimp, peeled and deveined ",
@@ -15655,7 +15655,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/03/19/shrimp-cobb-salad-cilantro-lime-vinaigrette/",
+    "sourceHref": "http://damndelicious.net/2014/03/19/shrimp-cobb-salad-cilantro-lime-vinaigrette/",
     "recipeTitle": "Shrimp Cobb Salad with Cilantro Lime Vinaigrette",
     "ingredients": [
       "1 pound medium shrimp, peeled and deveined ",
@@ -15681,7 +15681,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/05/23/shrimp-fajitas-in-foil/",
+    "sourceHref": "http://damndelicious.net/2015/05/23/shrimp-fajitas-in-foil/",
     "recipeTitle": "Shrimp Fajitas in Foil",
     "ingredients": [
       "1 1/2 pounds medium shrimp, peeled and deveined ",
@@ -15700,7 +15700,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/04/05/shrimp-fried-rice/",
+    "sourceHref": "http://damndelicious.net/2014/04/05/shrimp-fried-rice/",
     "recipeTitle": "Shrimp Fried Rice",
     "ingredients": [
       "3 tablespoons soy sauce ",
@@ -15724,7 +15724,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/06/01/shrimp-sandwich-with-avocado-and-broccoli-slaw/",
+    "sourceHref": "http://damndelicious.net/2013/06/01/shrimp-sandwich-with-avocado-and-broccoli-slaw/",
     "recipeTitle": "Shrimp Sandwich with Avocado and Broccoli Slaw",
     "ingredients": [
       "1 pound medium shrimp, peeled and deveined ",
@@ -15744,7 +15744,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/03/28/shrimp-scampi/",
+    "sourceHref": "http://damndelicious.net/2014/03/28/shrimp-scampi/",
     "recipeTitle": "Shrimp Scampi",
     "ingredients": [
       "8 ounces linguine ",
@@ -15765,7 +15765,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/05/28/shrimp-spring-rolls-with-hoisin-peanut-dip/",
+    "sourceHref": "http://damndelicious.net/2013/05/28/shrimp-spring-rolls-with-hoisin-peanut-dip/",
     "recipeTitle": "Shrimp Spring Rolls with Hoisin Peanut Dip",
     "ingredients": [
       "1 pound medium shrimp, peeled and deveined ",
@@ -15788,7 +15788,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/06/08/shrimp-asparagus-and-zucchini-orzo-salad/",
+    "sourceHref": "http://damndelicious.net/2015/06/08/shrimp-asparagus-and-zucchini-orzo-salad/",
     "recipeTitle": "Shrimp, Asparagus and Zucchini Orzo Salad",
     "ingredients": [
       "8 ounces orzo pasta ",
@@ -15813,7 +15813,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/07/06/sirloin-gyros/",
+    "sourceHref": "http://damndelicious.net/2012/07/06/sirloin-gyros/",
     "recipeTitle": "Sirloin Gyros",
     "ingredients": [
       "4 cloves garlic, smashed ",
@@ -15841,7 +15841,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/04/26/skinny-cauliflower-mac-cheese/",
+    "sourceHref": "http://damndelicious.net/2014/04/26/skinny-cauliflower-mac-cheese/",
     "recipeTitle": "Skinny Cauliflower Mac and Cheese",
     "ingredients": [
       "2 tablespoons olive oil, divided ",
@@ -15864,7 +15864,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/01/29/skinny-egg-salad-sliders/",
+    "sourceHref": "http://damndelicious.net/2014/01/29/skinny-egg-salad-sliders/",
     "recipeTitle": "Skinny Egg Salad Sliders",
     "ingredients": [
       "8 large eggs ",
@@ -15885,7 +15885,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/01/24/skinny-fettuccine-alfredo/",
+    "sourceHref": "http://damndelicious.net/2014/01/24/skinny-fettuccine-alfredo/",
     "recipeTitle": "Skinny Fettuccine Alfredo",
     "ingredients": [
       "8 ounces fettuccine ",
@@ -15905,7 +15905,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/12/22/skinny-mexican-casserole/",
+    "sourceHref": "http://damndelicious.net/2014/12/22/skinny-mexican-casserole/",
     "recipeTitle": "Skinny Mexican Casserole",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -15931,7 +15931,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/08/06/shrimp-alfredo-pasta-bake/",
+    "sourceHref": "http://damndelicious.net/2014/08/06/shrimp-alfredo-pasta-bake/",
     "recipeTitle": "Skinny Shrimp Alfredo Pasta Bake",
     "ingredients": [
       "1 pound medium shrimp, peeled and deveined ",
@@ -15957,7 +15957,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/08/14/slow-cooker-balsamic-chicken/",
+    "sourceHref": "http://damndelicious.net/2015/08/14/slow-cooker-balsamic-chicken/",
     "recipeTitle": "Slow Cooker Balsamic Chicken",
     "ingredients": [
       "1/2 cup balsamic vinegar ",
@@ -15979,7 +15979,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/03/31/slow-cooker-beef-broccoli/",
+    "sourceHref": "http://damndelicious.net/2014/03/31/slow-cooker-beef-broccoli/",
     "recipeTitle": "Slow Cooker Beef and Broccoli",
     "ingredients": [
       "1 cup beef broth ",
@@ -15998,7 +15998,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/03/14/slow-cooker-butter-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/03/14/slow-cooker-butter-chicken/",
     "recipeTitle": "Slow Cooker Butter Chicken",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -16021,7 +16021,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/10/27/slow-cooker-cashew-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/10/27/slow-cooker-cashew-chicken/",
     "recipeTitle": "Slow Cooker Cashew Chicken",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -16043,7 +16043,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/12/17/slow-cooker-cheesy-tortellini/",
+    "sourceHref": "http://damndelicious.net/2014/12/17/slow-cooker-cheesy-tortellini/",
     "recipeTitle": "Slow Cooker Cheesy Tortellini",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -16067,7 +16067,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/10/11/slow-cooker-chicken-teriyaki/",
+    "sourceHref": "http://damndelicious.net/2013/10/11/slow-cooker-chicken-teriyaki/",
     "recipeTitle": "Slow Cooker Chicken Teriyaki",
     "ingredients": [
       "1/2 cup teriyaki sauce ",
@@ -16086,7 +16086,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/03/02/slow-cooker-corned-beef/",
+    "sourceHref": "http://damndelicious.net/2015/03/02/slow-cooker-corned-beef/",
     "recipeTitle": "Slow Cooker Corned Beef",
     "ingredients": [
       "1 (3-pound) corned beef brisket, plus pickling spice packet ",
@@ -16103,7 +16103,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/12/01/slow-cooker-enchilada-orzo/",
+    "sourceHref": "http://damndelicious.net/2014/12/01/slow-cooker-enchilada-orzo/",
     "recipeTitle": "Slow Cooker Enchilada Orzo",
     "ingredients": [
       "1 (14.5-ounce) can fire roasted diced tomatoes ",
@@ -16123,7 +16123,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/10/17/slow-cooker-enchilada-stack/",
+    "sourceHref": "http://damndelicious.net/2014/10/17/slow-cooker-enchilada-stack/",
     "recipeTitle": "Slow Cooker Enchilada Stack",
     "ingredients": [
       "1 pound ground beef ",
@@ -16145,8 +16145,8 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/06/05/slow-cooker-honey-garlic-chicken-and-vegetarians/",
-    "recipeTitle": "Slow Cooker Honey Garlic Chicken and vegetarians",
+    "sourceHref": "http://damndelicious.net/2015/06/05/slow-cooker-honey-garlic-chicken-and-veggies/",
+    "recipeTitle": "Slow Cooker Honey Garlic Chicken and Veggies",
     "ingredients": [
       "8 bone-in, skin-on chicken thighs ",
       "16 ounces baby red potatoes, halved ",
@@ -16168,7 +16168,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/11/02/slow-cooker-crockpot-honey-sesame-chicken/",
+    "sourceHref": "http://damndelicious.net/2013/11/02/slow-cooker-crockpot-honey-sesame-chicken/",
     "recipeTitle": "Slow Cooker Honey Sesame Chicken",
     "ingredients": [
       "1 small onion, diced ",
@@ -16189,7 +16189,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/02/21/slow-cooker-korean-beef/",
+    "sourceHref": "http://damndelicious.net/2015/02/21/slow-cooker-korean-beef/",
     "recipeTitle": "Slow Cooker Korean Beef",
     "ingredients": [
       "1 cup beef broth ",
@@ -16213,7 +16213,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/11/21/slow-cooker-maple-brown-sugar-ham/",
+    "sourceHref": "http://damndelicious.net/2014/11/21/slow-cooker-maple-brown-sugar-ham/",
     "recipeTitle": "Slow Cooker Maple Brown Sugar Ham",
     "ingredients": [
       "1 1/2 cups pineapple juice ",
@@ -16230,7 +16230,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/10/10/slow-cooker-pork-carnitas/",
+    "sourceHref": "http://damndelicious.net/2014/10/10/slow-cooker-pork-carnitas/",
     "recipeTitle": "Slow Cooker Pork Carnitas",
     "ingredients": [
       "1 tablespoon chili powder ",
@@ -16250,7 +16250,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/11/09/slow-cooker-pork-ragu/",
+    "sourceHref": "http://damndelicious.net/2012/11/09/slow-cooker-pork-ragu/",
     "recipeTitle": "Slow Cooker Pork Ragu",
     "ingredients": [
       "2 1/2 pound boneless pork loin ",
@@ -16274,7 +16274,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/09/12/slow-cooker-potato-corn-chowder/",
+    "sourceHref": "http://damndelicious.net/2014/09/12/slow-cooker-potato-corn-chowder/",
     "recipeTitle": "Slow Cooker Potato and Corn Chowder",
     "ingredients": [
       "24 ounces red potato, diced ",
@@ -16295,7 +16295,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/06/21/slow-cooker-pulled-pork-gyros-and-a-giveaway/",
+    "sourceHref": "http://damndelicious.net/2013/06/21/slow-cooker-pulled-pork-gyros-and-a-giveaway/",
     "recipeTitle": "Slow Cooker Pulled Pork Gyros",
     "ingredients": [
       "1 tablespoon chili powder ",
@@ -16324,7 +16324,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/03/21/slow-cooker-sausage-spinach-and-white-bean-soup/",
+    "sourceHref": "http://damndelicious.net/2015/03/21/slow-cooker-sausage-spinach-and-white-bean-soup/",
     "recipeTitle": "Slow Cooker Sausage, Spinach and White Bean Soup",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -16346,7 +16346,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/11/08/slow-cooker-spaghetti-sauce/",
+    "sourceHref": "http://damndelicious.net/2013/11/08/slow-cooker-spaghetti-sauce/",
     "recipeTitle": "Slow Cooker Spaghetti Sauce",
     "ingredients": [
       "2 tablespoons olive oil ",
@@ -16367,7 +16367,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/11/15/southwest-buttermilk-baked-chicken/",
+    "sourceHref": "http://damndelicious.net/2014/11/15/southwest-buttermilk-baked-chicken/",
     "recipeTitle": "Southwest Buttermilk Baked Chicken",
     "ingredients": [
       "1 tablespoon cumin ",
@@ -16388,7 +16388,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/11/19/southwest-quinoa-sliders-with-avocado-cream-sauce/",
+    "sourceHref": "http://damndelicious.net/2012/11/19/southwest-quinoa-sliders-with-avocado-cream-sauce/",
     "recipeTitle": "Southwest Quinoa Sliders with Avocado Cream Sauce",
     "ingredients": [
       "2 cups cooked quinoa ",
@@ -16420,7 +16420,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/01/10/southwestern-chopped-salad-cilantro-lime-dressing/",
+    "sourceHref": "http://damndelicious.net/2014/01/10/southwestern-chopped-salad-cilantro-lime-dressing/",
     "recipeTitle": "Southwestern Chopped Salad with Cilantro Lime Dressing",
     "ingredients": [
       "5 cups chopped romaine lettuce ",
@@ -16444,7 +16444,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/03/29/spaghetti-carbonara/",
+    "sourceHref": "http://damndelicious.net/2014/03/29/spaghetti-carbonara/",
     "recipeTitle": "Spaghetti Carbonara",
     "ingredients": [
       "8 ounces spaghetti ",
@@ -16461,7 +16461,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/01/19/spaghetti-tomato-cream-sauce/",
+    "sourceHref": "http://damndelicious.net/2015/01/19/spaghetti-tomato-cream-sauce/",
     "recipeTitle": "Spaghetti with Tomato Cream Sauce",
     "ingredients": [
       "1 pound spaghetti ",
@@ -16486,7 +16486,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/10/10/spicy-chipotle-pesto-pasta/",
+    "sourceHref": "http://damndelicious.net/2012/10/10/spicy-chipotle-pesto-pasta/",
     "recipeTitle": "Spicy Chipotle Pesto Pasta",
     "ingredients": [
       "1 pound farfalle pasta ",
@@ -16508,7 +16508,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/01/15/spicy-parmesan-shrimp-pasta/",
+    "sourceHref": "http://damndelicious.net/2014/01/15/spicy-parmesan-shrimp-pasta/",
     "recipeTitle": "Spicy Parmesan Shrimp Pasta",
     "ingredients": [
       "1/3 cup olive oil ",
@@ -16528,7 +16528,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/10/05/spicy-roasted-shrimp-sandwich-with-chipotle-avocado/",
+    "sourceHref": "http://damndelicious.net/2012/10/05/spicy-roasted-shrimp-sandwich-with-chipotle-avocado/",
     "recipeTitle": "Spicy Roasted Shrimp Sandwich with Chipotle Avocado Mayonnaise",
     "ingredients": [
       "1 pound medium shrimp, peeled and deveined ",
@@ -16554,7 +16554,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/01/04/spicy-tofu-lettuce-wraps/",
+    "sourceHref": "http://damndelicious.net/2013/01/04/spicy-tofu-lettuce-wraps/",
     "recipeTitle": "Spicy Tofu Lettuce Wraps",
     "ingredients": [
       "3 tablespoons soy sauce ",
@@ -16576,7 +16576,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/08/05/spinach-and-artichoke-dip-pasta/",
+    "sourceHref": "http://damndelicious.net/2012/08/05/spinach-and-artichoke-dip-pasta/",
     "recipeTitle": "Spinach and Artichoke Dip Pasta",
     "ingredients": [
       "1 pound penne pasta ",
@@ -16600,7 +16600,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/02/23/spinach-and-artichoke-mac-and-cheese/",
+    "sourceHref": "http://damndelicious.net/2015/02/23/spinach-and-artichoke-mac-and-cheese/",
     "recipeTitle": "Spinach and Artichoke Mac and Cheese",
     "ingredients": [
       "1 (6-ounce) package Horizon Organic® Pasta Shells & White Cheddar Cheese ",
@@ -16622,7 +16622,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/01/26/spinach-white-bean-soup/",
+    "sourceHref": "http://damndelicious.net/2015/01/26/spinach-white-bean-soup/",
     "recipeTitle": "Spinach and White Bean Soup",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -16645,7 +16645,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/06/05/spinach-prosciutto-alfredo-pizza/",
+    "sourceHref": "http://damndelicious.net/2012/06/05/spinach-prosciutto-alfredo-pizza/",
     "recipeTitle": "Spinach Prosciutto Alfredo Pizza",
     "ingredients": [
       "2 tablespoons olive oil ",
@@ -16664,7 +16664,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/07/30/spinach-tomato-tortellini/",
+    "sourceHref": "http://damndelicious.net/2014/07/30/spinach-tomato-tortellini/",
     "recipeTitle": "Spinach Tomato Tortellini",
     "ingredients": [
       "12 ounces tortellini pasta ",
@@ -16687,7 +16687,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/09/06/spinach-tomato-tortellini-soup/",
+    "sourceHref": "http://damndelicious.net/2014/09/06/spinach-tomato-tortellini-soup/",
     "recipeTitle": "Spinach Tomato Tortellini Soup",
     "ingredients": [
       "1 tablespoon olive oil ",
@@ -16709,7 +16709,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/08/07/sriracha-guacamole-hot-dogs/",
+    "sourceHref": "http://damndelicious.net/2013/08/07/sriracha-guacamole-hot-dogs/",
     "recipeTitle": "Sriracha Guacamole Hot Dogs",
     "ingredients": [
       "6 Hebrew National Hot Dogs ",
@@ -16723,7 +16723,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/03/06/steak-fajita-salad/",
+    "sourceHref": "http://damndelicious.net/2015/03/06/steak-fajita-salad/",
     "recipeTitle": "Steak Fajita Salad",
     "ingredients": [
       "2 tablespoons olive oil, divded ",
@@ -16757,7 +16757,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2015/02/06/sticky-garlic-chicken-bites/",
+    "sourceHref": "http://damndelicious.net/2015/02/06/sticky-garlic-chicken-bites/",
     "recipeTitle": "Sticky Garlic Chicken Bites",
     "ingredients": [
       "1 pound boneless, skinless chicken breasts, cut into 1-inch chunks ",
@@ -16779,7 +16779,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/09/25/stovetop-mac-cheese/",
+    "sourceHref": "http://damndelicious.net/2013/09/25/stovetop-mac-cheese/",
     "recipeTitle": "Stovetop Mac and Cheese",
     "ingredients": [
       "3 tablespoons unsalted butter, divided ",
@@ -16799,7 +16799,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/08/23/strawberry-avocado-couscous-with-lime-vinaigrette-2/",
+    "sourceHref": "http://damndelicious.net/2013/08/23/strawberry-avocado-couscous-with-lime-vinaigrette-2/",
     "recipeTitle": "Strawberry Avocado Couscous Salad with Lime Vinaigrette",
     "ingredients": [
       "1 cup couscous ",
@@ -16820,7 +16820,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/01/28/strawberry-quinoa-salad/",
+    "sourceHref": "http://damndelicious.net/2014/01/28/strawberry-quinoa-salad/",
     "recipeTitle": "Strawberry Quinoa Salad",
     "ingredients": [
       "6 cups baby spinach ",
@@ -16840,7 +16840,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2012/09/02/stuffed-green-chili-con-queso-cheeseburger-sliders/",
+    "sourceHref": "http://damndelicious.net/2012/09/02/stuffed-green-chili-con-queso-cheeseburger-sliders/",
     "recipeTitle": "Stuffed Green Chili con Queso Cheeseburger Sliders",
     "ingredients": [
       "1 pound ground sirloin",
@@ -16864,7 +16864,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2013/02/01/super-bowl-turkey-chili/",
+    "sourceHref": "http://damndelicious.net/2013/02/01/super-bowl-turkey-chili/",
     "recipeTitle": "Super Bowl Turkey Chili",
     "ingredients": [
       "2 tablespoons olive oil ",
@@ -16890,7 +16890,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/02/21/swedish-meatballs/",
+    "sourceHref": "http://damndelicious.net/2014/02/21/swedish-meatballs/",
     "recipeTitle": "Swedish Meatballs",
     "ingredients": [
       "2 tablespoons olive oil, divided ",
@@ -16915,7 +16915,7 @@ data.factory('RecipeData', [function(){
     "sourceName": "Damn Delicious"
   },
   {
-    "sourceHref": "/2014/02/22/sweet-lemon-shrimp/",
+    "sourceHref": "http://damndelicious.net/2014/02/22/sweet-lemon-shrimp/",
     "recipeTitle": "Sweet Lemon Shrimp",
     "ingredients": [
       "1/3 cup hoisin sauce ",
