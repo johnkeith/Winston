@@ -7,8 +7,8 @@ data = JSON.parse File.read('combined.json')
 
 count = 0
 
-data.each do |d|
-	if d['sourceHref'].include?('vegetarian')
+data.each_with_index do |d, index|
+	if d['cuisineType'].empty?
 		binding.pry
 	end
 end
