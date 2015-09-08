@@ -53,8 +53,8 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 	}
 
 	groceriesService.moveInGroceriesList = function(item, fromIndex, toIndex){
-		currentGroceriesList.splice((fromIndex - 1), 1);
-    currentGroceriesList.splice((toIndex - 1), 0, item);
+		currentGroceriesList.splice(fromIndex, 1);
+    currentGroceriesList.splice(toIndex, 0, item);
 
     saveCurrentGroceriesList();
 	}

@@ -4,7 +4,7 @@
   </ion-nav-buttons>
 	<ion-content >
 		<ion-list show-reorder="showReorder">
-			<ion-item ng-show="(groceries().length > 0) && (getShowCompletedItems() == true || groceryItem.checked != true && getShowCompletedItems() == false)" class="item item-checkbox checkbox-balanced" ng-repeat="groceryItem in groceries() track by $index">
+			<ion-item on-hold="toggleReorder()" ng-show="(groceries().length > 0) && (getShowCompletedItems() == true || groceryItem.checked != true && getShowCompletedItems() == false)" class="item item-checkbox checkbox-balanced" ng-repeat="groceryItem in groceries() track by $index">
 				<label class="checkbox">
 					<input type="checkbox" ng-checked="groceryItem.checked" ng-click="changeCheckedStatus(groceryItem, $index)" />
 				</label>
