@@ -7739,6 +7739,12 @@ a.button {
   padding: 10px 0 10px 0;
   text-align: center; }
 
+.winston-logo {
+  margin: 20px auto;
+  text-align: center; }
+  .winston-logo img {
+    opacity: 0.05; }
+
 .btn-start-pane {
   position: relative; }
   .btn-start-pane .btn {
