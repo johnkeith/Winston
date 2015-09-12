@@ -199,7 +199,7 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 
 		var savePreviousRecipes = function(){
 			if(historicalRecipes.length == maxHistoricalRecipes){
-				historicalRecipes.splice(0, 1);
+				historicalRecipes.splice(-1, 1);
 			}
 			historicalRecipes.unshift({ titles: getRecipeTitles(), mealPlan: currentRecipes });
 			

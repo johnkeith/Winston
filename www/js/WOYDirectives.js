@@ -16,3 +16,14 @@ directives.directive('ionItemWithDivider', [function(){
 		templateUrl: 'templates/ion-item-with-divider.html'
 	}
 }]);
+
+directives.directive('ionItemHelpCard', [function(){
+	return {
+		restrict: 'E',
+		scope: {
+			'title': '=',
+			'body': '='
+		},
+		templateUrl: 'templates/ion-item-help-card.html'
+	}
+}]);

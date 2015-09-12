@@ -1,6 +1,38 @@
 'use strict';
 
 var controllers = angular.module('WOYControllers', []);
+
+controllers.controller('HelpController', ['$scope', function($scope){
+	$scope.helpInfo = [
+		{
+			title: 'How Can Winston Help Me?',
+			body: [
+				'Use Winston to create a meal plan automatically, along with a grocery list, with dinners for each night of the week.',
+				'Meal planning is one of the best way to eat healthy and to save money!'
+			]
+		},
+		{ 
+			title: 'How Do I Get a New Weekly Meal Plan or Swap Recipes?',
+			body: [
+				'To get a new set of recipes, pull down on the Meals page and the list will fully refresh.',
+				'If you want to refresh only a single recipe, swipe that recipe, then press the yellow refresh button.'
+			]
+		},
+		{ 
+			title: 'How Do I Change the Types of Recipes Winston Finds for My Meal Plans?',
+			body: [
+				'Use the switches in the sidebar menu to toggle different types of recipes.'
+			]
+		},
+		{
+			title: 'How Can I See My Previous Meal Plans?',
+			body: [
+				'Tap on history to see a list of your last 10 meal plans. Tap on one of those meal plans for those recipes to be shown again on the Meals screen.'
+			]
+		}
+	];
+}]);
+
 controllers.controller('LeftSidebarController', ['$scope', 'GroceriesService', 'RecipesService',
 	function($scope, GroceriesService, RecipesService){
 		$scope.getShowCompletedItems = GroceriesService.getShowCompletedItems;

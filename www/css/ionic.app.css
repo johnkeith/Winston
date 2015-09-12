@@ -7697,6 +7697,14 @@ a.button {
   background: #f8f8f8 !important; }
   .view-container .pane {
     background-color: inherit; }
+    .view-container .pane .list:last-child.card {
+      margin-bottom: 0; }
+    .view-container .pane .item h2 {
+      overflow: visible;
+      text-overflow: inherit;
+      white-space: normal; }
+    .view-container .pane .item p {
+      margin-top: 0; }
     .view-container .pane .item .item-toggle-label {
       color: #777777;
       font-size: 0.9em; }
@@ -7740,41 +7748,9 @@ a.button {
   text-align: center; }
 
 .winston-logo {
-  margin: 20px auto;
+  margin: 15px auto;
+  padding-bottom: 10px;
   text-align: center; }
   .winston-logo img {
-    opacity: 0.05; }
-
-.btn-start-pane {
-  position: relative; }
-  .btn-start-pane .btn {
-    background: white; }
-  .btn-start-pane .btn-round {
-    border-radius: 50%;
-    height: 150px;
-    width: 150px; }
-  .btn-start-pane .btn-start {
-    display: table;
-    overflow: auto;
-    margin: auto;
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    background: #f7ca18;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-    -webkit-transition: all cubic-bezier(.1, .7, .1, 1) 400ms;
-    transition: all cubic-bezier(.1, .7, .1, 1) 400ms; }
-    .btn-start-pane .btn-start span {
-      display: table-cell;
-      text-align: center;
-      vertical-align: middle; }
-      .btn-start-pane .btn-start span h1 {
-        color: white;
-        margin: 0; }
-    .btn-start-pane .btn-start:hover, .btn-start-pane .btn-start:active, .btn-start-pane .btn-start:focus {
-      cursor: pointer;
-      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
-      -webkit-transition: all cubic-bezier(.1, .7, .1, 1) 400ms;
-      transition: all cubic-bezier(.1, .7, .1, 1) 400ms; }
+    opacity: 0.05;
+    width: 25%; }

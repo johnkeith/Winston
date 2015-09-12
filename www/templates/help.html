@@ -1,0 +1,6 @@
+<ion-view view-title="Help" ng-controller="HelpController">
+	<ion-content >
+		<ion-item-help-card ng-repeat="help in helpInfo track by $index" title="help.title" body="help.body"></ion-item-help-card>
+		<ng-include src="'templates/winston_image.html'"></ng-include>
+	</ion-content>
+</ion-view>

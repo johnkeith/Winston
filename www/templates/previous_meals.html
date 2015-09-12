@@ -1,7 +1,7 @@
 <ion-view view-title="History" ng-controller="PreviousMealsController">
 	<ion-content>
 		<ion-list>
-			<ion-item ng-show="mealPlan.titles != undefined && historicalRecipes().titles.length > 0" ng-repeat="mealPlan in historicalRecipes() track by $index" ng-click="switchToPrevious($index)">
+			<ion-item ng-show="mealPlan.titles != undefined && mealPlan.titles.length > 0" ng-repeat="mealPlan in historicalRecipes() track by $index" ng-click="switchToPrevious($index)">
 				{{ mealPlan.titles.join(", ") }}
 			</ion-item>
 		</ion-list>
