@@ -5,29 +5,39 @@ var controllers = angular.module('WOYControllers', []);
 controllers.controller('HelpController', ['$scope', function($scope){
 	$scope.helpInfo = [
 		{
-			title: 'How Can Winston Help Me?',
+			title: 'What does Winston do?',
 			body: [
-				'Use Winston to create a meal plan automatically, along with a grocery list, with dinners for each night of the week.',
-				'Meal planning is one of the best way to eat healthy and to save money!'
+				'Winston creates meal plans automatically with dinners for each night of the week, along with grocery lists of all the ingredients you need to make these recipes.'
+			]
+		},
+		{
+			title: 'Why should I meal plan?',
+			body: [
+				'Meal planning is one of the best ways to eat healthy and to save money! By having a plan of the recipes you will cook and the ingredients you need, you will be less inclined to purchase unhealthy or unneeded food at the grocery.'
 			]
 		},
 		{ 
-			title: 'How Do I Get a New Weekly Meal Plan or Swap Recipes?',
+			title: 'How do I get a new meal plan for the week?',
 			body: [
 				'To get a new set of recipes, pull down on the Meals page and the list will fully refresh.',
-				'If you want to refresh only a single recipe, swipe that recipe, then press the yellow refresh button.'
+			]
+		},
+		{
+			title: 'How do I change a single recipe in my current meal plan?',
+			body: [
+				'If you want to refresh only a single recipe, swipe that recipe to the left, then press the yellow refresh button.'
 			]
 		},
 		{ 
-			title: 'How Do I Change the Types of Recipes Winston Finds for My Meal Plans?',
+			title: 'How do I change the types of recipes Winston uses for my meal plans?',
 			body: [
 				'Use the switches in the sidebar menu to toggle different types of recipes.'
 			]
 		},
 		{
-			title: 'How Can I See My Previous Meal Plans?',
+			title: 'How can I see my previous meal plans?',
 			body: [
-				'Tap on history to see a list of your last 10 meal plans. Tap on one of those meal plans for those recipes to be shown again on the Meals screen.'
+				'Tap on History to see a list of your last 10 meal plans. Tap on one of those meal plans for those recipes to be shown again on the Meals screen.'
 			]
 		}
 	];
