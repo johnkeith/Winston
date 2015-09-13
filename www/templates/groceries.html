@@ -15,6 +15,15 @@
 		    </ion-reorder-button>
 			</ion-item>
 		</ul>
-		<ng-include src="'templates/winston_image.html'"></ng-include>
+		<ng-include class="groceries-page-logo" src="'templates/winston_image.html'"></ng-include>
 	</ion-content>
+	<div class="bar bar-footer item-input-inset">
+  	<label class="item-input-wrapper">
+    <i class="icon ion-ios-compose-outline placeholder-icon"></i>
+    <input type="search" placeholder="Add item to groceries list..." ng-model="itemInput" />
+  </label>
+  <button class="button button-clear" ng-click="addItemToGroceriesList(itemInput)">
+    Submit
+  </button>
+	</div>
 </ion-view>

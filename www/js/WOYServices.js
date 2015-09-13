@@ -72,6 +72,12 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 		});
 	}
 
+	groceriesService.addItemToGroceriesList = function(item){
+		currentGroceriesList.push({ checked: false, item: item });
+
+		saveCurrentGroceriesList();
+	}
+
 	function activate(){
 		var storedGroceriesList = LocalStorage.getObject('currentGroceries');
 		if(storedGroceriesList.length > 0){

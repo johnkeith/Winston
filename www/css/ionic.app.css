@@ -7726,12 +7726,10 @@ a.button {
         color: #b2b2b2; }
         .view-container .pane ion-item.item-checkbox ion-reorder-button i + i {
           padding-left: 2px; }
-    .view-container .pane .bar-footer {
+    .view-container .pane .bar-footer .row {
       padding: 0; }
-      .view-container .pane .bar-footer .row {
-        padding: 0; }
-        .view-container .pane .bar-footer .row button {
-          border-radius: 0; }
+      .view-container .pane .bar-footer .row button {
+        border-radius: 0; }
 
 .button-icon .icon:before, .button-icon.icon:before {
   font-size: 24px; }
@@ -7754,3 +7752,6 @@ a.button {
   .winston-logo img {
     opacity: 0.05;
     width: 25%; }
+
+.groceries-page-logo .winston-logo {
+  padding-bottom: 40px; }
