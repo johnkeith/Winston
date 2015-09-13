@@ -71,10 +71,12 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService',
 		$scope.groceries = GroceriesService.getCurrentGroceriesList;
 		$scope.itemInput = undefined;
 
-		$scope.addItemToGroceriesList = function(item){
-			GroceriesService.addItemToGroceriesList(item);
+		$scope.addItemToGroceriesList = function(){
+			if($scope.itemInput != '' && $scope.itemInput != undefined){
+				GroceriesService.addItemToGroceriesList($scope.itemInput);
 
-			$scope.itemInput = undefined;
+				$scope.itemInput = undefined;
+			}
 		}
 
 		$scope.changeCheckedStatus = function(item, index){

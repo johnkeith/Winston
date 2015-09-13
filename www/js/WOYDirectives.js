@@ -2,6 +2,24 @@
 
 var directives = angular.module('WOYDirectives', []);
 
+directives.directive('submitOnEnter', [function(){
+	return {
+		scope: {
+			"submitFunction": "="
+		},
+		link: function($scope, element, $attrs){
+			element.bind('keydown keypress', function(event){
+				if(event.which == 13){
+					$scope.$apply(function(){
+						$scope.submitFunction();
+					});
+					event.preventDefault();
+				}
+			});
+		}
+	}
+}]);
+
 directives.directive('ionItemWithDivider', [function(){
 	return {
 		restrict: 'E',

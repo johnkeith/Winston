@@ -17,13 +17,13 @@
 		</ul>
 		<ng-include class="groceries-page-logo" src="'templates/winston_image.html'"></ng-include>
 	</ion-content>
-	<div class="bar bar-footer item-input-inset">
+	<ion-footer-bar class="bar bar-footer item-input-inset">
   	<label class="item-input-wrapper">
-    <i class="icon ion-ios-compose-outline placeholder-icon"></i>
-    <input type="search" placeholder="Add item to groceries list..." ng-model="itemInput" />
-  </label>
-  <button class="button button-clear" ng-click="addItemToGroceriesList(itemInput)">
-    Submit
-  </button>
-	</div>
+    	<i class="icon ion-ios-compose-outline placeholder-icon"></i>
+    	<input submit-on-enter submit-function="addItemToGroceriesList" type="search" placeholder="Add item to groceries list..." ng-model="itemInput" />
+	  </label>
+	  <button class="button button-clear" ng-click="addItemToGroceriesList()">
+	    Submit
+	  </button>
+	</ion-footer-bar>>
 </ion-view>
