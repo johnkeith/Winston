@@ -65,8 +65,8 @@ controllers.controller('PreviousMealsController', ['$scope', 'RecipesService', '
 	}
 ]);
 
-controllers.controller('GroceriesController', ['$scope', 'GroceriesService',
-	function($scope, GroceriesService){
+controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$ionicListDelegate',
+	function($scope, GroceriesService, $ionicListDelegate){
 		$scope.showReorder = false;
 		$scope.groceries = GroceriesService.getCurrentGroceriesList;
 		$scope.itemInput = undefined;
@@ -77,6 +77,12 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService',
 
 				$scope.itemInput = undefined;
 			}
+		}
+
+		$scope.removeItem = function(item){
+			GroceriesService.removeItemFromGroceriesList(item);
+			
+			$ionicListDelegate.closeOptionButtons();
 		}
 
 		$scope.changeCheckedStatus = function(item, index){

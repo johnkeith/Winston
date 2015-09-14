@@ -19,6 +19,12 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 		LocalStorage.setObject('showCompletedItems', showCompletedItems);
 	}
 
+	groceriesService.removeItemFromGroceriesList = function(index){
+		currentGroceriesList.splice(index, 1);
+
+		saveCurrentGroceriesList();
+	}
+
 	groceriesService.getShowCompletedItems = function(){
 		return showCompletedItems;
 	}

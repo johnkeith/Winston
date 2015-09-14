@@ -3,7 +3,7 @@
 		<button class="button button-clear" ng-click="toggleReorder()">Reorder</button>
   </ion-nav-buttons>
 	<ion-content >
-		<ion-list show-reorder="showReorder">
+		<ion-list can-swipe="true" show-reorder="showReorder">
 			<ion-item on-hold="toggleReorder()" ng-show="(groceries().length > 0) && (getShowCompletedItems() == true || groceryItem.checked != true && getShowCompletedItems() == false)" class="item item-checkbox checkbox-balanced" ng-repeat="groceryItem in groceries() track by $index">
 				<label class="checkbox">
 					<input type="checkbox" ng-checked="groceryItem.checked" ng-click="changeCheckedStatus(groceryItem, $index)" />
@@ -13,6 +13,9 @@
 		    	<i class="icon ion-arrow-down-c"></i>
 		    	<i class="icon ion-arrow-up-c"></i>
 		    </ion-reorder-button>
+		    <ion-option-button class="button-assertive" ng-click="removeItem($index)">
+			    <i class="icon ion-trash-a"></i>
+			  </ion-option-button>
 			</ion-item>
 		</ul>
 		<ng-include class="groceries-page-logo" src="'templates/winston_image.html'"></ng-include>
