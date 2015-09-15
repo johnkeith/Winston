@@ -55,6 +55,8 @@ controllers.controller('LeftSidebarController', ['$scope', 'GroceriesService', '
 controllers.controller('PreviousMealsController', ['$scope', 'RecipesService', '$state', '$ionicHistory',
 	function($scope, RecipesService, $state, $ionicHistory){
 		$scope.historicalRecipes = RecipesService.getHistoricalRecipes;
+		$scope.emptyHistoricalRecipes = RecipesService.emptyHistoricalRecipes;
+
 		$scope.switchToPrevious = function(index){
 			RecipesService.switchToPreviousMealPlan(index);
 			$ionicHistory.nextViewOptions({

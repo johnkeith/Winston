@@ -238,6 +238,12 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 			}
 		}
 
+		recipesService.emptyHistoricalRecipes = function(){
+			historicalRecipes = [];
+
+			saveHistoricalRecipes();
+		}
+
 		recipesService.getRecipeFilterSettings = function(){
 			return recipeFilterSettings;
 		}

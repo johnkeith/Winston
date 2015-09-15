@@ -1,4 +1,7 @@
 <ion-view view-title="History" ng-controller="PreviousMealsController">
+	<ion-nav-buttons side="right">
+    <button class="button button-clear" ng-click="emptyHistoricalRecipes()">Clear</button>
+  </ion-nav-buttons>
 	<ion-content>
 		<ion-list>
 			<ion-item ng-show="mealPlan.titles != undefined && mealPlan.titles.length > 0" ng-repeat="mealPlan in historicalRecipes() track by $index" ng-click="switchToPrevious($index)">
