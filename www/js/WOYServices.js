@@ -2,6 +2,30 @@
 
 var services = angular.module('WOYServices', []);
 
+services.factory('TutorialService', ['LocalStorage', function(LocalStorage){
+	var firstTimeStatus;
+	var tutService = {};
+	var promptForFirstTimeTutorial = false;
+
+	tutService.getTutorialPromptStatus = function(){
+		return promptForFirstTimeTutorial;
+	}
+
+	function activate(){
+		firstTimeStatus = LocalStorage.get('firstTimeInApp');
+		console.log(firstTimeStatus);
+
+		if(firstTimeStatus == undefined && firstTimeStatus == null){
+			firstTimeStatus = false;
+			promptForFirstTimeTutorial = true;
+		}
+	}
+
+	activate();
+
+	return tutService;
+}]);
+
 services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 	var groceriesService = {};
 	var currentGroceriesList = [];

@@ -1,0 +1,16 @@
+<ion-modal-view>
+  <div class="tutorial-modal">
+    <ion-header-bar class="bar bar-header bar-calm">
+      <h1 class="title">Tutorial?</h1>
+      <button class="button button-clear button-primary" ng-click="tutorialModal.hide()">Cancel</button>
+    </ion-header-bar>
+    <ion-content class="padding">
+      <h3 class="gray-header">Welcome to Winston!</h3>
+      <h4 class="gray-header">We are preparing your meal plan.</h4>
+      <h4 class="gray-header">Would you like a tutorial?</h4>
+      <ng-include src="'templates/winston_image.html'"></ng-include>
+      <button class="button button-block button-calm tutorial-option" ng-click="">Yes</button>
+      <button class="button button-block button-outline button-stable" ng-click="">No</button>
+    </ion-content>
+  </div>
+</ion-modal-view>

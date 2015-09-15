@@ -100,10 +100,23 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$i
 	}
 ]);
 
-controllers.controller('StartController', ['$scope', 'RecipesService', '$ionicListDelegate',
-	function($scope, RecipesService, $ionicListDelegate){
+controllers.controller('StartController', ['$scope', 'RecipesService', '$ionicListDelegate', 'TutorialService', '$timeout', '$ionicModal',
+	function($scope, RecipesService, $ionicListDelegate, TutorialService, $timeout, $ionicModal){
 		$scope.listCanSwipe = true;
 		$scope.recipes = RecipesService.getCurrentRecipes;
+
+		$timeout(function(){
+			$scope.firstTimeInApp = TutorialService.getTutorialPromptStatus();
+			console.log($scope.firstTimeInApp);
+			if($scope.firstTimeInApp){
+				$ionicModal.fromTemplateUrl('templates/show-tutorial-modal.html', {
+					scope: $scope
+				}).then(function(modal){
+					$scope.tutorialModal = modal;
+					$scope.tutorialModal.show();
+				});
+			}
+		}, 500);
 
 		if(RecipesService.getCurrentRecipes().length == 0){
 			RecipesService.fillWithRandomRecipes();
