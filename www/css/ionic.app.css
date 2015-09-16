@@ -7753,6 +7753,13 @@ a.button {
     opacity: 0.05;
     width: 25%; }
 
+.modal {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%; }
+
 .tutorial-modal .gray-header {
   color: gray;
   text-align: center; }
