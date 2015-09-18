@@ -3,8 +3,8 @@
 var controllers = angular.module('WOYControllers', []);
 
 // this controller wraps the body. Parent to all other controllers
-controllers.controller('mainController', ['$scope', 'TutorialService', '$timeout', '$ionicModal',
-	function($scope, TutorialService, $timeout, $ionicModal){
+controllers.controller('mainController', ['$scope', 'TutorialService', '$timeout', '$ionicModal', '$state', '$ionicHistory',
+	function($scope, TutorialService, $timeout, $ionicModal, $state, $ionicHistory){
 		$scope.showingTutorial = false;
 
 		$timeout(function(){
@@ -22,6 +22,13 @@ controllers.controller('mainController', ['$scope', 'TutorialService', '$timeout
 
 		$scope.startTutorial = function(){
 			$scope.showingTutorial = true;
+			$scope.tutorialModal.hide();
+
+			$ionicHistory.nextViewOptions({
+		    disableBack: true
+		  });
+
+			$state.go('pages.tutorial');
 		}
 	}
 ]);

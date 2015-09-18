@@ -1,7 +1,7 @@
 <ion-modal-view>
   <div class="tutorial-modal">
     <ion-header-bar class="bar bar-header bar-calm">
-      <h1 class="title" ng-show="showingTutorial == false">Tutorial?</h1>
+      <h1 class="title">Tutorial?</h1>
       <button class="button button-clear button-primary" ng-click="tutorialModal.hide()">Cancel</button>
     </ion-header-bar>
     <ion-content  class="padding">
@@ -12,9 +12,6 @@
         <ng-include src="'templates/winston_image.html'"></ng-include>
         <button class="button button-block button-calm tutorial-option" ng-click="startTutorial()">Yes</button>
         <button class="button button-block button-outline button-stable" ng-click="tutorialModal.hide()">No</button>
-      </div>
-
-      <div ng-show="showingTutorial == true">
       </div>
     </ion-content>
   </div>
