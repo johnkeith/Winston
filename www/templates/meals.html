@@ -2,23 +2,23 @@
   <ion-nav-buttons side="right">
     <button class="button button-clear" ng-click="getAllNewRecipes()">Refresh</button>
   </ion-nav-buttons>
-  <ion-content >
-	  <ion-refresher
-	    pulling-text="Release for a week of new recipes..."
-	    on-refresh="getAllNewRecipes()"
-	    pulling-icon="ion-arrow-down-c">
-	  </ion-refresher>
-  	<ion-list can-swipe="listCanSwipe">
-  		<ion-item-with-divider 
-  			ng-repeat="recipeInfo in recipes() track by $index" 
-  			recipe-info="recipeInfo" 
-  			recipe-info-index="$index" 
-  			remove-recipe="removeRecipe" 
-  			refresh-recipe="refreshRecipe" 
-  			move-recipe="moveRecipe" 
-  			total-recipes="recipes().length - 1">
-  		</ion-item-with-divider>
-  	</ion-list>
+  <ion-content>
+		<ion-refresher
+		  pulling-text="Release for a week of new recipes..."
+		  on-refresh="getAllNewRecipes()"
+		  pulling-icon="ion-arrow-down-c">
+		</ion-refresher>
+		<ion-list can-swipe="listCanSwipe">
+			<ion-item-with-divider 
+				ng-repeat="recipeInfo in recipes() track by $index" 
+				recipe-info="recipeInfo" 
+				recipe-info-index="$index" 
+				remove-recipe="removeRecipe" 
+				refresh-recipe="refreshRecipe" 
+				move-recipe="moveRecipe" 
+				total-recipes="recipes().length - 1">
+			</ion-item-with-divider>
+		</ion-list>
     <ng-include src="'templates/winston_image.html'"></ng-include>
   </ion-content>
 </ion-view>

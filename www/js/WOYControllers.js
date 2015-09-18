@@ -2,6 +2,30 @@
 
 var controllers = angular.module('WOYControllers', []);
 
+// this controller wraps the body. Parent to all other controllers
+controllers.controller('mainController', ['$scope', 'TutorialService', '$timeout', '$ionicModal',
+	function($scope, TutorialService, $timeout, $ionicModal){
+		$scope.showingTutorial = false;
+
+		$timeout(function(){
+			$scope.firstTimeInApp = TutorialService.getTutorialPromptStatus();
+			console.log($scope.firstTimeInApp);
+			if($scope.firstTimeInApp){
+				$ionicModal.fromTemplateUrl('templates/show-tutorial-modal.html', {
+					scope: $scope
+				}).then(function(modal){
+					$scope.tutorialModal = modal;
+					$scope.tutorialModal.show();
+				});
+			}
+		}, 500);
+
+		$scope.startTutorial = function(){
+			$scope.showingTutorial = true;
+		}
+	}
+]);
+
 controllers.controller('HelpController', ['$scope', function($scope){
 	$scope.helpInfo = [
 		{
@@ -100,23 +124,10 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$i
 	}
 ]);
 
-controllers.controller('StartController', ['$scope', 'RecipesService', '$ionicListDelegate', 'TutorialService', '$timeout', '$ionicModal',
-	function($scope, RecipesService, $ionicListDelegate, TutorialService, $timeout, $ionicModal){
+controllers.controller('StartController', ['$scope', 'RecipesService', '$ionicListDelegate', '$timeout', '$ionicModal',
+	function($scope, RecipesService, $ionicListDelegate, $timeout, $ionicModal){
 		$scope.listCanSwipe = true;
 		$scope.recipes = RecipesService.getCurrentRecipes;
-
-		$timeout(function(){
-			$scope.firstTimeInApp = TutorialService.getTutorialPromptStatus();
-			console.log($scope.firstTimeInApp);
-			if($scope.firstTimeInApp){
-				$ionicModal.fromTemplateUrl('templates/show-tutorial-modal.html', {
-					scope: $scope
-				}).then(function(modal){
-					$scope.tutorialModal = modal;
-					$scope.tutorialModal.show();
-				});
-			}
-		}, 500);
 
 		if(RecipesService.getCurrentRecipes().length == 0){
 			RecipesService.fillWithRandomRecipes();
