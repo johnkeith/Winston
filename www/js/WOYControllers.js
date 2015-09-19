@@ -74,16 +74,12 @@ controllers.controller('HelpController', ['$scope', function($scope){
 	];
 }]);
 
-controllers.controller('LeftSidebarController', ['$scope', 'GroceriesService', 'RecipesService', '$ionicScrollDelegate',
-	function($scope, GroceriesService, RecipesService, $ionicScrollDelegate){
+controllers.controller('LeftSidebarController', ['$scope', 'GroceriesService', 'RecipesService',
+	function($scope, GroceriesService, RecipesService){
 		$scope.getShowCompletedItems = GroceriesService.getShowCompletedItems;
 		$scope.toggleShowCompletedItems = GroceriesService.toggleShowCompletedItems;
 		$scope.recipeFilters = RecipesService.getRecipeFilterSettings;
 		$scope.toggleRecipeFilters = RecipesService.toggleRecipeFilter;
-
-		$scope.scrollToBottom = function(){
-			$ionicScrollDelegate.scrollBottom(true);
-		}
 	}
 ]);
 
@@ -102,17 +98,22 @@ controllers.controller('PreviousMealsController', ['$scope', 'RecipesService', '
 	}
 ]);
 
-controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$ionicListDelegate',
-	function($scope, GroceriesService, $ionicListDelegate){
+controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$ionicListDelegate', '$ionicScrollDelegate',
+	function($scope, GroceriesService, $ionicListDelegate, $ionicScrollDelegate){
 		$scope.showReorder = false;
 		$scope.groceries = GroceriesService.getCurrentGroceriesList;
 		$scope.itemInput = undefined;
+
+		$scope.scrollToBottom = function(){
+			$ionicScrollDelegate.scrollBottom(true);
+		}
 
 		$scope.addItemToGroceriesList = function(){
 			if($scope.itemInput != '' && $scope.itemInput != undefined){
 				GroceriesService.addItemToGroceriesList($scope.itemInput);
 
 				$scope.itemInput = undefined;
+				$scope.scrollToBottom();
 			}
 		}
 
