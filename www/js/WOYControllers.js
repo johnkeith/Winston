@@ -74,12 +74,16 @@ controllers.controller('HelpController', ['$scope', function($scope){
 	];
 }]);
 
-controllers.controller('LeftSidebarController', ['$scope', 'GroceriesService', 'RecipesService',
-	function($scope, GroceriesService, RecipesService){
+controllers.controller('LeftSidebarController', ['$scope', 'GroceriesService', 'RecipesService', '$ionicScrollDelegate',
+	function($scope, GroceriesService, RecipesService, $ionicScrollDelegate){
 		$scope.getShowCompletedItems = GroceriesService.getShowCompletedItems;
 		$scope.toggleShowCompletedItems = GroceriesService.toggleShowCompletedItems;
 		$scope.recipeFilters = RecipesService.getRecipeFilterSettings;
 		$scope.toggleRecipeFilters = RecipesService.toggleRecipeFilter;
+
+		$scope.scrollToBottom = function(){
+			$ionicScrollDelegate.scrollBottom(true);
+		}
 	}
 ]);
 

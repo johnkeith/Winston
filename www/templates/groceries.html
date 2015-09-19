@@ -23,7 +23,7 @@
 	<ion-footer-bar class="bar bar-footer item-input-inset">
   	<label class="item-input-wrapper">
     	<i class="icon ion-ios-compose-outline placeholder-icon"></i>
-    	<input submit-on-enter submit-function="addItemToGroceriesList" type="search" placeholder="Add item to groceries list..." ng-model="itemInput" />
+    	<input ng-focus="scrollToBottom()" submit-on-enter submit-function="addItemToGroceriesList" type="search" placeholder="Add item to groceries list..." ng-model="itemInput" />
 	  </label>
 	  <button class="button button-clear" ng-click="addItemToGroceriesList()">
 	    Submit
