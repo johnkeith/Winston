@@ -13,7 +13,6 @@ controllers.controller('MainController', ['$scope', 'LocalStorage', '$ionicModal
 	    // opens the modal only one time
 		  if(!localStorage.getItem("tutorialShown")){
 		    $scope.modal.show();
-		    localStorage.setItem("tutorialShown", true);
 		  }	else {
 		  	$scope.modal.remove();
 		  }
@@ -23,6 +22,7 @@ controllers.controller('MainController', ['$scope', 'LocalStorage', '$ionicModal
 	  };
 	  $scope.closeModal = function() {
 	    $scope.modal.hide();
+	   	localStorage.setItem("tutorialShown", true);
 	  };
 	  //Cleanup the modal when we're done with it!
 	  $scope.$on('$destroy', function() {
