@@ -94,6 +94,9 @@
   padding-bottom: 10px;
   text-align: center;
   img {
+    &.full-color {
+      opacity: 1;
+    }
     opacity: 0.05;
     width: 25%;
   }
@@ -120,13 +123,8 @@
   .tutorial-option {
     // margin-top: 20%;
   }
+  // .ionic-scroll {
+  //   background: url("../img/mono_icon_full_color.svg");
+  //   background-size: cover;
+  // }
 }
-
-.tutorial-slide-box {
-  // text-align: center;
-}
-// .groceries-page-logo {
-//   .winston-logo {
-//     padding-bottom:40px;
-//   }
-// }

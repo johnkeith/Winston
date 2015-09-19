@@ -3,7 +3,6 @@
 var services = angular.module('WOYServices', []);
 
 services.factory('TutorialService', ['LocalStorage', function(LocalStorage){
-	var firstTimeStatus;
 	var tutService = {};
 	var promptForFirstTimeTutorial = false;
 
@@ -11,13 +10,16 @@ services.factory('TutorialService', ['LocalStorage', function(LocalStorage){
 		return promptForFirstTimeTutorial;
 	}
 
-	function activate(){
-		firstTimeStatus = LocalStorage.get('firstTimeInApp');
-		console.log(firstTimeStatus);
+	tutService.saveTutorialPromptStatus = function(status){
+		LocalStorage.set('firstTimeInApp', false);
+	}
 
-		if(firstTimeStatus == undefined && firstTimeStatus == null){
-			firstTimeStatus = false;
+	function activate(){
+		var promptForFirstTimeTutorial = LocalStorage.get('firstTimeInApp');
+		console.log(promptForFirstTimeTutorial);
+		if(promptForFirstTimeTutorial == undefined && promptForFirstTimeTutorial == null){
 			promptForFirstTimeTutorial = true;
+			console.log(promptForFirstTimeTutorial);
 		}
 	}
 

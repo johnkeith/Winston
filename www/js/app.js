@@ -61,14 +61,6 @@ app.config(['$stateProvider', '$urlRouterProvider',
             templateUrl: 'templates/help.html'
           }
         }
-      })
-      .state('pages.tutorial', {
-        url: '/tutorial',
-        views: {
-          'pages': {
-            templateUrl: 'templates/tutorial.html'
-          }
-        }
       });
     $urlRouterProvider.otherwise("/pages/meals");
   }

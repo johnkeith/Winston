@@ -3,48 +3,48 @@
 var controllers = angular.module('WOYControllers', []);
 
 // this controller wraps the body. Parent to all other controllers
-controllers.controller('mainController', ['$scope', 'TutorialService', '$timeout', '$ionicModal', '$state', '$ionicHistory',
-	function($scope, TutorialService, $timeout, $ionicModal, $state, $ionicHistory){
-		$scope.showingTutorial = false;
-
-		$timeout(function(){
-			$scope.firstTimeInApp = TutorialService.getTutorialPromptStatus();
-			console.log($scope.firstTimeInApp);
-			if($scope.firstTimeInApp){
-				$ionicModal.fromTemplateUrl('templates/show-tutorial-modal.html', {
-					scope: $scope
-				}).then(function(modal){
-					$scope.tutorialModal = modal;
-					$scope.tutorialModal.show();
-				});
-			}
-		}, 500);
-
-		$scope.startTutorial = function(){
-			$scope.showingTutorial = true;
-			$scope.tutorialModal.hide();
-
-			$ionicHistory.nextViewOptions({
-		    disableBack: true
-		  });
-
-			$state.go('pages.tutorial');
-		}
+controllers.controller('MainController', ['$scope', 'LocalStorage', '$ionicModal',
+	function($scope, LocalStorage, $ionicModal){
+		$ionicModal.fromTemplateUrl('templates/first-time-tutorial-modal.html', {
+	    scope: $scope,
+	    animation: 'slide-in-up'
+	  }).then(function(modal) {
+	    $scope.modal = modal;
+	    // opens the modal only one time
+		  if(!localStorage.getItem("tutorialShown")){
+		    $scope.modal.show();
+		    localStorage.setItem("tutorialShown", true);
+		  }	else {
+		  	$scope.modal.remove();
+		  }
+	  });
+	  $scope.openModal = function() {
+	    $scope.modal.show();
+	  };
+	  $scope.closeModal = function() {
+	    $scope.modal.hide();
+	  };
+	  //Cleanup the modal when we're done with it!
+	  $scope.$on('$destroy', function() {
+	    $scope.modal.remove();
+	  });
 	}
 ]);
 
 controllers.controller('HelpController', ['$scope', function($scope){
 	$scope.helpInfo = [
 		{
-			title: 'What does Winston do?',
+			title: 'What does Winston do? Can it change my life?',
 			body: [
-				'Winston creates meal plans automatically with dinners for each night of the week, along with grocery lists of all the ingredients you need to make these recipes.'
+				'Winston creates meal plans automatically with dinners for each night of the week, along with grocery lists of all the ingredients you need to make these recipes.',
+				'That means, no more time spent planning what to eat!'
 			]
 		},
 		{
 			title: 'Why should I meal plan?',
 			body: [
-				'Meal planning is one of the best ways to eat healthy and to save money! By having a plan of the recipes you will cook and the ingredients you need, you will be less inclined to purchase unhealthy or unneeded food at the grocery.'
+				'Meal planning is one of the best ways to eat healthy and to save money!',
+				'By having a plan of the recipes you will cook and the ingredients you need, you will be less inclined to purchase unhealthy or unneeded food at the grocery.'
 			]
 		},
 		{ 
@@ -131,15 +131,15 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$i
 	}
 ]);
 
-controllers.controller('StartController', ['$scope', 'RecipesService', '$ionicListDelegate', '$timeout', '$ionicModal',
-	function($scope, RecipesService, $ionicListDelegate, $timeout, $ionicModal){
+controllers.controller('StartController', ['$scope', 'LocalStorage', 'RecipesService', '$ionicListDelegate', '$timeout', '$ionicModal',
+	function($scope, LocalStorage, RecipesService, $ionicListDelegate, $timeout, $ionicModal){
 		$scope.listCanSwipe = true;
 		$scope.recipes = RecipesService.getCurrentRecipes;
 
 		if(RecipesService.getCurrentRecipes().length == 0){
 			RecipesService.fillWithRandomRecipes();
 		}
-		
+
 		$scope.toggleReorder = function(){
 			$scope.showReorder = !$scope.showReorder;
 		}
@@ -162,6 +162,6 @@ controllers.controller('StartController', ['$scope', 'RecipesService', '$ionicLi
 		$scope.getAllNewRecipes = function(){
 			RecipesService.fillWithRandomRecipes();
 			$scope.$broadcast('scroll.refreshComplete');
-		}
+		}	
 	}]
 );

@@ -7752,6 +7752,8 @@ a.button {
   .winston-logo img {
     opacity: 0.05;
     width: 25%; }
+    .winston-logo img.full-color {
+      opacity: 1; }
 
 .modal {
   top: 0;
@@ -7763,4 +7765,3 @@ a.button {
 .tutorial-modal .gray-header {
   color: gray;
   text-align: center; }
-
