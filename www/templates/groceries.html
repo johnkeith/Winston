@@ -2,7 +2,7 @@
 	<ion-nav-buttons side="right">
 		<button class="button button-clear" ng-click="toggleReorder()">Reorder</button>
   </ion-nav-buttons>
-	<ion-content >
+	<ion-content delegate-handle="groceriesList">
 		<ion-list can-swipe="true" show-reorder="showReorder">
 			<ion-item on-hold="toggleReorder()" ng-show="(groceries().length > 0) && (getShowCompletedItems() == true || groceryItem.checked != true && getShowCompletedItems() == false)" class="item item-checkbox checkbox-balanced" ng-repeat="groceryItem in groceries() track by $index">
 				<label class="checkbox">

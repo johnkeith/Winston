@@ -105,7 +105,7 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$i
 		$scope.itemInput = undefined;
 
 		$scope.scrollToBottom = function(){
-			$ionicScrollDelegate.scrollBottom(true);
+			$ionicScrollDelegate.$getByHandle('groceriesList').scrollBottom(true);
 		}
 
 		$scope.addItemToGroceriesList = function(){
