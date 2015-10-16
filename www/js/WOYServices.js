@@ -32,6 +32,7 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 	var groceriesService = {};
 	var currentGroceriesList = [];
 	var showCompletedItems = true;
+	var infiniteScrollAmount = 20;
 
 	var saveCurrentGroceriesList = function(){
 		LocalStorage.setObject('currentGroceries', currentGroceriesList);
@@ -43,6 +44,30 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 
 	var storeCompletedItemsOption = function(){
 		LocalStorage.setObject('showCompletedItems', showCompletedItems);
+	}
+
+	groceriesService.getInfiniteScrollAmount = function(){
+		return infiniteScrollAmount;
+	}
+
+	groceriesService.setInfiniteScrollAmount = function(amount){
+		infiniteScrollAmount = amount;
+	}
+
+	groceriesService.getGroceriesInfiniteScroll = function(){
+		return currentGroceriesList.slice(0, infiniteScrollAmount)
+	}
+
+	groceriesService.addMoreGroceries = function(){
+		if(infiniteScrollAmount == currentGroceriesList.length){
+			return
+		} else if(infiniteScrollAmount > currentGroceriesList.length){
+			return
+		} else if(infiniteScrollAmount + 20 > currentGroceriesList.length){
+			infiniteScrollAmount = currentGroceriesList.length
+		} else {
+			infiniteScrollAmount += 20;
+		}
 	}
 
 	groceriesService.removeItemFromGroceriesList = function(index){

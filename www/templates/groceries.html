@@ -4,7 +4,7 @@
   </ion-nav-buttons>
 	<ion-content delegate-handle="groceriesList">
 		<ion-list can-swipe="true" show-reorder="showReorder">
-			<ion-item on-hold="toggleReorder()" ng-show="(groceries().length > 0) && (getShowCompletedItems() == true || groceryItem.checked != true && getShowCompletedItems() == false)" class="item item-checkbox checkbox-balanced" ng-repeat="groceryItem in groceries() track by $index">
+			<ion-item on-hold="toggleReorder()" ng-show="(groceries().length > 0) && (getShowCompletedItems() == true || groceryItem.checked != true && getShowCompletedItems() == false)" class="item item-checkbox checkbox-balanced" ng-repeat="groceryItem in groceriesInfinite() track by $index">
 				<label class="checkbox">
 					<input type="checkbox" ng-checked="groceryItem.checked" ng-click="changeCheckedStatus(groceryItem, $index)" />
 				</label>
@@ -17,6 +17,8 @@
 			    <i class="icon ion-trash-a"></i>
 			  </ion-option-button>
 			</ion-item>
+		</ion-list>
+		<ion-infinite-scroll on-infinite="moreGroceries()" distance="1%"></ion-infinite-scroll>
 		<ng-include class="groceries-page-logo" src="'templates/winston_image.html'"></ng-include>
 	</ion-content>
 	<ion-footer-bar class="bar bar-footer item-input-inset">

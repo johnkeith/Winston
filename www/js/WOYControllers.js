@@ -104,6 +104,17 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$i
 		$scope.groceries = GroceriesService.getCurrentGroceriesList;
 		$scope.itemInput = undefined;
 
+		$scope.groceriesInfinite = GroceriesService.getGroceriesInfiniteScroll;
+		$scope.moreGroceries = function(){
+			GroceriesService.addMoreGroceries();
+			console.log(GroceriesService.getInfiniteScrollAmount());
+	    $scope.$broadcast('scroll.infiniteScrollComplete');
+		}
+
+		$scope.$on('$stateChangeSuccess', function() {
+	    GroceriesService.setInfiniteScrollAmount(20);
+	  });
+
 		$scope.scrollToBottom = function(){
 			$ionicScrollDelegate.$getByHandle('groceriesList').scrollBottom(true);
 		}
