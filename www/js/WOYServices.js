@@ -130,7 +130,7 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 	}
 
 	groceriesService.addItemToGroceriesList = function(item){
-		currentGroceriesList.push({ checked: false, item: item });
+		currentGroceriesList.unshift({ checked: false, item: item });
 
 		saveCurrentGroceriesList();
 	}

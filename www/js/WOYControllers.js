@@ -115,8 +115,8 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$i
 	    GroceriesService.setInfiniteScrollAmount(20);
 	  });
 
-		$scope.scrollToBottom = function(){
-			$ionicScrollDelegate.$getByHandle('groceriesList').scrollBottom(true);
+		$scope.scrollToTop = function(){
+			$ionicScrollDelegate.$getByHandle('groceriesList').scrollTop(true);
 		}
 
 		$scope.addItemToGroceriesList = function(){

@@ -18,13 +18,13 @@
 			  </ion-option-button>
 			</ion-item>
 		</ion-list>
-		<ion-infinite-scroll on-infinite="moreGroceries()" distance="1%"></ion-infinite-scroll>
+		<ion-infinite-scroll on-infinite="moreGroceries()" distance="2%"></ion-infinite-scroll>
 		<ng-include class="groceries-page-logo" src="'templates/winston_image.html'"></ng-include>
 	</ion-content>
 	<ion-footer-bar class="bar bar-footer item-input-inset">
   	<label class="item-input-wrapper">
     	<i class="icon ion-ios-compose-outline placeholder-icon"></i>
-    	<input ng-focus="scrollToBottom()" submit-on-enter submit-function="addItemToGroceriesList" type="search" placeholder="Add item to groceries list..." ng-model="itemInput" />
+    	<input ng-focus="scrollToTop()" submit-on-enter submit-function="addItemToGroceriesList" type="search" placeholder="Add item to groceries list..." ng-model="itemInput" />
 	  </label>
 	  <button class="button button-clear" ng-click="addItemToGroceriesList()">
 	    Submit
