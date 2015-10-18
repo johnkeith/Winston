@@ -7726,6 +7726,9 @@ a.button {
         color: #b2b2b2; }
         .view-container .pane ion-item.item-checkbox ion-reorder-button i + i {
           padding-left: 2px; }
+    .view-container .pane ion-item .ion-item__full-input {
+      background: #eee;
+      width: 100%; }
     .view-container .pane ion-infinite-scroll {
       height: 0px; }
     .view-container .pane .bar-footer .row {

@@ -102,7 +102,7 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$i
 	function($scope, GroceriesService, $ionicListDelegate, $ionicScrollDelegate){
 		$scope.showReorder = false;
 		$scope.groceries = GroceriesService.getCurrentGroceriesList;
-		$scope.itemInput = undefined;
+		$scope.itemInput = { item: undefined };
 
 		$scope.groceriesInfinite = GroceriesService.getGroceriesInfiniteScroll;
 		$scope.moreGroceries = function(){
@@ -121,12 +121,16 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$i
 			$ionicScrollDelegate.$getByHandle('groceriesList').scrollTop(true);
 		}
 
-		$scope.addItemToGroceriesList = function(){
-			if($scope.itemInput != '' && $scope.itemInput != undefined){
-				GroceriesService.addItemToGroceriesList($scope.itemInput);
+		$scope.scrollToBottom = function(){
+			$ionicScrollDelegate.$getByHandle('groceriesList').scrollBottom(true);
+		}
 
-				$scope.itemInput = undefined;
-				$scope.scrollToBottom();
+		$scope.addItemToGroceriesList = function(){
+			if($scope.itemInput.item != '' && $scope.itemInput.item != undefined){
+				GroceriesService.addItemToGroceriesList($scope.itemInput.item);
+
+				$scope.itemInput.item = undefined;
+				$scope.scrollToTop();
 			}
 		}
 
