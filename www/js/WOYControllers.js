@@ -112,10 +112,12 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$i
 		}
 
 		$scope.$on('$stateChangeSuccess', function() {
+			$ionicScrollDelegate.$getByHandle('groceriesList').scrollTop(true);
 	    GroceriesService.setInfiniteScrollAmount(20);
 	  });
 
 		$scope.scrollToTop = function(){
+			// doesn't perform great - maybe do bottom. maybe do input in the list?
 			$ionicScrollDelegate.$getByHandle('groceriesList').scrollTop(true);
 		}
 
