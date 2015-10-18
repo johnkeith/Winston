@@ -7736,6 +7736,9 @@ a.button {
       .view-container .pane .bar-footer .row button {
         border-radius: 0; }
 
+.scroll-bar-indicator {
+  display: none; }
+
 .button-icon .icon:before, .button-icon.icon:before {
   font-size: 24px; }
 
