@@ -31,7 +31,12 @@ directives.directive('ionItemWithDivider', [function(){
 			"moveRecipe": "=",
 			"totalRecipes": "="
 		},
-		templateUrl: 'templates/ion-item-with-divider.html'
+		templateUrl: 'templates/ion-item-with-divider.html',
+		controller: function($scope){
+			$scope.openInSafari = function(href){
+				window.open(href, '_system');
+			}
+		}
 	}
 }]);
 

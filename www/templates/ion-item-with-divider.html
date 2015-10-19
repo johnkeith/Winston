@@ -1,12 +1,15 @@
 <div class="item item-divider">{{ recipeInfo.date }}</div>
-<ion-item item="recipeInfo" class="item-remove-animate item-source-link" href="{{ recipeInfo.recipe.sourceHref }}">				
-	<span class="item-source-link" href="{{ recipeInfo.recipe.sourceHref }}">{{ recipeInfo.recipe.recipeTitle }}</span>
+<ion-item item="recipeInfo" class="item-remove-animate item-source-link" ng-click="openInSafari(recipeInfo.recipe.sourceHref)">				
+	<span class="item-source-link" ng-click="openInSafari(recipeInfo.recipe.sourceHref)">{{ recipeInfo.recipe.recipeTitle }}</span>
 	<!-- NEED TO PASS ALL THESE FUNCTIONS THROUGH DIRECTIVE AS REFERENCES FROM CONTROLLER cf. TT -->
   <ion-option-button ng-show="recipeInfoIndex != 0" class="button-clear" ng-click="moveRecipe('up', recipeInfoIndex)">
     <i class="icon ion-arrow-up-c"></i>
   </ion-option-button>
   <ion-option-button ng-show="recipeInfoIndex != totalRecipes" class="button-clear" ng-click="moveRecipe('down', recipeInfoIndex)">
     <i class="icon ion-arrow-down-c"></i>
+  </ion-option-button>
+  <ion-option-button class="button-calm" ng-click="openInSafari(recipeInfo.recipe.sourceHref)">
+    <i class="icon ion-android-compass"></i>
   </ion-option-button>
   <ion-option-button class="button-assertive" ng-click="removeRecipe(recipeInfoIndex)">
     <i class="icon ion-trash-a"></i>
