@@ -169,7 +169,7 @@ controllers.controller('StartController', ['$scope', 'LocalStorage', 'RecipesSer
 	      message,
 	      subject, // this is for subject
 	      null, // this is for a file
-	      href
+	     	null // this is for a href
 	    );
 		}
 
