@@ -162,6 +162,17 @@ controllers.controller('StartController', ['$scope', 'LocalStorage', 'RecipesSer
 			RecipesService.fillWithRandomRecipes();
 		}
 
+		$scope.shareSocially = function(title, href){
+			var subject = "Recipe for " + title;
+			var message = "Recipe for " + title + " - " + href + ". Found with Winston: http://appstore.com/winstonweeklymealplans";
+			window.plugins.socialsharing.share(
+	      message,
+	      subject, // this is for subject
+	      null, // this is for a file
+	      href
+	    );
+		}
+
 		$scope.toggleReorder = function(){
 			$scope.showReorder = !$scope.showReorder;
 		}
