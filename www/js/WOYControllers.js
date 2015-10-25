@@ -2,6 +2,15 @@
 
 var controllers = angular.module('WOYControllers', []);
 
+controllers.controller('SearchController', ['$scope', '$stateParams', 
+	function($scope, $stateParams){
+		console.log($stateParams);
+		$scope.recipeDate = $stateParams.recipeDate;
+		$scope.recipeTitle = $stateParams.recipeTitle;
+		$scope.recipeIndex = $stateParams.recipeIndex;
+	}
+]);
+
 // this controller wraps the body. Parent to all other controllers
 controllers.controller('MainController', ['$scope', 'LocalStorage', '$ionicModal',
 	function($scope, LocalStorage, $ionicModal){

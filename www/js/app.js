@@ -62,6 +62,14 @@ app.config(['$stateProvider', '$urlRouterProvider',
             templateUrl: 'templates/help.html'
           }
         }
+      })
+      .state('pages.replaceFromSearch', {
+        url: '/replace-from-search?recipeTitle&recipeDate&recipeIndex',
+        views: {
+          'pages': {
+            templateUrl: 'templates/replace_from_search.html'
+          }
+        }
       });
     $urlRouterProvider.otherwise("/pages/meals");
   }

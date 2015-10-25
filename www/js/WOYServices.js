@@ -341,6 +341,8 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 
 			saveCurrentRecipes();
 			updateGroceryList();
+
+			console.log(currentRecipes);
 		}
 
 		recipesService.changeRecipeLocation = function(direction, index){
