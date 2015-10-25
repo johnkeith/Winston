@@ -204,6 +204,7 @@ controllers.controller('StartController', ['$scope', 'LocalStorage', 'RecipesSer
 		$scope.getAllNewRecipes = function(){
 			RecipesService.fillWithRandomRecipes();
 			$scope.$broadcast('scroll.refreshComplete');
+			$ionicListDelegate.closeOptionButtons();
 		}	
 	}]
 );
