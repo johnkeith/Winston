@@ -289,6 +289,10 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 			}
 		}
 
+		recipesService.getAllRecipes = function(){
+			return allRecipes;
+		}
+
 		recipesService.emptyHistoricalRecipes = function(){
 			historicalRecipes = [];
 

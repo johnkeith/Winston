@@ -2,12 +2,17 @@
 
 var controllers = angular.module('WOYControllers', []);
 
-controllers.controller('SearchController', ['$scope', '$stateParams', 
-	function($scope, $stateParams){
-		console.log($stateParams);
+controllers.controller('SearchController', ['$scope', '$stateParams', 'RecipesService',
+	function($scope, $stateParams, RecipesService){
 		$scope.recipeDate = $stateParams.recipeDate;
 		$scope.recipeTitle = $stateParams.recipeTitle;
 		$scope.recipeIndex = $stateParams.recipeIndex;
+
+		$scope.allRecipes = RecipesService.getAllRecipes;
+		console.log(RecipesService.getAllRecipes());
+		$scope.filterAllRecipes = function(item){
+			console.log('filtering all recipes');
+		}
 	}
 ]);
 

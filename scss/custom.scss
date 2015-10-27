@@ -9,6 +9,12 @@
       &:last-child.card {
         margin-bottom: 0;
       }
+      &.search-and-replace-input {
+        background: white;
+        input {
+          margin-top: 10px;
+        }
+      }
     }
     .item {
       h2 {
@@ -23,6 +29,11 @@
         color: lighten($dark, 20%);
         font-size: 0.9em;
         // padding-left: 10px;
+      }
+      &.item-input {
+        textarea {
+          background: #f8f8f8;
+        }
       }
     }
     ion-item {

@@ -7699,6 +7699,10 @@ a.button {
     background-color: inherit; }
     .view-container .pane .list:last-child.card {
       margin-bottom: 0; }
+    .view-container .pane .list.search-and-replace-input {
+      background: white; }
+      .view-container .pane .list.search-and-replace-input input {
+        margin-top: 10px; }
     .view-container .pane .item h2 {
       overflow: visible;
       text-overflow: inherit;
@@ -7708,6 +7712,8 @@ a.button {
     .view-container .pane .item .item-toggle-label {
       color: #777777;
       font-size: 0.9em; }
+    .view-container .pane .item.item-input textarea {
+      background: #f8f8f8; }
     .view-container .pane ion-item.item-complex .item-content {
       padding: 16px;
       -webkit-transition: all ease-in-out 250ms;
