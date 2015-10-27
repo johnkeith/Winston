@@ -13,6 +13,15 @@ controllers.controller('SearchController', ['$scope', '$stateParams', 'RecipesSe
 		$scope.filterAllRecipes = function(item){
 			console.log('filtering all recipes');
 		}
+
+		$scope.scrollLimit = 20;
+		$scope.increaseScrollLimit = function(amount){
+			if(amount == undefined){
+				amount = 20;
+			} 
+			$scope.scrollLimit += amount;
+	    $scope.$broadcast('scroll.infiniteScrollComplete');
+		}
 	}
 ]);
 

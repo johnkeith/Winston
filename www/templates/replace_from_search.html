@@ -9,7 +9,7 @@
 		    <input type="text" placeholder="Search for replacement recipe..." ng-model="recipeSearch">
 		  </label>
 		  <div class="item item-divider">Search Results</div>
-		  <div class="card" ng-repeat="recipe in allRecipes() | limitTo: 10 | filter:filterAllRecipes track by $index">
+		  <div class="card" ng-repeat="recipe in allRecipes() | limitTo:scrollLimit track by $index">
 		 		<div class="item item-body">
 			  	<p>{{ recipe.recipeTitle }}</p>
 			  </div>
@@ -20,6 +20,7 @@
 			  </div>
 		 	</div>
 	 	</div>
-	 	
+	 	<ion-infinite-scroll on-infinite="increaseScrollLimit()" distance="25%"></ion-infinite-scroll>
+
 	</ion-content>
 </ion-view>
