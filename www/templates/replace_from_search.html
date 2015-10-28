@@ -3,13 +3,16 @@
 		<ion-nav-back-button hide-back-button="true"></ion-nav-back-button>
   </ion-nav-bar>
 	<ion-content>
-		<div class="list search-and-replace-input">
-			<label class="item item-input item-stacked-label">
-		    <span class="input-label">{{ recipeDate }}</span>
-		    <input type="text" placeholder="Search for replacement recipe..." ng-model="recipeSearch">
-		  </label>
-		  <div class="item item-divider">Search Results</div>
-		  <div class="card" ng-repeat="recipe in allRecipes() | limitTo:scrollLimit track by $index">
+		<div class="list">
+			<div class="search-and-replace-input">
+				<label class="item item-input item-stacked-label">
+			    <span class="input-label">{{ recipeDate }}</span><br />
+			    <i class="icon ion-ios-search placeholder-icon"></i>
+			    <input type="text" placeholder="Search for replacement recipe..." ng-model="recipeSearch.recipeTitle">
+			  </label>
+			  <div class="item item-divider">Search Results</div>
+			</div>
+		  <div class="card" ng-repeat="recipe in allRecipes() | orderBy:'recipeTitle' | filter:recipeSearch | limitTo:scrollLimit track by $index">
 		 		<div class="item item-body">
 			  	<p>{{ recipe.recipeTitle }}</p>
 			  </div>

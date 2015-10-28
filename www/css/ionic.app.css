@@ -7699,9 +7699,14 @@ a.button {
     background-color: inherit; }
     .view-container .pane .list:last-child.card {
       margin-bottom: 0; }
-    .view-container .pane .list.search-and-replace-input {
+    .view-container .pane .list .search-and-replace-input {
       background: white; }
-      .view-container .pane .list.search-and-replace-input input {
+      .view-container .pane .list .search-and-replace-input .ion-ios-search {
+        font-size: 14px;
+        margin-top: 6px; }
+      .view-container .pane .list .search-and-replace-input input {
+        display: inline-block;
+        font-size: 16px;
         margin-top: 10px; }
     .view-container .pane .item h2 {
       overflow: visible;

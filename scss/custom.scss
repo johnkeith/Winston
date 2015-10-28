@@ -9,9 +9,15 @@
       &:last-child.card {
         margin-bottom: 0;
       }
-      &.search-and-replace-input {
+      .search-and-replace-input {
         background: white;
+        .ion-ios-search {
+          font-size: 14px;
+          margin-top: 6px;
+        }
         input {
+          display: inline-block;
+          font-size: 16px;
           margin-top: 10px;
         }
       }
