@@ -1,5 +1,5 @@
 <div class="item item-divider">{{ recipeInfo.date }}</div>
-<ion-item item="recipeInfo" class="item-remove-animate item-source-link" ng-click="openInSafari(recipeInfo.recipe.sourceHref)">				
+<ion-item open-in-safari item="recipeInfo" class="item-remove-animate item-source-link" ng-click="openInSafari(recipeInfo.recipe.sourceHref)">				
 	<span class="item-source-link" ng-click="openInSafari(recipeInfo.recipe.sourceHref)">{{ recipeInfo.recipe.recipeTitle }}</span>
 	<!-- NEED TO PASS ALL THESE FUNCTIONS THROUGH DIRECTIVE AS REFERENCES FROM CONTROLLER cf. TT -->
   <ion-option-button ng-show="recipeInfoIndex != 0" class="button-clear" ng-click="moveRecipe('up', recipeInfoIndex)">

@@ -14,16 +14,18 @@
 			</div>
 		  <div class="card" ng-repeat="recipe in allRecipes() | orderBy:'recipeTitle' | filter:recipeSearch | limitTo:scrollLimit track by $index">
 		 		<div class="item item-body">
-			  	<p>{{ recipe.recipeTitle }}</p>
+			  	<p open-in-safari ng-click="openInSafari(recipe.sourceHref)">{{ recipe.recipeTitle }}</p>
 			  </div>
 		 		<div class="item tabs tabs-secondary tabs-icon-left">
-			  	<a class="tab-item" href="#">
-			  	<i class="icon ion-thumbsup"></i> Select
+			  	<a class="tab-item tab-item-balanced-bg" href="#">
+				  	<i class="icon ion-ios-checkmark"></i> Select
 			  	</a>
+			  	<a class="tab-item tab-item-calm-bg" open-in-safari ng-click="openInSafari(recipe.sourceHref)">
+			    	<i class="icon ion-android-compass"></i> View
+			    </a>
 			  </div>
 		 	</div>
 	 	</div>
 	 	<ion-infinite-scroll on-infinite="increaseScrollLimit()" distance="25%"></ion-infinite-scroll>
-
 	</ion-content>
 </ion-view>

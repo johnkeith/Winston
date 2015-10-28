@@ -41,6 +41,17 @@
           background: #f8f8f8;
         }
       }
+      .tab-item {
+        max-width: 100%;
+      }
+      .tab-item-balanced-bg {
+        background: #33cd5f;
+        color: white;
+      }
+      .tab-item-calm-bg {
+        background: #11c1f3;
+        color: white;
+      }
     }
     ion-item {
       &.item-complex {

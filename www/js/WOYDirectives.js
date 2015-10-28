@@ -2,6 +2,17 @@
 
 var directives = angular.module('WOYDirectives', []);
 
+directives.directive('openInSafari', [function(){
+	return {
+		restrict: "A",
+		link: function($scope){
+			$scope.openInSafari = function(href){
+				window.open(href, '_system');
+			}
+		}
+	}
+}]);
+
 directives.directive('submitOnEnter', [function(){
 	return {
 		scope: {
@@ -33,11 +44,6 @@ directives.directive('ionItemWithDivider', [function(){
 			"shareSocially": "="
 		},
 		templateUrl: 'templates/ion-item-with-divider.html',
-		controller: function($scope){
-			$scope.openInSafari = function(href){
-				window.open(href, '_system');
-			}
-		}
 	}
 }]);
 

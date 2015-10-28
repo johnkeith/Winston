@@ -7719,6 +7719,14 @@ a.button {
       font-size: 0.9em; }
     .view-container .pane .item.item-input textarea {
       background: #f8f8f8; }
+    .view-container .pane .item .tab-item {
+      max-width: 100%; }
+    .view-container .pane .item .tab-item-balanced-bg {
+      background: #33cd5f;
+      color: white; }
+    .view-container .pane .item .tab-item-calm-bg {
+      background: #11c1f3;
+      color: white; }
     .view-container .pane ion-item.item-complex .item-content {
       padding: 16px;
       -webkit-transition: all ease-in-out 250ms;
