@@ -17,7 +17,7 @@
 			  	<p open-in-safari ng-click="openInSafari(recipe.sourceHref)">{{ recipe.recipeTitle }}</p>
 			  </div>
 		 		<div class="item tabs tabs-secondary tabs-icon-left">
-			  	<a class="tab-item tab-item-balanced-bg" href="#">
+			  	<a class="tab-item tab-item-balanced-bg" ng-click="selectRecipe(recipe)">
 				  	<i class="icon ion-ios-checkmark"></i> Select
 			  	</a>
 			  	<a class="tab-item tab-item-calm-bg" open-in-safari ng-click="openInSafari(recipe.sourceHref)">

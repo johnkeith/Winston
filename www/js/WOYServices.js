@@ -377,6 +377,10 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 			var randomRecipe = getRandomRecipe()
 			
 			if(randomRecipe != null){
+				var previousIngredients = currentRecipes[index].recipe.ingredients;
+
+				GroceriesService.removeIngredientsFromGroceryList(previousIngredients);
+
 				currentRecipes[index].recipe = randomRecipe.recipe; 
 
 				var ingredients = currentRecipes[index].recipe.ingredients;
@@ -388,6 +392,17 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 
 		recipesService.getCurrentRecipes = function(){
 			return currentRecipes;
+		}
+
+		recipesService.replaceRecipeAtIndex = function(index, recipe){
+			var previousIngredients = currentRecipes[index].recipe.ingredients;
+			GroceriesService.removeIngredientsFromGroceryList(previousIngredients);
+
+			currentRecipes[index].recipe = recipe;
+			var ingredients = currentRecipes[index].recipe.ingredients;
+
+			GroceriesService.addIngredientsToGroceriesList(ingredients);
+			saveCurrentRecipes();
 		}
 
 		function activate(){

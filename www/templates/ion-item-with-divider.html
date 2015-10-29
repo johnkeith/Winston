@@ -8,7 +8,7 @@
   <ion-option-button ng-show="recipeInfoIndex != totalRecipes" class="button-clear" ng-click="moveRecipe('down', recipeInfoIndex)">
     <i class="icon ion-arrow-down-c"></i>
   </ion-option-button>
-  <ion-option-button class="button-calm" ui-sref="pages.replaceFromSearch({recipeTitle: recipeInfo.recipe.recipeTitle, recipeIndex: recipeInfoIndex, recipeDate: recipeInfo.date})">
+  <ion-option-button class="button-calm" ng-click="closeOptionButtons()" ui-sref="pages.replaceFromSearch({recipeTitle: recipeInfo.recipe.recipeTitle, recipeIndex: recipeInfoIndex, recipeDate: recipeInfo.date})">
     <i class="icon ion-ios-search-strong"></i>
   </ion-option-button>
   <ion-option-button class="button-royal" ng-click="shareSocially(recipeInfo.recipe.recipeTitle, recipeInfo.recipe.sourceHref)">

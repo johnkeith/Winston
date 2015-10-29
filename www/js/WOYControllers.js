@@ -2,8 +2,8 @@
 
 var controllers = angular.module('WOYControllers', []);
 
-controllers.controller('SearchController', ['$scope', '$stateParams', 'RecipesService',
-	function($scope, $stateParams, RecipesService){
+controllers.controller('SearchController', ['$scope', '$stateParams', 'RecipesService', '$ionicHistory', '$ionicListDelegate',
+	function($scope, $stateParams, RecipesService, $ionicHistory){
 		$scope.recipeDate = $stateParams.recipeDate;
 		$scope.recipeTitle = $stateParams.recipeTitle;
 		$scope.recipeIndex = $stateParams.recipeIndex;
@@ -18,6 +18,11 @@ controllers.controller('SearchController', ['$scope', '$stateParams', 'RecipesSe
 			
 			$scope.scrollLimit += amount;
 	    $scope.$broadcast('scroll.infiniteScrollComplete');
+		}
+
+		$scope.selectRecipe = function(selectedRecipe){
+			RecipesService.replaceRecipeAtIndex($scope.recipeIndex, selectedRecipe);
+			$ionicHistory.goBack();
 		}
 	}
 ]);
@@ -127,7 +132,6 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$i
 		$scope.groceriesInfinite = GroceriesService.getGroceriesInfiniteScroll;
 		$scope.moreGroceries = function(){
 			GroceriesService.addMoreGroceries();
-			console.log(GroceriesService.getInfiniteScrollAmount());
 	    $scope.$broadcast('scroll.infiniteScrollComplete');
 		}
 
@@ -173,8 +177,8 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$i
 	}
 ]);
 
-controllers.controller('StartController', ['$scope', 'LocalStorage', 'RecipesService', '$ionicListDelegate', '$timeout', '$ionicModal',
-	function($scope, LocalStorage, RecipesService, $ionicListDelegate, $timeout, $ionicModal){
+controllers.controller('StartController', ['$rootScope', '$scope', 'LocalStorage', 'RecipesService', '$ionicListDelegate', '$timeout', '$ionicModal',
+	function($rootScope, $scope, LocalStorage, RecipesService, $ionicListDelegate, $timeout, $ionicModal){
 		$scope.listCanSwipe = true;
 		$scope.recipes = RecipesService.getCurrentRecipes;
 
@@ -211,6 +215,10 @@ controllers.controller('StartController', ['$scope', 'LocalStorage', 'RecipesSer
 	  	RecipesService.refreshRecipeAtIndex(index);
 	  	$ionicListDelegate.closeOptionButtons();
 	  }
+
+	  $rootScope.$on('$stateChangeStart', function(){
+	  	$ionicListDelegate.closeOptionButtons();
+	  });
 
 		$scope.getAllNewRecipes = function(){
 			RecipesService.fillWithRandomRecipes();
