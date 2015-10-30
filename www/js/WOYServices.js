@@ -107,9 +107,12 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 
 	groceriesService.emptyGroceriesList = function(){
 		emptyGroceriesList();
+
+		saveCurrentGroceriesList();
 	}
 
 	groceriesService.moveInGroceriesList = function(item, fromIndex, toIndex){
+		fromIndex -= 1, toIndex -= 1;
 		currentGroceriesList.splice(fromIndex, 1);
     currentGroceriesList.splice(toIndex, 0, item);
 
@@ -127,6 +130,8 @@ services.factory('GroceriesService', ['LocalStorage', function(LocalStorage){
 				}
 			});
 		});
+
+		saveCurrentGroceriesList();
 	}
 
 	groceriesService.addItemToGroceriesList = function(item){
