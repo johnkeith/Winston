@@ -170,6 +170,9 @@ controllers.controller('GroceriesController', ['$scope', 'GroceriesService', '$i
 		$scope.toggleReorder = function(){
 			$scope.showReorder = !$scope.showReorder;
 		}
+		$scope.hideReorder = function(){
+			$scope.showReorder = false;
+		}
 		$scope.reorderItem = function(item, fromIndex, toIndex){
 			GroceriesService.moveInGroceriesList(item, fromIndex, toIndex);
 		}

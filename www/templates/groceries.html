@@ -3,13 +3,13 @@
 		<button class="button button-clear" ng-click="toggleReorder()">Reorder</button>
   </ion-nav-buttons>
 	<ion-content delegate-handle="groceriesList">
+		<ion-item>
+			<label class="item-input-wrapper" ng-click="hideReorder()">
+	    	<i class="icon ion-ios-compose-outline placeholder-icon"></i>
+	    	<input class="ion-item__full-input" submit-on-enter submit-function="addItemToGroceriesList" type="search" placeholder="Add item to groceries list..." ng-model="itemInput.item" />
+		  </label>
+		</ion-item>
 		<ion-list can-swipe="true" show-reorder="showReorder">
-			<ion-item>
-				<label class="item-input-wrapper">
-		    	<i class="icon ion-ios-compose-outline placeholder-icon"></i>
-		    	<input class="ion-item__full-input" submit-on-enter submit-function="addItemToGroceriesList" type="search" placeholder="Add item to groceries list..." ng-model="itemInput.item" />
-			  </label>
-			</ion-item>
 			<ion-item on-hold="toggleReorder()" ng-show="(groceries().length > 0) && (getShowCompletedItems() == true || groceryItem.checked != true && getShowCompletedItems() == false)" class="item item-checkbox checkbox-balanced" ng-repeat="groceryItem in groceriesInfinite() track by $index">
 				<label class="checkbox">
 					<input type="checkbox" ng-checked="groceryItem.checked" ng-click="changeCheckedStatus(groceryItem, $index)" />
