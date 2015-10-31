@@ -1,4 +1,4 @@
-<ion-view view-title="Search" ng-controller="SearchController">
+<ion-view view-title="Search" ng-controller="ReplaceFromSearchController">
 	<ion-nav-bar class="bar-calm">
 		<ion-nav-back-button hide-back-button="true"></ion-nav-back-button>
   </ion-nav-bar>
@@ -6,7 +6,7 @@
 		<div class="list">
 			<div class="search-and-replace-input">
 				<label class="item item-input item-stacked-label">
-			    <span class="input-label">{{ recipeDate }}</span><br />
+			    <span class="input-label">Replace {{ recipeDate }}</span><br />
 			    <i class="icon ion-ios-search placeholder-icon"></i>
 			    <input type="text" placeholder="Search for replacement recipe..." ng-model="recipeSearch.recipeTitle">
 			  </label>

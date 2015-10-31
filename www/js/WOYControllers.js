@@ -2,7 +2,7 @@
 
 var controllers = angular.module('WOYControllers', []);
 
-controllers.controller('SearchController', ['$scope', '$stateParams', 'RecipesService', '$ionicHistory', '$ionicListDelegate',
+controllers.controller('ReplaceFromSearchController', ['$scope', '$stateParams', 'RecipesService', '$ionicHistory', '$ionicListDelegate',
 	function($scope, $stateParams, RecipesService, $ionicHistory){
 		$scope.recipeDate = $stateParams.recipeDate;
 		$scope.recipeTitle = $stateParams.recipeTitle;
