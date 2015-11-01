@@ -164,7 +164,7 @@ services.factory('RecipesService', ['$http', 'LocalStorage', 'RecipeData', 'Groc
 		var daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday',
 			'Friday', 'Saturday']
 		var monthsOfYear = ['January', 'February', 'March', 'April', 'May', 'June',
-			'July', 'August', 'September', 'October', 'Novemeber', 'December']
+			'July', 'August', 'September', 'October', 'November', 'December']
 		var historicalRecipes = [];
 		var maxHistoricalRecipes = 10;
 		var recipeFilterSettings = { 'Beef': true, 'Pork': true, 'Chicken': true, 'Seafood': true, 'Vegan': true, 'Vegetarian': true, 'Gluten-free': true };
