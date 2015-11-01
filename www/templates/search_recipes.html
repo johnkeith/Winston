@@ -1,14 +1,11 @@
-<ion-view view-title="Search" ng-controller="ReplaceFromSearchController">
-	<ion-nav-bar class="bar-calm">
-		<ion-nav-back-button hide-back-button="true"></ion-nav-back-button>
-  </ion-nav-bar>
+<ion-view view-title="Search" ng-controller="SearchController">
+	<ion-nav-buttons></ion-nav-buttons>
 	<ion-content has-list-with-scroll>
 		<div class="list">
 			<div class="search-recipes-input">
-				<label class="item item-input item-stacked-label">
-			    <span class="input-label">Replace {{ recipeDate }}</span><br />
+				<label class="item item-input item-input--no-top-padding item-stacked-label">
 			    <i class="icon ion-ios-search placeholder-icon"></i>
-			    <input type="text" placeholder="Search for replacement recipe..." ng-model="recipeSearch.recipeTitle">
+			    <input type="text" placeholder="Search for recipe..." ng-model="recipeSearch.recipeTitle">
 			  </label>
 			  <div class="item item-divider">Search Results</div>
 			</div>
@@ -17,8 +14,8 @@
 			  	<p open-in-safari ng-click="openInSafari(recipe.sourceHref)">{{ recipe.recipeTitle }}</p>
 			  </div>
 		 		<div class="item tabs tabs-secondary tabs-icon-left">
-			  	<a class="tab-item tab-item-balanced-bg" ng-click="selectRecipe(recipe)">
-				  	<i class="icon ion-ios-checkmark"></i> Select
+			  	<a class="tab-item tab-item-balanced-bg" ng-click="scheduleRecipe(recipe)">
+				  	<i class="icon ion-ios-calendar-outline"></i> Schedule
 			  	</a>
 			  	<a class="tab-item tab-item-calm-bg" open-in-safari ng-click="openInSafari(recipe.sourceHref)">
 			    	<i class="icon ion-android-compass"></i> View

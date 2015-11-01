@@ -7699,12 +7699,15 @@ a.button {
     background-color: inherit; }
     .view-container .pane .list:last-child.card {
       margin-bottom: 0; }
-    .view-container .pane .list .search-and-replace-input {
+    .view-container .pane .list .search-recipes-input {
       background: white; }
-      .view-container .pane .list .search-and-replace-input .ion-ios-search {
+      .view-container .pane .list .search-recipes-input .item-input--no-top-padding {
+        margin-top: -5px;
+        padding-top: 0; }
+      .view-container .pane .list .search-recipes-input .ion-ios-search {
         font-size: 14px;
         margin-top: 6px; }
-      .view-container .pane .list .search-and-replace-input input {
+      .view-container .pane .list .search-recipes-input input {
         display: inline-block;
         font-size: 16px;
         margin-top: 10px; }
@@ -7748,6 +7751,8 @@ a.button {
     .view-container .pane ion-item .ion-item__full-input {
       background: #eee;
       width: 100%; }
+    .view-container .pane .card .tab-item {
+      font-size: 14px; }
     .view-container .pane ion-infinite-scroll {
       height: 0px; }
     .view-container .pane .bar-footer .row {

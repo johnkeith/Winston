@@ -2,6 +2,36 @@
 
 var controllers = angular.module('WOYControllers', []);
 
+controllers.controller('SearchController', ['$scope', 'RecipesService', '$ionicActionSheet', '$ionicHistory', '$state',
+	function($scope, RecipesService, $ionicActionSheet, $ionicHistory, $state){
+		var actionSheet;
+		$scope.allRecipes = RecipesService.getAllRecipes;
+
+		$scope.scheduleRecipe = function(selectedRecipe){
+			var dateOptions = RecipesService.getCurrentRecipes().map(function(obj){
+				return { 'text': obj.date }
+			});
+
+			actionSheet = $ionicActionSheet.show({
+				titleText: 'Select day to use recipe...',
+				buttons: dateOptions,
+				cancelText: 'Cancel',
+				cancel: function(){
+					actionSheet();
+				},
+				buttonClicked: function(index){
+					RecipesService.replaceRecipeAtIndex(index, selectedRecipe);
+					$ionicHistory.nextViewOptions({
+					  disableBack: true
+					});
+					$state.go("pages.meals");
+					return true;
+				}
+			});
+		}
+	}
+]);
+
 controllers.controller('ReplaceFromSearchController', ['$scope', '$stateParams', '$state', 'RecipesService', '$ionicHistory',
 	function($scope, $stateParams, $state, RecipesService, $ionicHistory){
 		$scope.recipeDate = $stateParams.recipeDate;
@@ -10,23 +40,9 @@ controllers.controller('ReplaceFromSearchController', ['$scope', '$stateParams',
 
 		$scope.allRecipes = RecipesService.getAllRecipes;
 
-		$scope.scrollLimit = 20;
-		$scope.increaseScrollLimit = function(amount){
-			if(amount == undefined){
-				amount = 20;
-			} 
-			
-			$scope.scrollLimit += amount;
-	    $scope.$broadcast('scroll.infiniteScrollComplete');
-		}
-
 		$scope.selectRecipe = function(selectedRecipe){
 			RecipesService.replaceRecipeAtIndex($scope.recipeIndex, selectedRecipe);
 			$ionicHistory.goBack();
-			// $ionicHistory.nextViewOptions({
-			//   disableBack: true
-			// });
-			// $state.go("pages.meals");
 		}
 	}
 ]);

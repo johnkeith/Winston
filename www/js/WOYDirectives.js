@@ -2,6 +2,23 @@
 
 var directives = angular.module('WOYDirectives', []);
 
+directives.directive('hasListWithScroll', [function(){
+	return {
+		restrict: 'A',
+		link: function($scope){
+			$scope.scrollLimit = 20;
+			$scope.increaseScrollLimit = function(amount){
+				if(amount == undefined){
+					amount = 20;
+				} 
+				
+				$scope.scrollLimit += amount;
+		    $scope.$broadcast('scroll.infiniteScrollComplete');
+			}
+		}
+	}
+}]);
+
 directives.directive('openInSafari', [function(){
 	return {
 		restrict: "A",

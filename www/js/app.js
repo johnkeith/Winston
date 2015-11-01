@@ -70,6 +70,14 @@ app.config(['$stateProvider', '$urlRouterProvider',
             templateUrl: 'templates/replace_from_search.html'
           }
         }
+      })
+      .state('pages.search', {
+        url: '/search',
+        views: {
+          'pages': {
+            templateUrl: 'templates/search_recipes.html'
+          }
+        }
       });
     $urlRouterProvider.otherwise("/pages/meals");
   }

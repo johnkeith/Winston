@@ -9,8 +9,12 @@
       &:last-child.card {
         margin-bottom: 0;
       }
-      .search-and-replace-input {
+      .search-recipes-input {
         background: white;
+        .item-input--no-top-padding {
+          margin-top: -5px;
+          padding-top: 0;
+        }
         .ion-ios-search {
           font-size: 14px;
           margin-top: 6px;
@@ -91,6 +95,11 @@
       .ion-item__full-input {
         background: #eee;
         width: 100%;
+      }
+    }
+    .card {
+      .tab-item {
+        font-size: 14px;
       }
     }
     ion-infinite-scroll {
