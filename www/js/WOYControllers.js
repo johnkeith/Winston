@@ -2,8 +2,8 @@
 
 var controllers = angular.module('WOYControllers', []);
 
-controllers.controller('ReplaceFromSearchController', ['$scope', '$stateParams', 'RecipesService', '$ionicHistory', '$ionicListDelegate',
-	function($scope, $stateParams, RecipesService, $ionicHistory){
+controllers.controller('ReplaceFromSearchController', ['$scope', '$stateParams', '$state', 'RecipesService', '$ionicHistory',
+	function($scope, $stateParams, $state, RecipesService, $ionicHistory){
 		$scope.recipeDate = $stateParams.recipeDate;
 		$scope.recipeTitle = $stateParams.recipeTitle;
 		$scope.recipeIndex = $stateParams.recipeIndex;
@@ -22,7 +22,10 @@ controllers.controller('ReplaceFromSearchController', ['$scope', '$stateParams',
 
 		$scope.selectRecipe = function(selectedRecipe){
 			RecipesService.replaceRecipeAtIndex($scope.recipeIndex, selectedRecipe);
-			$ionicHistory.goBack();
+			$ionicHistory.nextViewOptions({
+			  disableBack: true
+			});
+			$state.go("pages.meals");
 		}
 	}
 ]);
