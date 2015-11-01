@@ -7760,6 +7760,12 @@ a.button {
       .view-container .pane .bar-footer .row button {
         border-radius: 0; }
 
+.action-sheet .action-sheet-group .action-sheet-option {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 18px; }
+
 .scroll-bar-indicator {
   display: none; }
 
@@ -7797,3 +7803,8 @@ a.button {
 .tutorial-modal .gray-header {
   color: gray;
   text-align: center; }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (max-device-height: 480px) {
+  .action-sheet-options {
+    overflow: scroll;
+    max-height: 300px; } }

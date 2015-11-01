@@ -116,6 +116,17 @@
 	}
 }
 
+.action-sheet {
+  .action-sheet-group {
+    .action-sheet-option {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      font-size: 18px;
+    }
+  }
+}
+
 .scroll-bar-indicator {
   display: none;
 }
@@ -175,4 +186,12 @@
   //   background: url("../img/mono_icon_full_color.svg");
   //   background-size: cover;
   // }
+}
+
+// fix action sheet height on iPhone 4
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (max-device-height : 480px){
+  .action-sheet-options {
+    overflow: scroll;
+    max-height: 300px;
+  }
 }
