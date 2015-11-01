@@ -22,10 +22,11 @@ controllers.controller('ReplaceFromSearchController', ['$scope', '$stateParams',
 
 		$scope.selectRecipe = function(selectedRecipe){
 			RecipesService.replaceRecipeAtIndex($scope.recipeIndex, selectedRecipe);
-			$ionicHistory.nextViewOptions({
-			  disableBack: true
-			});
-			$state.go("pages.meals");
+			$ionicHistory.goBack();
+			// $ionicHistory.nextViewOptions({
+			//   disableBack: true
+			// });
+			// $state.go("pages.meals");
 		}
 	}
 ]);
